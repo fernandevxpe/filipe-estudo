@@ -1,0 +1,358 @@
+{
+  "generated_from": {
+    "nota": "Questões extras autorais no estilo vestibular tradicional (FUVEST/UNICAMP/geral). Amplie este arquivo para aumentar o banco de 'extras' com gabarito."
+  },
+  "item_count": 10,
+  "items": [
+    {
+      "id": "extra_vest__q01",
+      "source": "extra_vestibular",
+      "exam_id": "extras_mistos",
+      "question_number": 1,
+      "area": "linguagens",
+      "study_topic": "Literatura — figurinha de linguagem",
+      "stem": "Em “O tempo voou”, a expressão destacada configura",
+      "options": [
+        {
+          "key": "A",
+          "text": "metáfora."
+        },
+        {
+          "key": "B",
+          "text": "metonímia."
+        },
+        {
+          "key": "C",
+          "text": "eufemismo."
+        },
+        {
+          "key": "D",
+          "text": "hipérbole."
+        },
+        {
+          "key": "E",
+          "text": "ironia."
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "extra_vest__q02",
+      "source": "extra_vestibular",
+      "exam_id": "extras_mistos",
+      "question_number": 2,
+      "area": "matematica",
+      "study_topic": "Funções — valor numérico",
+      "stem": "Se f(x) = 2x − 5, então f(4) vale",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        },
+        {
+          "key": "E",
+          "text": "13"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "extra_vest__q03",
+      "source": "extra_vestibular",
+      "exam_id": "extras_mistos",
+      "question_number": 3,
+      "area": "natureza",
+      "study_topic": "Química — ligações",
+      "stem": "A água (H₂O) no estado líquido apresenta principalmente ligações",
+      "options": [
+        {
+          "key": "A",
+          "text": "iônicas entre átomos de hidrogênio."
+        },
+        {
+          "key": "B",
+          "text": "covalentes e intermoleculares do tipo pontes de hidrogênio."
+        },
+        {
+          "key": "C",
+          "text": "metálicas entre oxigênio e hidrogênio."
+        },
+        {
+          "key": "D",
+          "text": "dipolo–dipolo induzido apenas, sem covalência."
+        },
+        {
+          "key": "E",
+          "text": "ion–dipolo exclusivamente no ar."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "extra_vest__q04",
+      "source": "extra_vestibular",
+      "exam_id": "extras_mistos",
+      "question_number": 4,
+      "area": "humanas",
+      "study_topic": "Filosofia — moral",
+      "stem": "Para o utilitarismo clássico, uma ação tende a ser moralmente correta quando",
+      "options": [
+        {
+          "key": "A",
+          "text": "obedece a um imperativo categórico independente de consequências."
+        },
+        {
+          "key": "B",
+          "text": "maximiza o bem-estar geral ou a felicidade da maioria."
+        },
+        {
+          "key": "C",
+          "text": "reproduz tradições ancestrais sem questionamento."
+        },
+        {
+          "key": "D",
+          "text": "prioriza exclusivamente a virtude do agente, ignorando resultados."
+        },
+        {
+          "key": "E",
+          "text": "é livre de qualquer norma social."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "extra_vest__q05",
+      "source": "extra_vestibular",
+      "exam_id": "extras_mistos",
+      "question_number": 5,
+      "area": "linguagens",
+      "study_topic": "Inglês — vocabulário",
+      "stem": "Em “She turned down the offer”, a expressão em destaque significa, em contexto usual,",
+      "options": [
+        {
+          "key": "A",
+          "text": "aceitou prontamente."
+        },
+        {
+          "key": "B",
+          "text": "recusou / disse não."
+        },
+        {
+          "key": "C",
+          "text": "aumentou o valor."
+        },
+        {
+          "key": "D",
+          "text": "adiou indefinidamente sem decidir."
+        },
+        {
+          "key": "E",
+          "text": "encaminhou a outra pessoa."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "extra_vest__q06",
+      "source": "extra_vestibular",
+      "exam_id": "extras_mistos",
+      "question_number": 6,
+      "area": "matematica",
+      "study_topic": "Probabilidade simples",
+      "stem": "Em um saco há 3 bolas vermelhas e 2 azuis, indistinguíveis ao tato. Ao retirar uma bola ao acaso, a probabilidade de ser vermelha é",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/5"
+        },
+        {
+          "key": "B",
+          "text": "2/5"
+        },
+        {
+          "key": "C",
+          "text": "3/5"
+        },
+        {
+          "key": "D",
+          "text": "1/2"
+        },
+        {
+          "key": "E",
+          "text": "3/2"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "extra_vest__q07",
+      "source": "extra_vestibular",
+      "exam_id": "extras_mistos",
+      "question_number": 7,
+      "area": "natureza",
+      "study_topic": "Biologia — genética",
+      "stem": "Em um indivíduo diploide, os cromossomos homólogos possuem",
+      "options": [
+        {
+          "key": "A",
+          "text": "sempre alelos idênticos em todos os loci."
+        },
+        {
+          "key": "B",
+          "text": "mesmo tamanho, centrômero e genes para mesmas características."
+        },
+        {
+          "key": "C",
+          "text": "origem exclusivamente materna."
+        },
+        {
+          "key": "D",
+          "text": "número de bases sempre diferente entre si."
+        },
+        {
+          "key": "E",
+          "text": "ausência de DNA em um dos pares."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "extra_vest__q08",
+      "source": "extra_vestibular",
+      "exam_id": "extras_mistos",
+      "question_number": 8,
+      "area": "humanas",
+      "study_topic": "Sociologia — desigualdade",
+      "stem": "A ascensão social via educação formal, embora possível, é frequentemente limitada por",
+      "options": [
+        {
+          "key": "A",
+          "text": "ausência total de meritocracia em qualquer sociedade."
+        },
+        {
+          "key": "B",
+          "text": "fatores estruturais como renda familiar e qualidade do ensino básico."
+        },
+        {
+          "key": "C",
+          "text": "proibição legal de acesso ao ensino superior."
+        },
+        {
+          "key": "D",
+          "text": "eliminação de qualquer herança cultural."
+        },
+        {
+          "key": "E",
+          "text": "fim do trabalho assalariado."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "extra_vest__q09",
+      "source": "extra_vestibular",
+      "exam_id": "extras_mistos",
+      "question_number": 9,
+      "area": "matematica",
+      "study_topic": "Porcentagem",
+      "stem": "Em uma promoção, o preço de um produto de R$ 200,00 sofre acréscimo de 15%. O novo preço, em reais, é",
+      "options": [
+        {
+          "key": "A",
+          "text": "215"
+        },
+        {
+          "key": "B",
+          "text": "220"
+        },
+        {
+          "key": "C",
+          "text": "225"
+        },
+        {
+          "key": "D",
+          "text": "230"
+        },
+        {
+          "key": "E",
+          "text": "235"
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "extra_vest__q10",
+      "source": "extra_vestibular",
+      "exam_id": "extras_mistos",
+      "question_number": 10,
+      "area": "linguagens",
+      "study_topic": "Redação — coerência",
+      "stem": "Qual recurso contribui mais diretamente para a coerência entre parágrafos de um texto dissertativo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Repetição exata da mesma frase dez vezes."
+        },
+        {
+          "key": "B",
+          "text": "Uso de conectivos e retomada de ideias com substituição lexical adequada."
+        },
+        {
+          "key": "C",
+          "text": "Mistura aleatória de temas sem parágrafo de conclusão."
+        },
+        {
+          "key": "D",
+          "text": "Eliminação de tese para evitar polêmica."
+        },
+        {
+          "key": "E",
+          "text": "Uso exclusivo de períodos sem verbo."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "_comment": "Composição da rodada 'Plano do dia' (ENEM real + SSA-PE + extras com gabarito). Ajuste os números; a soma costuma ser a meta diária (15).",
+  "total_target": 15,
+  "from_kind": {
+    "enem": 10,
+    "ssa": 3,
+    "extra": 2
+  }
+}

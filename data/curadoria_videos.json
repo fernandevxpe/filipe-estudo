@@ -1,0 +1,26 @@
+{
+  "_policy": "Vínculos curados por tópico; revisar trimestralmente. Critério: canal educacional, proporção likes/views, sem duplicar o mesmo assunto.",
+  "topics": [
+    {
+      "topic_id": "interpretacao_texto",
+      "label": "Interpretação de texto (ENEM Linguagens)",
+      "youtube_query": "interpretação de texto ENEM aula",
+      "suggested_channels": ["Ferretto", "Professor Noslen", "Descomplica"],
+      "videos": []
+    },
+    {
+      "topic_id": "funcoes_afim",
+      "label": "Função afim e gráficos",
+      "youtube_query": "função afim ENEM",
+      "suggested_channels": ["Ferretto", "Mathematicamente"],
+      "videos": []
+    },
+    {
+      "topic_id": "ssa_ritmo_prova",
+      "label": "SSA UPE — ritmo de prova e estratégia",
+      "youtube_query": "SSA UPE dicas prova",
+      "suggested_channels": [],
+      "videos": []
+    }
+  ]
+}

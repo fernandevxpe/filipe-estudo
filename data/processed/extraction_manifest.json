@@ -1,0 +1,294 @@
+{
+  "items": [
+    "data/processed/enem/2020/dia1/cd1/prova.json",
+    "data/processed/enem/2020/dia1/cd2/prova.json",
+    "data/processed/enem/2020/dia1/cd3/prova.json",
+    "data/processed/enem/2020/dia1/cd4/prova.json",
+    "data/processed/enem/2020/dia2/cd5/prova.json",
+    "data/processed/enem/2020/dia2/cd6/prova.json",
+    "data/processed/enem/2020/dia2/cd7/prova.json",
+    "data/processed/enem/2020/dia2/cd8/prova.json",
+    "data/processed/enem/2021/dia1/cd1/prova.json",
+    "data/processed/enem/2021/dia1/cd2/prova.json",
+    "data/processed/enem/2021/dia1/cd3/prova.json",
+    "data/processed/enem/2021/dia1/cd4/prova.json",
+    "data/processed/enem/2021/dia2/cd5/prova.json",
+    "data/processed/enem/2021/dia2/cd6/prova.json",
+    "data/processed/enem/2021/dia2/cd7/prova.json",
+    "data/processed/enem/2021/dia2/cd8/prova.json",
+    "data/processed/enem/2022/dia1/cd1/prova.json",
+    "data/processed/enem/2022/dia1/cd2/prova.json",
+    "data/processed/enem/2022/dia1/cd3/prova.json",
+    "data/processed/enem/2022/dia1/cd4/prova.json",
+    "data/processed/enem/2022/dia2/cd5/prova.json",
+    "data/processed/enem/2022/dia2/cd6/prova.json",
+    "data/processed/enem/2022/dia2/cd7/prova.json",
+    "data/processed/enem/2022/dia2/cd8/prova.json",
+    "data/processed/enem/2023/dia1/cd1/prova.json",
+    "data/processed/enem/2023/dia1/cd2/prova.json",
+    "data/processed/enem/2023/dia1/cd3/prova.json",
+    "data/processed/enem/2023/dia1/cd4/prova.json",
+    "data/processed/enem/2023/dia2/cd5/prova.json",
+    "data/processed/enem/2023/dia2/cd6/prova.json",
+    "data/processed/enem/2023/dia2/cd7/prova.json",
+    "data/processed/enem/2023/dia2/cd8/prova.json",
+    "data/processed/enem/2024/dia1/cd1/prova.json",
+    "data/processed/enem/2024/dia1/cd2/prova.json",
+    "data/processed/enem/2024/dia1/cd3/prova.json",
+    "data/processed/enem/2024/dia1/cd4/prova.json",
+    "data/processed/enem/2024/dia2/cd5/prova.json",
+    "data/processed/enem/2024/dia2/cd6/prova.json",
+    "data/processed/enem/2024/dia2/cd7/prova.json",
+    "data/processed/enem/2024/dia2/cd8/prova.json",
+    "data/processed/enem/2025/dia1/cd1/prova.json",
+    "data/processed/enem/2025/dia1/cd2/prova.json",
+    "data/processed/enem/2025/dia1/cd3/prova.json",
+    "data/processed/enem/2025/dia1/cd4/prova.json",
+    "data/processed/enem/2025/dia2/cd5/prova.json",
+    "data/processed/enem/2025/dia2/cd6/prova.json",
+    "data/processed/enem/2025/dia2/cd7/prova.json",
+    "data/processed/enem/2025/dia2/cd8/prova.json"
+  ],
+  "gabaritos": [
+    {
+      "pdf": "data/raw/enem/2020/dia1/cd1/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2020/dia1/cd2/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2020/dia1/cd3/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2020/dia1/cd4/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2020/dia2/cd5/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2020/dia2/cd6/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2020/dia2/cd7/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2020/dia2/cd8/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2021/dia1/cd1/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2021/dia1/cd2/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2021/dia1/cd3/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2021/dia1/cd4/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2021/dia2/cd5/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2021/dia2/cd6/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2021/dia2/cd7/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2021/dia2/cd8/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2022/dia1/cd1/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2022/dia1/cd2/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2022/dia1/cd3/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2022/dia1/cd4/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2022/dia2/cd5/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2022/dia2/cd6/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2022/dia2/cd7/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2022/dia2/cd8/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2023/dia1/cd1/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2023/dia1/cd2/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2023/dia1/cd3/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2023/dia1/cd4/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2023/dia2/cd5/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2023/dia2/cd6/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2023/dia2/cd7/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2023/dia2/cd8/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2024/dia1/cd1/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2024/dia1/cd2/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2024/dia1/cd3/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2024/dia1/cd4/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2024/dia2/cd5/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2024/dia2/cd6/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2024/dia2/cd7/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2024/dia2/cd8/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2025/dia1/cd1/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2025/dia1/cd2/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2025/dia1/cd3/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2025/dia1/cd4/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2025/dia2/cd5/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2025/dia2/cd6/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2025/dia2/cd7/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    },
+    {
+      "pdf": "data/raw/enem/2025/dia2/cd8/gabarito.pdf",
+      "confidence": "unknown",
+      "note": "Parse de gabarito PDF não implementado; use leitura humana ou futura extração por OCR."
+    }
+  ]
+}

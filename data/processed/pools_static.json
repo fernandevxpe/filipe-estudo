@@ -1,0 +1,19 @@
+{
+  "_comment": "Pools fixos (SSA-PE, extras). O batch ENEM faz merge deste arquivo ao regenerar items_index.json.",
+  "pools": [
+    {
+      "id": "ssa_upe_amostra",
+      "path": "items_ssa_upe_amostra.json",
+      "label": "SSA UPE — amostra estilo prova (8 q)",
+      "area": "mista",
+      "kind": "ssa"
+    },
+    {
+      "id": "extras_vestibulares",
+      "path": "items_extras_vestibulares.json",
+      "label": "Extras — estilo vestibular / similares (10 q)",
+      "area": "mista",
+      "kind": "extra"
+    }
+  ]
+}

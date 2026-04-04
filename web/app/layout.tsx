@@ -1,0 +1,56 @@
+import type { Metadata, Viewport } from "next";
+import localFont from "next/font/local";
+import "./globals.css";
+import Link from "next/link";
+
+const geistSans = localFont({
+  src: "./fonts/GeistVF.woff",
+  variable: "--font-geist-sans",
+  weight: "100 900",
+});
+
+export const metadata: Metadata = {
+  title: "Filipe — Estudo ENEM + SSA UPE",
+  description: "Questões reais, pontuação e acompanhamento — Filipe Monteiro",
+  manifest: "/manifest.json",
+  appleWebApp: { capable: true, title: "Filipe Estudo" },
+};
+
+export const viewport: Viewport = {
+  themeColor: "#0f172a",
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html lang="pt-BR">
+      <body className={`${geistSans.variable} font-sans min-h-screen`}>
+        <header className="border-b border-slate-800 bg-slate-900/80 backdrop-blur sticky top-0 z-10">
+          <div className="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+            <Link href="/" className="text-lg font-semibold text-sky-300 hover:text-sky-200">
+              Filipe · Estudo
+            </Link>
+            <nav className="flex flex-wrap gap-x-4 gap-y-1 text-sm text-slate-300">
+              <Link href="/" className="hover:text-white">
+                Painel
+              </Link>
+              <Link href="/guia" className="hover:text-white">
+                Estudo do dia
+              </Link>
+              <Link href="/study" className="hover:text-white">
+                Atividades
+              </Link>
+              <Link href="/diagnostico" className="hover:text-amber-200/90">
+                Diagnóstico
+              </Link>
+            </nav>
+          </div>
+        </header>
+        <main className="max-w-5xl mx-auto px-4 py-8 w-full min-w-0">{children}</main>
+      </body>
+    </html>
+  );
+}

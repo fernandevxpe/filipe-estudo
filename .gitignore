@@ -1,0 +1,27 @@
+# PDFs e binários grandes (mantenha apenas manifest + checksums no git)
+data/raw/**/*.pdf
+data/raw/**/*.zip
+# Imagens em data/assets são necessárias para deploy (Vercel); ~300MB — Git LFS opcional se o GitHub reclamar
+*.sqlite
+*.db
+web/data/*.sqlite
+# Gerado por `npm run build` / sync-assets (cópia para estático)
+web/public/data/assets/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+.next/
+out/
+dist/
+.env
+.env.local
+
+# OS
+.DS_Store

@@ -1,0 +1,1615 @@
+{
+  "generated_from": {
+    "prova": "data/processed/enem/2020/dia1/cd3/prova.json",
+    "gabarito": "data/raw/enem/2020/dia1/cd3/gabarito.pdf"
+  },
+  "item_count": 44,
+  "items": [
+    {
+      "id": "enem__2020__dia1__cd3__prova__q01",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 1,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "A Minor Bird\nI have wished a bird would fly away,\nAnd not sing by my house all day;\nHave clapped my hands at him from the door\nWhen it seemed as if I could bear no more.\nThe fault must partly have been in me.\nThe bird was not to blame for his key.\nAnd of course there must be something wrong\nIn wanting to silence any song.\nFROST, R. West-running Brook. New York: Henry Holt and Company, 1928.\nNo poema de Robert Frost, as palavras “fault” e “blame” \nrevelam por parte do eu lírico uma",
+      "options": [
+        {
+          "key": "A",
+          "text": "culpa por não poder cuidar do pássaro."
+        },
+        {
+          "key": "B",
+          "text": "atitude errada por querer matar o pássaro."
+        },
+        {
+          "key": "C",
+          "text": "necessidade de entender o silêncio do pássaro."
+        },
+        {
+          "key": "D",
+          "text": "sensibilização com relação à natureza do pássaro."
+        },
+        {
+          "key": "E",
+          "text": "irritação quanto à persistência do canto do pássaro."
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p1.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p2.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q02",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 2,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Finally, Aisha finished with her customer and asked \nwhat colour Ifemelu wanted for her hair attachments.\n“Colour four.”\n“Not good colour,” Aisha said promptly.\n“That’s what I use.”\n“It look dirty. You don’t want colour one?”\n“Colour one is too black, it looks fake,” Ifemelu said, \nloosening her headwrap. “Sometimes I use colour two, \nbut colour four is closest to my natural colour.”\n[...]\nShe touched Ifemelu’s hair. “Why you don’t have \nrelaxer?”\n“I like my hair the way God made it.”\n“But how you comb it? Hard to comb,” Aisha said.\nIfemelu had brought her own comb. She gently combed \nher hair, dense, soft and tightly coiled, until it framed her \nhead like a halo. “It’s not hard to comb if you moisturize \nit properly,” she said, slipping into the coaxing tone of the \nproselytizer that she used whenever she was trying to \nconvince other black women about the merits of wearing \ntheir hair natural. Aisha snorted; she clearly could not \nunderstand why anybody would choose to suffer through \ncombing natural hair, instead of simply relaxing it. She \nsectioned out Ifemelu’s hair, plucked a little attachment \nfrom the pile on the table and began deftly to twist.\nADICHIE, C. Americanah: A novel. New York: Anchor Books, 2013.\nA passagem do romance da escritora nigeriana traz \num diálogo entre duas mulheres negras: a cabeleireira, \nAisha, e a cliente, Ifemelu. O posicionamento da cliente é \nsustentado por argumentos que",
+      "options": [
+        {
+          "key": "A",
+          "text": "reforçam um padrão de beleza."
+        },
+        {
+          "key": "B",
+          "text": "retratam um conflito de gerações."
+        },
+        {
+          "key": "C",
+          "text": "revelam uma atitude de resistência."
+        },
+        {
+          "key": "D",
+          "text": "demonstram uma postura de imaturidade."
+        },
+        {
+          "key": "E",
+          "text": "evidenciam uma mudança de comportamento."
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p1.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p2.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q03",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 3,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "A Mother in a Refugee Camp\nNo Madonna and Child could touch\nHer tenderness for a son\nShe soon would have to forget... \nThe air was heavy with odors of diarrhea,\nOf unwashed children with washed-out ribs\nAnd dried-up bottoms waddling in labored steps\nBehind blown-empty bellies. Other mothers there\nHad long ceased to care, but not this one:\nShe held a ghost-smile between her teeth,\nand in her eyes the memory\nOf a mother’s pride... She had bathed him\nAnd rubbed him down with bare palms.\nShe took from their bundle of possessions\nA broken comb and combed\nThe rust-colored hair left on his skull\nAnd then — humming in her eyes — began carefully \t\n      [to part it.\nIn their former life this was perhaps\nA little daily act of no consequence\nBefore his breakfast and school; now she did it\nLike putting flowers on a tiny grave.\nACHEBE, C. Collected Poems. New York: Anchor Books, 2004.\nO escritor nigeriano Chinua Achebe traz uma reflexão \nsobre a situação dos refugiados em um cenário pós-guerra \ncivil em seu país. Essa reflexão é construída no poema \npor meio da representação de uma mãe, explorando a(s)",
+      "options": [
+        {
+          "key": "A",
+          "text": "demonstração de orgulho por não precisar pedir"
+        },
+        {
+          "key": "B",
+          "text": "descrições artísticas detalhadas de uma obra"
+        },
+        {
+          "key": "C",
+          "text": "aceitação de um diagnóstico de doença terminal do"
+        },
+        {
+          "key": "D",
+          "text": "consternação ao visitar o túmulo do filho recém-falecido."
+        },
+        {
+          "key": "E",
+          "text": "impressões sensoriais experimentadas no ambiente."
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p1.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p2.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q04",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 4,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Disponível em: https://sites.psu.edu. Acesso em: 12 jun. 2018.\nOs recursos usados nesse pôster de divulgação de uma \ncampanha levam o leitor a refletir sobre a necessidade de",
+      "options": [
+        {
+          "key": "A",
+          "text": "criticar o tipo de tratamento dado à mulher."
+        },
+        {
+          "key": "B",
+          "text": "rever o desempenho da mulher no trabalho."
+        },
+        {
+          "key": "C",
+          "text": "questionar a sobrecarga de atribuições da mulher."
+        },
+        {
+          "key": "D",
+          "text": "analisar as pesquisas acerca dos direitos da mulher."
+        },
+        {
+          "key": "E",
+          "text": "censurar a mulher pelo uso de determinadas palavras."
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p2.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p3.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q05",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 5,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Disponível em: www.csuchico.edu. Acesso em: 11 dez. 2017.\nNesse pôster de divulgação de uma campanha que \naborda a diversidade e a inclusão, a interação dos \nelementos verbais e não verbais faz referência ao ato de",
+      "options": [
+        {
+          "key": "A",
+          "text": "estereotipar povos de certas culturas."
+        },
+        {
+          "key": "B",
+          "text": "discriminar hábitos de grupos minoritários."
+        },
+        {
+          "key": "C",
+          "text": "banir imigrantes de determinadas origens."
+        },
+        {
+          "key": "D",
+          "text": "julgar padrões de beleza de diversas etnias."
+        },
+        {
+          "key": "E",
+          "text": "desvalorizar costumes de algumas sociedades."
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p2.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p3.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q06",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 6,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Slam do Corpo é um encontro pensado para surdos \ne ouvintes, existente desde 2014, em São Paulo. Uma \niniciativa pioneira do grupo Corposinalizante, criado em \n2008. (Antes de seguirmos, vale a explicação: o termo \nslam vem do inglês e significa — numa nova acepção \npara o verbo geralmente utilizado para dizer “bater com \nforça” — a “poesia falada nos ritmos das palavras e da \ncidade”). Nos saraus, o primeiro objetivo foi o de botar \nos poemas em Libras na roda, colocar os surdos para \ncircular e entender esse encontro entre a poesia e a língua \nde sinais, compreender o encontro dessas duas línguas. \nPoemas de autoria própria, três minutos, um microfone. \nSem figurino, nem adereços, nem acompanhamento \nmusical. O que vale é modular a voz e o corpo, um \ntrabalho artesanal de tornar a palavra “visível”, numa \narena cujo objetivo maior é o de emocionar a plateia, tirar \no público da passividade, seja pelo humor, horror, caos, \ndoçura e outras tantas sensações.\nNOVELLI, G. Poesia incorporada. Revista Continente, n. 189, set. 2016 (adaptado).\nNa prática artística mencionada no texto, o corpo assume \npapel de destaque ao articular diferentes linguagens com \no intuito de",
+      "options": [
+        {
+          "key": "A",
+          "text": "imprimir ritmo e visibilidade à expressão poética."
+        },
+        {
+          "key": "B",
+          "text": "redefinir o espaço de circulação da poesia urbana."
+        },
+        {
+          "key": "C",
+          "text": "estimular produções autorais de usuários de Libras."
+        },
+        {
+          "key": "D",
+          "text": "traduzir expressões verbais para a língua de sinais."
+        },
+        {
+          "key": "E",
+          "text": "proporcionar performances estéticas de pessoas"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p5.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p6.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q07",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 7,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "É possível afirmar que muitas expressões idiomáticas \ntransmitidas pela cultura regional possuem autores \nanônimos, no entanto, algumas delas surgiram em \nconsequência de contextos históricos bem curiosos. \n“Aquele é um cabra da peste” é um bom exemplo dessas \nconstruções.\nPara compreender essa expressão tão repetida no \nNordeste brasileiro, faz-se necessário voltar o olhar para o \nséculo 16. “Cabra” remete à forma com que os navegadores \nportugueses chamavam os índios. Já “peste” estaria ligada \nà questão da superação e resistência, ou mesmo uma \nassociação com o diabo. Assim, com o passar dos anos, \npassou-se a utilizar tal expressão para denominar qualquer \nindivíduo que se mostre corajoso, ou mesmo insolente, já \nque a expressão pode ter caráter positivo ou negativo. Aliás, \nquem já não ficou de “nhe-nhe-nhém” por aí? O termo, que \nnormalmente tem significado de conversa interminável, \nmonótona ou resmungo, tem origem no tupi-guarani e \n“nhém” significa “falar”.\nDisponível em: http://leiturasdahistoria.uol.com.br. Acesso em: 13 dez. 2017.\nA leitura do texto permite ao leitor entrar em contato com",
+      "options": [
+        {
+          "key": "A",
+          "text": "registros do inventário do português brasileiro."
+        },
+        {
+          "key": "B",
+          "text": "justificativas da variedade linguística do país."
+        },
+        {
+          "key": "C",
+          "text": "influências da fala do nordestino no uso da língua."
+        },
+        {
+          "key": "D",
+          "text": "explorações do falar de um grupo social específico."
+        },
+        {
+          "key": "E",
+          "text": "representações da mudança linguística do português."
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p5.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p6.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q08",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 8,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "O ouro do século 21\nCério, gadolínio, lutécio, promécio e érbio; sumário, \ntérbio e disprósio; hólmio, túlio e itérbio. Essa lista de nomes \nesquisitos e pouco conhecidos pode parecer a escalação \nde um time de futebol, que ainda teria no banco de reservas \nlantânio, neodímio, praseodímio, európio, escândio e ítrio. \nMas esses 17 metais, chamados de terras-raras, fazem \nparte da vida de quase todos os humanos do planeta. \nChamados por muitos de “ouro do século 21”, “elementos do \nfuturo” ou “vitaminas da indústria”, eles estão nos materiais \nusados na fabricação de lâmpadas, telas de computadores, \ntablets e celulares, motores de carros elétricos, baterias e \naté turbinas eólicas. Apesar de tantas aplicações, o Brasil, \ndono da segunda maior reserva do mundo desses metais, \nparou de extraí-los e usá-los em 2002. Agora, volta a pensar \nem retomar sua exploração.\nSILVEIRA, E. Disponível em: www.revistaplaneta.com.br. \nAcesso em: 6 dez. 2017 (adaptado).\nAs aspas sinalizam expressões metafóricas empregadas \nintencionalmente pelo autor do texto para",
+      "options": [
+        {
+          "key": "A",
+          "text": "imprimir um tom irônico à reportagem."
+        },
+        {
+          "key": "B",
+          "text": "incorporar citações de especialistas à reportagem."
+        },
+        {
+          "key": "C",
+          "text": "atribuir maior valor aos metais, objeto da reportagem."
+        },
+        {
+          "key": "D",
+          "text": "esclarecer"
+        },
+        {
+          "key": "E",
+          "text": "marcar a apropriação de termos de outra ciência pela"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p5.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p6.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q09",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 9,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Na sua imaginação perturbada sentia a natureza toda \nagitando-se para sufocá-la. Aumentavam as sombras. No \ncéu, nuvens colossais e túmidas rolavam para o abismo do \nhorizonte... Na várzea, ao clarão indeciso do crepúsculo, \nos seres tomavam ares de monstros... As montanhas, \nsubindo ameaçadoras da terra, perfilavam-se tenebrosas... \nOs caminhos, espreguiçando-se sobre os campos, \nanimavam-se quais serpentes infinitas... As árvores soltas \nchoravam ao vento, como carpideiras fantásticas da \nnatureza morta... Os aflitivos pássaros noturnos gemiam \nagouros com pios fúnebres. Maria quis fugir, mas os \nmembros cansados não acudiam aos ímpetos do medo \ne deixavam-na prostrada em uma angústia desesperada.\nARANHA, J. P. G. Canaã. São Paulo: Ática, 1997.\nNo trecho, o narrador mobiliza recursos de linguagem que \ngeram uma expressividade centrada na percepção da",
+      "options": [
+        {
+          "key": "A",
+          "text": "relação entre a natureza opressiva e o desejo de"
+        },
+        {
+          "key": "B",
+          "text": "confluência entre o estado emocional da personagem"
+        },
+        {
+          "key": "C",
+          "text": "prevalência do mundo natural em relação à fragilidade"
+        },
+        {
+          "key": "D",
+          "text": "depreciação do sentido da vida diante da consciência"
+        },
+        {
+          "key": "E",
+          "text": "instabilidade psicológica da personagem face à"
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p5.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p6.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q10",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 10,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "O suor para estar em competições nacionais e \ninternacionais de alto nível é o mesmo para homens e \nmulheres, mas não raramente as remunerações são \nmenores para elas. Se no tênis, um dos esportes mais \nequânimes em termos de gênero, todos os principais \ntorneios oferecem prêmios idênticos nas disputas \nfemininas e masculinas, no futebol a desigualdade atinge \nseu ápice. Neymar e Marta são dois expoentes dessa \npaixão nacional. Ela já foi eleita cinco vezes a melhor \njogadora do mundo pela Fifa. Ele conquistou o terceiro \nlugar na última votação para melhor do mundo. Mas é na \nconta bancária que a diferença entre os dois se sobressai.\nDisponível em: http://apublica.org. Acesso em: 9 ago. 2017 (adaptado).\nO esporte é uma manifestação cultural na qual se \nestabelecem relações sociais. Considerando o texto, o \nfutebol é uma modalidade que",
+      "options": [
+        {
+          "key": "A",
+          "text": "apresenta proximidades com o tênis, no que tange às"
+        },
+        {
+          "key": "B",
+          "text": "se caracteriza por uma identidade masculina no"
+        },
+        {
+          "key": "C",
+          "text": "traz remunerações, aos jogadores e jogadoras,"
+        },
+        {
+          "key": "D",
+          "text": "resulta em melhor eficiência para as mulheres e,"
+        },
+        {
+          "key": "E",
+          "text": "possui jogadores e jogadoras com a mesma"
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p6.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p7.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q11",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 11,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Fomos falar com o tal encarregado, depois com um \nengenheiro, depois com um supervisor que mandou \nchamar um engenheiro da nossa companhia. Esses \nhomens são da sua companhia, engenheiro, ele falou, \nestão pedindo a conta. A companhia está empenhada \nnessa ponte, gente, falou o engenheiro, vocês não \npodem sair assim sem mais nem menos. Tinha uma \nserra circular cortando uns caibros ali perto, então \nsó dava pra falar quando a serra parava, e aquilo foi \ndando nos nervos.\nFalei que a gente tinha o direito de sair quando a \ngente quisesse, e pronto. Nisso encostou um sujeito \nde paletó mas sem gravata, o engenheiro continuou \nfalando e a serra cortando. Quando ele parou de falar, \n50 Volts aproveitou uma parada da serra e falou que \na gente não era bicho pra trabalhar daquele jeito; daí \no supervisor falou que, se era falta de mulher, eles \ndavam um jeito. O engenheiro falou que tinha mais \nde vinte companhias trabalhando na ponte, a maioria \ncom prejuízo, porque era mais uma questão de honra, \na gente tinha de acabar a ponte, a nossa companhia \nnunca ia esquecer nosso trabalho ali naquela ponte, \num orgulho nacional.\nPELLEGRINI, D. A maior ponte do mundo. In: \nMelhores contos. São Paulo: Global, 2005.\nAs reivindicações dos operários, quanto às condições \naviltantes de trabalho a que são submetidos, recebem \nalgumas tentativas de neutralização dos representantes \ndo empregador, das quais a mais forte é o(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "sequência de atribuição de responsabilidades e de"
+        },
+        {
+          "key": "B",
+          "text": "solicitação em nome dos prejuízos e compromissos"
+        },
+        {
+          "key": "C",
+          "text": "intimidação pela discreta presença de um agente de"
+        },
+        {
+          "key": "D",
+          "text": "promessa de imediato atendimento da carência"
+        },
+        {
+          "key": "E",
+          "text": "apelo pela identificação com a empresa extensiva ao"
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p6.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p7.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q12",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 12,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Disponível em: www.bhaz.com.br. Acesso em: 14 jun. 2018.\nEssa campanha de conscientização sobre o assédio \nsofrido pelas mulheres nas ruas constrói-se pela \ncombinação da linguagem verbal e não verbal. A imagem \nda mulher com o nariz e a boca cobertos por um lenço é \na representação não verbal do(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "silêncio imposto às mulheres, que não podem"
+        },
+        {
+          "key": "B",
+          "text": "metáfora de que as mulheres precisam defender-se"
+        },
+        {
+          "key": "C",
+          "text": "constrangimento pelo qual passam as mulheres e"
+        },
+        {
+          "key": "D",
+          "text": "necessidade que as mulheres têm de passarem"
+        },
+        {
+          "key": "E",
+          "text": "incapacidade de as mulheres protegerem-se da"
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p7.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p8.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q13",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 13,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Mulher tem coração clinicamente partido após morte \nde cachorro\nComo explica o The New England Journal of \nMedicine, a paciente, chamada Joanie Simpson, tinha \nsinais de infarto, como dores no peito e pressão alta, \ne apresentava problemas nas artérias coronárias. Ao \nfazerem um ecocardiograma, os médicos encontraram o \nproblema: cardiomiopatia de Takotsubo, conhecida como \nsíndrome do coração partido.\nEssa condição médica tipicamente acontece com \nmulheres em fase pós-menstrual e pode ser precedida \npor um evento muito estressante ou emotivo. Nesses \ncasos, o coração apresenta um movimento discinético \ntransitório da parede anterior do ventrículo esquerdo, com \nacentuação da cinética da base ventricular, de acordo \ncom um artigo médico brasileiro que relata um caso \nsemelhante. Simpson foi encaminhada para casa após \ndois dias e passou a tomar medicamentos regulares. \nAo Washington Post, ela contou que estava quase \ninconsolável após a perda do seu animal de estimação, \num cão da raça yorkshire terrier. Recuperada após cerca \nde um ano, ela diz que não abrirá mão de ter um animal \nde estimação porque aprecia a companhia e o amor que \nos cachorros dão aos humanos. O caso aconteceu em \nHouston, nos Estados Unidos. \nDisponível em: https://exame.abril.com.br. Acesso em: 1 dez. 2017.\nPelas características do texto lido, que trata das \nconsequências da perda de um animal de estimação, \nconsidera-se que ele se enquadra no gênero",
+      "options": [
+        {
+          "key": "A",
+          "text": "conto, pois exibe a história de vida de Joanie Simpson."
+        },
+        {
+          "key": "B",
+          "text": "depoimento, pois expõe o sofrimento da dona do"
+        },
+        {
+          "key": "C",
+          "text": "reportagem,"
+        },
+        {
+          "key": "D",
+          "text": "relato, pois narra um fato estressante vivido pela"
+        },
+        {
+          "key": "E",
+          "text": "notícia, pois divulga fatos sobre a síndrome do"
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p7.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p8.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q14",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 14,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Chiquito tinha quase trinta quando conheceu Mariana \nnum baile de casamento na Forquilha, onde moravam \nuns parentes dele. Por lá foi ficando, remanchando. Fez \nmal à moça, como costumavam dizer, tiveram de casar às \npressas. Morou uns tempos com o sogro, descombinaram. \nFoi só conta de colher o milho e vender. Mudou pra casa \ndo velho Chico Lourenço [seu pai]. Fumaça própria só viu \nsubir um par de anos depois, quando o pai repartiu as \nterras. De tão parecidos, pai e filho nunca combinaram \ndireito. Cada qual mais topetudo, muitas vezes dona \nAparecida ouvia o marido reclamar da natureza forte do \nfilho. Ela escutava com paciência e respondia dum jeito \nsempre igual:\n— “Quem herda, não rouba”. \nVinha um brilho nos olhos, o velho se acalmava.\nROMANO, O. Casos de Minas. Rio de Janeiro: Paz e Terra, 1982. \nOs ditados populares são frases de sabedoria criadas \npelo povo, utilizadas em várias situações da vida. Nesse \ntexto, a personagem emprega um ditado popular com a \nintenção de",
+      "options": [
+        {
+          "key": "A",
+          "text": "criticar a natureza forte do filho."
+        },
+        {
+          "key": "B",
+          "text": "justificar o gênio difícil de Chiquito."
+        },
+        {
+          "key": "C",
+          "text": "legitimar o direito do filho à herança."
+        },
+        {
+          "key": "D",
+          "text": "conter o ânimo violento de Chico Lourenço."
+        },
+        {
+          "key": "E",
+          "text": "condenar a agressividade do marido contra o filho."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p7.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p8.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q15",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 15,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "TEXTO I\nPoesia em cartaz\nO caminho habitual para o trabalho, aquele em que \na gente já nem repara direito, pode ficar mais belo com \num poema. O projeto #UmLambePorDia nasceu desta \nintenção: trazer mais cor e alegria para a cidade por meio \nde cartazes coloridos ao estilo lambe-lambe. Quem teve \na ideia foi o escritor Leonardo Beltrão, em Belo Horizonte. \n“Em meio a olhares cada vez mais viciados, acabamos \nnos esquecendo da beleza envolvida em cada esquina \ne no próprio poder transformador da palavra”. Assim, a \ncada dia um cartaz é colocado por aí, para nos lembrar de \nreparar na cidade, na vida que corre ao redor e também \nem nós mesmos. \nTEXTO II\nDisponível em: www.vidasimples.uol.com.br. Acesso em: 6 dez. 2017 (adaptado).\nConsiderando-se a função que os cartazes colados em \npostes normalmente exercem nas ruas das cidades \ngrandes, esse texto evidencia a",
+      "options": [
+        {
+          "key": "A",
+          "text": "disseminação da arte poética em um veículo não"
+        },
+        {
+          "key": "B",
+          "text": "manutenção da expectativa das pessoas ao andarem"
+        },
+        {
+          "key": "C",
+          "text": "necessidade de exposição de poemas pequenos em"
+        },
+        {
+          "key": "D",
+          "text": "característica corriqueira do suporte lambe-lambe,"
+        },
+        {
+          "key": "E",
+          "text": "exposição da beleza escondida das esquinas da"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p8.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p9.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q16",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 16,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "A vida às vezes é como um jogo brincado na rua: \nestamos no último minuto de uma brincadeira bem quente \ne não sabemos que a qualquer momento pode chegar um \nmais velho a avisar que a brincadeira já acabou e está na \nhora de jantar. A vida afinal acontece muito de repente \n— nunca ninguém nos avisou que aquele era mesmo o \núltimo Carnaval da Vitória. O Carnaval também chegava \nsempre de repente. Nós, as crianças, vivíamos num tempo \nfora do tempo, sem nunca sabermos dos calendários de \nverdade. [...] O “dia da véspera do Carnaval”, como dizia \na avó Nhé, era dia de confusão com roupas e pinturas a \nserem preparadas, sonhadas e inventadas. Mas quando \nacontecia era um dia rápido, porque os dias mágicos \npassam depressa deixando marcas fundas na nossa \nmemória, que alguns chamam também de coração.\nONDJAKI. Os da minha rua. Rio de Janeiro: Língua Geral, 2007.\nAs significações afetivas engendradas no fragmento \npressupõem o reconhecimento da",
+      "options": [
+        {
+          "key": "A",
+          "text": "perspectiva infantil assumida pela voz narrativa."
+        },
+        {
+          "key": "B",
+          "text": "suspensão da linearidade temporal da narração."
+        },
+        {
+          "key": "C",
+          "text": "tentativa de materializar lembranças da infância."
+        },
+        {
+          "key": "D",
+          "text": "incidência da memória sobre as imagens narradas."
+        },
+        {
+          "key": "E",
+          "text": "alternância entre impressões subjetivas e relatos"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p8.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p9.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q17",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 17,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Em 2000 tivemos a primeira experiência do futebol \nfeminino em um jogo de videogame, o Mia Hamm \nSoccer. Doze anos depois, uma petição on-line pedia \nque a EA Sports incluísse o futebol feminino no Fifa 13. \nContudo, só em 2015, com uma nova petição on-line, \nque arrecadou milhares de assinaturas, tivemos o futebol \nfeminino incluído no Fifa 16. Vendo um nicho de mercado \ninexplorado, a EA Sports produziu o jogo com 12 seleções \nfemininas e o apresentou como inovação. A empresa sabe \nque mais de 40% dos praticantes de futebol nos EUA são \nmeninas. Para elas, ver o futebol feminino representado \nem um jogo de videogame é extremamente importante. \nTer o futebol feminino no Fifa 16 é um grande passo para \na sua popularização na luta pela igualdade de gênero, \nnum contexto machista, sexista, misógino e homofóbico.\nDisponível em: www.ludopedio.com.br. Acesso em: 5 jun. 2018 (adaptado).\nOs jogos eletrônicos presentes na cultura juvenil podem \ndesempenhar uma relevante função na abordagem do \nfutebol ao",
+      "options": [
+        {
+          "key": "A",
+          "text": "disseminarem uma modalidade, promovendo a"
+        },
+        {
+          "key": "B",
+          "text": "superarem jogos malsucedidos no mercado, lançados"
+        },
+        {
+          "key": "C",
+          "text": "inovarem a modalidade com novas ofertas de jogos"
+        },
+        {
+          "key": "D",
+          "text": "explorarem nichos de mercado antes ignorados,"
+        },
+        {
+          "key": "E",
+          "text": "reforçarem estereótipos de gênero masculino ou"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p8.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p9.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q18",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 18,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Quando quis agilizar o processo de seleção de \nnovos alunos, a tradicional faculdade britânica de \nmedicina St. George usou um software para definir \nquem deveria ser entrevistado. Ao reproduzir a forma \ncomo os funcionários faziam essa escolha, o programa \neliminou, de cara, 60 de 2 000 candidatos. Só por causa \ndo sexo ou da origem racial, numa dedução baseada \nem sobrenome e local de nascimento. Um estudo sobre \no caso foi publicado em 1988, mas, 25 anos depois, \noutra pesquisa apontou que esse tipo de discriminação \nsegue firme. O exemplo recente envolve o buscador \ndo Google: ao digitar nomes comuns entre negros dos \nEUA, a chance de os anúncios automáticos oferecerem \nchecagem de antecedentes criminais pode aumentar \n25%. E pode piorar com a pergunta “detido?” logo após a \npalavra procurada.\nDisponível em: https://tab.uol.com.br. Acesso em: 11 ago. 2017 (adaptado).\nO texto permite o desnudamento da sociedade ao \nrelacionar as tecnologias de informação e comunicação \ncom o(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "agilidade dos softwares."
+        },
+        {
+          "key": "B",
+          "text": "passar dos anos."
+        },
+        {
+          "key": "C",
+          "text": "linguagem."
+        },
+        {
+          "key": "D",
+          "text": "preconceito."
+        },
+        {
+          "key": "E",
+          "text": "educação."
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p9.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q19",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 19,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Disponível em: www.acontecendoaqui.com.br. Acesso em: 15 jun. 2018.\nNessa campanha publicitária, a imagem da família e o \ntexto verbal unem-se para reforçar a ideia de que",
+      "options": [
+        {
+          "key": "A",
+          "text": "a família que adota é mais feliz."
+        },
+        {
+          "key": "B",
+          "text": "a adoção tardia é muito positiva."
+        },
+        {
+          "key": "C",
+          "text": "as famílias preferem adotar bebês."
+        },
+        {
+          "key": "D",
+          "text": "a adoção de adolescentes é mais simples."
+        },
+        {
+          "key": "E",
+          "text": "os filhos adotivos são companheiros dos pais."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p9.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q20",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 20,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Viajo Curitiba das conferências positivistas, elas \nsão onze em Curitiba, há treze no mundo inteiro; do \ntocador de realejo que não roda a manivela desde que \no macaquinho morreu; dos bravos soldados do fogo que \npassam chispando no carro vermelho atrás do incêndio \nque ninguém não viu, esta Curitiba e a do cachorro-quente \ncom chope duplo no Buraco do Tatu eu viajo.\nCuritiba, aquela do Burro Brabo, um cidadão \nmisterioso morreu nos braços da Rosicler, quem foi? \nquem não foi? foi o reizinho do Sião; da Ponte Preta da \nestação, a única ponte da cidade, sem rio por baixo, esta \nCuritiba viajo.\nCuritiba sem pinheiro ou céu azul, pelo que vosmecê \né — província, cárcere, lar —, esta Curitiba, e não a outra \npara inglês ver, com amor eu viajo, viajo, viajo.\nTREVISAN, D. Em busca de Curitiba perdida. Rio de Janeiro: Record, 1992.\nA tematização de Curitiba é frequente na obra de Dalton \nTrevisan. No fragmento, a relação do narrador com o \nespaço urbano é caracterizada por um olhar",
+      "options": [
+        {
+          "key": "A",
+          "text": "destituído de afetividade, que ironiza os costumes e"
+        },
+        {
+          "key": "B",
+          "text": "marcado pela negatividade, que busca desconstruir"
+        },
+        {
+          "key": "C",
+          "text": "carregado de melancolia, que constata a falta"
+        },
+        {
+          "key": "D",
+          "text": "embevecido pela simplicidade do cenário, indiferente"
+        },
+        {
+          "key": "E",
+          "text": "distanciado dos elementos narrados, que recorre"
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p9.png",
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q21",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 21,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "TEXTO I \nÉ pau, é pedra, é o fim do caminho\nÉ um resto de toco, é um pouco sozinho\nÉ um caco de vidro, é a vida, é o sol\nÉ a noite, é a morte, é o laço, é o anzol\nÉ peroba-do-campo, é o nó da madeira\nCaingá, candeia, é o matita-pereira\nTOM JOBIM. Águas de março. O Tom de Jobim e o tal de João Bosco (disco de bolso). \nSalvador: Zen Produtora, 1972 (fragmento).\nTEXTO II\nA inspiração súbita e certeira do compositor serve \nainda de exemplo do lema antigo: nada vem do nada. \nPara ninguém, nem mesmo para Tom Jobim. Duas \nfontes são razoavelmente conhecidas. A primeira é o \npoema O caçador de esmeraldas, do mestre parnasiano \nOlavo Bilac: “Foi em março, ao findar da chuva, \nquase à entrada/ do outono, quando a terra em sede \nrequeimada/ bebera longamente as águas da estação \n[...]”. E a outra é um ponto de macumba, gravado com \nsucesso por J. B. Carvalho, do Conjunto Tupi: “É pau, é \npedra, é seixo miúdo, roda a baiana por cima de tudo”. \nCombinar Olavo Bilac e macumba já seria bom; mas o \nque se vê em Águas de março vai muito além: tudo se \ntransforma numa outra coisa e numa outra música, que \nrecompõem o mundo para nós.\nNESTROVSKI, A. O samba mais bonito do mundo. In: Três canções de Tom Jobim. \nSão Paulo: Cosac Naify, 2004.\nAo situar a composição no panorama cultural brasileiro, o \nTexto II destaca o(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "diálogo que a letra da canção estabelece com"
+        },
+        {
+          "key": "B",
+          "text": "singularidade com que o compositor converte"
+        },
+        {
+          "key": "C",
+          "text": "caráter inovador com que o compositor concebe o"
+        },
+        {
+          "key": "D",
+          "text": "relativização que a letra da canção promove na"
+        },
+        {
+          "key": "E",
+          "text": "resgate que a letra da canção promove de obras"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q22",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 22,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Deu vontade de jogar, mas não sabe como reunir \nos amigos...\nMuitas vezes é difícil encontrar grupos para bater \numa bola. Em função disso, estão sendo disponibilizados \naplicativos que reúnem times e reservam espaços para \nos adeptos da paixão nacional. Num exemplo dessas \niniciativas, é possível organizar uma partida de futebol, \nse inscrever para participar de um jogo, alugar campos e \nquadras, convidar jogadores. O aplicativo tem dois tipos \nde usuários: um que o usa como ferramenta de gestão \ndo grupo, convidando amigos para jogar, vendo quem \nconfirmou e avaliando os jogos. Outro usuário é o que \nbusca partidas perto de onde ele está, caso de pessoas \nque estão de passagem numa cidade.\nBENEDICTO, M.; MARLI, M. Bola na rede. Retratos:\na revista do IBGE, n. 2, 2017 (adaptado).\nA inter-relação entre tecnologia e sociedade tem \nestimulado a criação de aplicativos. Nesse texto, isso é \npercebido pelo desenvolvimento de aplicativos para",
+      "options": [
+        {
+          "key": "A",
+          "text": "organização de eventos de competições esportivas."
+        },
+        {
+          "key": "B",
+          "text": "agendamento de viagens para eventos de esporte"
+        },
+        {
+          "key": "C",
+          "text": "mapeamento dos interesses dos praticantes acerca"
+        },
+        {
+          "key": "D",
+          "text": "identificação da escassez de espaços para a vivência"
+        },
+        {
+          "key": "E",
+          "text": "formação de grupos em comunidades virtuais para a"
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q23",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 23,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "TEXTO I\nHIRST, D. Mother and Child. Bezerro dividido em duas partes: 1029 x \n1689 x 625mm, 1993 (detalhe). Vidro, aço pintado, silicone, acrílico, \nmonofilamento, aço inoxidável, bezerro e solução de formaldeído.\nTEXTO II\nO grupo Jovens Artistas Britânicos (YABs), que surgiu \nno final da década de 1980, possui obras diversificadas \nque incluem fotografias, instalações, pinturas e carcaças \ndesmembradas. O trabalho desses artistas chamou \na atenção no final do período da recessão, por utilizar \nmateriais incomuns, como esterco de elefantes, sangue \ne legumes, o que expressava os detritos da vida e uma \natmosfera de niilismo, temperada por um humor mordaz.\nDisponível em: http://damienhirst.com. Acesso em: 15 jul. 2015.\nFARTHING, S. Tudo sobre arte. Rio de Janeiro: Sextante, 2011 (adaptado).\nA provocação desse grupo gera um debate em torno da \nobra de arte pelo(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "recusa a crenças, convicções, valores morais,"
+        },
+        {
+          "key": "B",
+          "text": "frutífero arsenal de materiais e formas que se"
+        },
+        {
+          "key": "C",
+          "text": "economia e problemas financeiros gerados pela"
+        },
+        {
+          "key": "D",
+          "text": "influência desse grupo junto aos estilos pós-modernos"
+        },
+        {
+          "key": "E",
+          "text": "interesse em produtos indesejáveis que revela uma"
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2020/dia1/cd3/enem__2020__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q24",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 24,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Vou-me embora p’ra Pasárgada foi o poema de \nmais longa gestação em toda a minha obra. Vi pela \nprimeira vez esse nome Pasárgada quando tinha os \nmeus dezesseis anos e foi num autor grego. [...] Esse \nnome de Pasárgada, que significa “campo dos persas” \nou “tesouro dos persas”, suscitou na minha imaginação \numa paisagem fabulosa, um país de delícias, como o \nde L’invitation au Voyage, de Baudelaire. Mais de vinte \nanos depois, quando eu morava só na minha casa da \nRua do Curvelo, num momento de fundo desânimo, \nda mais aguda sensação de tudo o que eu não tinha \nfeito em minha vida por motivo da doença, saltou-me \nde súbito do subconsciente este grito estapafúrdio: \n“Vou-me embora p’ra Pasárgada!” Senti na redondilha \na primeira célula de um poema, e tentei realizá-lo, \nmas fracassei. Alguns anos depois, em idênticas \ncircunstâncias de desalento e tédio, me ocorreu o \nmesmo desabafo de evasão da “vida besta”. Desta vez \no poema saiu sem esforço como se já estivesse pronto \ndentro de mim. Gosto desse poema porque vejo nele, \nem escorço, toda a minha vida; [...] Não sou arquiteto, \ncomo meu pai desejava, não fiz nenhuma casa, mas \nreconstruí e “não de uma forma imperfeita neste mundo \nde aparências”, uma cidade ilustre, que hoje não é mais \na Pasárgada de Ciro, e sim a “minha” Pasárgada.\nBANDEIRA, M. Itinerário de Pasárgada. Rio de Janeiro: Nova Fronteira; Brasília: INL, 1984.\nOs processos de interação comunicativa preveem a \npresença ativa de múltiplos elementos da comunicação, \nentre os quais se destacam as funções da linguagem. \nNesse fragmento, a função da linguagem predominante é a",
+      "options": [
+        {
+          "key": "A",
+          "text": "emotiva, porque o poeta expõe os sentimentos de"
+        },
+        {
+          "key": "B",
+          "text": "referencial, porque o texto informa sobre a origem do"
+        },
+        {
+          "key": "C",
+          "text": "metalinguística, porque o poeta tece comentários"
+        },
+        {
+          "key": "D",
+          "text": "poética, porque o texto aborda os elementos estéticos"
+        },
+        {
+          "key": "E",
+          "text": "apelativa, porque o poeta tenta convencer os leitores"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q25",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 25,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Disponível em: www.globofilmes.globo.com. Acesso em: 13 dez. 2017 (adaptado).\nA frase, título do filme, reproduz uma variedade \nlinguística recorrente na fala de muitos brasileiros. \nEssa estrutura caracteriza-se pelo(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "uso de uma marcação temporal."
+        },
+        {
+          "key": "B",
+          "text": "imprecisão do referente de pessoa."
+        },
+        {
+          "key": "C",
+          "text": "organização interrogativa da frase."
+        },
+        {
+          "key": "D",
+          "text": "utilização de um verbo de ação."
+        },
+        {
+          "key": "E",
+          "text": "apagamento de uma preposição."
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q26",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 26,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Por que a indústria do empreendedorismo de palco \nirá destruir você \nSe, antigamente, os livros, enormes e com suas \nsetecentas páginas, cuspiam fórmulas, equações e \ncálculos que te ensinavam a lidar com o fluxo de caixa \nda sua empresa, hoje eles dizem: “Você irá chegar lá! \nAcredite, você irá vencer!”.\nMindset, empoderamento, millennials, networking, \ncoworking, deal, business, deadline, salesman com \nperfil hunter… tudo isso faz parte do seu vocabulário. \nO pacote de livros é sempre idêntico e as experiências \nsão passadas da mesma forma: você está a um único \ncentímetro da vitória. Não pare!\n Se desistir agora, será para sempre. Tome, leia a \nestratégia do oceano azul. Faça mais uma mentoria, \nparticipe de mais uma sessão de coaching. O problema \né que o seu mindset não está ajustado. Você precisa \nser mais proativo. Vamos fazer mais um powermind ? Eu \nconsigo um precinho bacana para você…\nCARVALHO, Í. C. Disponível em: https://medium.com. \nAcesso em: 17 ago. 2017 (adaptado).\nDe acordo com o texto, é possível identificar o \n“empreendedor de palco” por",
+      "options": [
+        {
+          "key": "A",
+          "text": "livros por ele indicados."
+        },
+        {
+          "key": "B",
+          "text": "suas habilidades em língua inglesa."
+        },
+        {
+          "key": "C",
+          "text": "experiências por ele compartilhadas."
+        },
+        {
+          "key": "D",
+          "text": "padrões de linguagem por ele utilizados."
+        },
+        {
+          "key": "E",
+          "text": "preços acessíveis de seus treinamentos."
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q27",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 27,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Sou o coração do folclore nordestino\nEu sou Mateus e Bastião do Boi-bumbá\nSou o boneco de Mestre Vitalino\nDançando uma ciranda em Itamaracá\nEu sou um verso de Carlos Pena Filho\nNum frevo de Capiba\nAo som da Orquestra Armorial\nSou Capibaribe\nNum livro de João Cabral\nSou mamulengo de São Bento do Una\nVindo no baque solto de maracatu\nEu sou um auto de Ariano Suassuna\nNo meio da Feira de Caruaru\nSou Frei Caneca do Pastoril do Faceta\nLevando a flor da lira\nPra Nova Jerusalém\nSou Luiz Gonzaga\nE sou do mangue também\nEu sou mameluco, sou de Casa Forte\nSou de Pernambuco, sou o Leão do Norte\nLENINE; PINHEIRO, P.C. Leão do Norte. In: LENINE; SUZANO, M. Olho de peixe. \nSão Paulo: Velas, 1993 (fragmento).\nO fragmento faz parte da canção brasileira contemporânea \ne celebra a cultura popular nordestina. Nele, o artista \nexalta as diferentes manifestações culturais pela",
+      "options": [
+        {
+          "key": "A",
+          "text": "valorização do teatro, música, artesanato, literatura,"
+        },
+        {
+          "key": "B",
+          "text": "identificação"
+        },
+        {
+          "key": "C",
+          "text": "exaltação das raízes populares, como a poesia, a"
+        },
+        {
+          "key": "D",
+          "text": "caracterização das festas populares como identidade"
+        },
+        {
+          "key": "E",
+          "text": "apresentação do Pastoril do Faceta, do maracatu, do"
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q28",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 28,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Disponível em: www.facebook.com/ministeriodoesporte. Acesso em: 7 dez. 2017.\nEsse anúncio publicitário propõe soluções para um \nproblema social recorrente, ao",
+      "options": [
+        {
+          "key": "A",
+          "text": "promover ações de conscientização para reduzir a"
+        },
+        {
+          "key": "B",
+          "text": "estimular o compartilhamento de políticas públicas"
+        },
+        {
+          "key": "C",
+          "text": "divulgar para a população as novas regras"
+        },
+        {
+          "key": "D",
+          "text": "informar ao público masculino as consequências de"
+        },
+        {
+          "key": "E",
+          "text": "regulamentar normas de boa convivência nos"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q29",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 29,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Eu tenho empresas e sou digno do visto para ir a \nNova York. O dinheiro que chove em Nova York é para \npessoas com poder de compra. Pessoas que tenham \num visto do consulado americano. O dinheiro que chove \nem Nova York também é para os nova-iorquinos. São \nmilhares de dólares. [...] Estou indo para Nova York, onde \nestá chovendo dinheiro. Sou um grande administrador. \nSim, está chovendo dinheiro em Nova York. Deu no rádio. \nVejo que há pedestres invadindo a via onde trafega o \nmeu carro vermelho, importado da Alemanha. Vejo que \nhá carros nacionais trafegando pela via onde trafega o \nmeu carro vermelho, importado da Alemanha. Ao chegar \nem Nova York, tomarei providências.\nSANT’ANNA, A. O importado vermelho de Noé. In: MORICONI, I. (Org.). \nOs cem melhores contos. Rio de Janeiro: Objetiva, 2001.\nAs repetições e as frases curtas constituem procedimentos \nlinguísticos importantes para a compreensão da temática \ndo texto, pois",
+      "options": [
+        {
+          "key": "A",
+          "text": "expressam a futilidade do discurso de poder e de"
+        },
+        {
+          "key": "B",
+          "text": "disfarçam a falta de densidade das angústias"
+        },
+        {
+          "key": "C",
+          "text": "ironizam a valorização da cultura norte-americana"
+        },
+        {
+          "key": "D",
+          "text": "explicitam a ganância financeira do capitalismo"
+        },
+        {
+          "key": "E",
+          "text": "criticam os estereótipos sociais das visões de mundo"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q30",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 30,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "DECRETO N. 28 314, DE 28 DE SETEMBRO DE 2007\nDemite o Gerúndio do Distrito Federal \ne dá outras providências.\nO GOVERNADOR DO DISTRITO FEDERAL, no uso \ndas atribuições que lhe confere o artigo 100, incisos VII \ne XXVI, da Lei Orgânica do Distrito Federal, DECRETA:\nArt. 1° Fica demitido o Gerúndio de todos os órgãos do \nGoverno do Distrito Federal.\nArt. 2° Fica proibido, a partir desta data, o uso do gerúndio \npara desculpa de INEFICIÊNCIA.\nArt. 3° Este Decreto entra em vigor na data de sua \npublicação.\nArt. 4º Revogam-se as disposições em contrário.\nBrasília, 28 de setembro de 2007.\n119º da República e 48º de Brasília\nDisponível em: www.dodf.gov.br. Acesso em: 11 dez. 2017.\nEsse decreto pauta-se na ideia de que o uso do gerúndio, \ncomo “desculpa de ineficiência”, indica",
+      "options": [
+        {
+          "key": "A",
+          "text": "conclusão de uma ação."
+        },
+        {
+          "key": "B",
+          "text": "realização de um evento."
+        },
+        {
+          "key": "C",
+          "text": "repetição de uma prática."
+        },
+        {
+          "key": "D",
+          "text": "continuidade de um processo."
+        },
+        {
+          "key": "E",
+          "text": "transferência de responsabilidade."
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q31",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 31,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "KOSUTH, J. One and Three Chairs. Museu Reina Sofia, Espanha, 1965.\nDisponível em: www.museoreinasofia.es. Acesso em: 4 jun. 2018 (adaptado).\nA obra de Joseph Kosuth data de 1965 e se constitui por \numa fotografia de cadeira, uma cadeira exposta e um \nquadro com o verbete “Cadeira”. Trata-se de um exemplo \nde arte conceitual que revela o paradoxo entre verdade e \nimitação, já que a arte",
+      "options": [
+        {
+          "key": "A",
+          "text": "não é a realidade, mas uma representação dela."
+        },
+        {
+          "key": "B",
+          "text": "fundamenta-se na repetição, construindo variações."
+        },
+        {
+          "key": "C",
+          "text": "não se define, pois depende da interpretação do fruidor."
+        },
+        {
+          "key": "D",
+          "text": "resiste ao tempo, beneficiada por múltiplas formas"
+        },
+        {
+          "key": "E",
+          "text": "redesenha"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q32",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 32,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Disponível em: www.iotforall.com. Acesso em: 22 jun. 2018.\nA realidade virtual é uma tecnologia de informação que, \nconforme sugere a imagem, tem como uma de suas \nprincipais funções",
+      "options": [
+        {
+          "key": "A",
+          "text": "promover a manipulação eficiente de conhecimentos"
+        },
+        {
+          "key": "B",
+          "text": "conduzir escolhas profissionais da área de ciência"
+        },
+        {
+          "key": "C",
+          "text": "transferir conhecimento da inteligência artificial para"
+        },
+        {
+          "key": "D",
+          "text": "levar o ser humano a experimentar mentalmente"
+        },
+        {
+          "key": "E",
+          "text": "delimitar tecnologias exclusivas de jogos virtuais, a"
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q33",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 33,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "LUTA: prática corporal imprevisível, caracterizada por \ndeterminado estado de contato proposital, que possibilita \na duas ou mais pessoas se enfrentarem numa constante \ntroca de ações ofensivas e/ou defensivas, regida por \nregras, com o objetivo mútuo sobre um alvo móvel \npersonifi cado no oponente.\nGOMES, M. S. P. et al. Ensino das lutas: dos princípios condicionais aos grupos situacionais. \nMovimento, n. 2, abr.-jun. 2010 (adaptado).\nDe acordo com o texto, podemos identifi car uma \nabordagem das lutas nas aulas de educação física \nquando o professor realiza uma proposta envolvendo",
+      "options": [
+        {
+          "key": "A",
+          "text": "contato corporal intenso entre o aluno e seu oponente."
+        },
+        {
+          "key": "B",
+          "text": "contenda entre os alunos que se agridem fi sicamente."
+        },
+        {
+          "key": "C",
+          "text": "confronto corporal em que os vencedores são"
+        },
+        {
+          "key": "D",
+          "text": "combate"
+        },
+        {
+          "key": "E",
+          "text": "confl ito resolvido pelos alunos por meio de regras"
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q34",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 34,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "O conceito de saúde formulado na histórica VIII \nConferência Nacional de Saúde, no ano de 1986, fi cou \nconhecido como um “conceito ampliado” de saúde, \nconforme ilustrado na fi gura. Esse conceito foi fruto de \nintensa mobilização em diversos países da América \nLatina nas décadas de 1970 e 1980, como resposta à \ncrise dos sistemas públicos de saúde.\nC\non\ndi\nçõ\ne\ns\nS\no\nci\no\ne\nc\no\nn\nô\nm\nic\nas\n,\nC\nul\ntu\nra\nis\ne\nA\nm\nbi\ne\nnt\nai\ns\nG\ner\nai\ns\nIdade,\nsexo e fatores\nhereditários\nE\nS\nT\nI\nL\nO\nD\nE\nV\nI\nD\nA\nD\nO\nS\nI\nN\nD\nI\nV\nÍ\nD\nU\nO\nS\nR\nE\nD\nE\nS\nS\nO\nC\nI\nA\nI\nS\nE\nC\nO\nM\nU\nN\nI\nT\nÁ\nR\nI\nA\nS\nC\no\nn\ndi\nç\nõ\ne\ns\nd\ne\nvi\nd\na\ne\nd\ne\ntr\na\nb\nal\nh\no\nProdução\nagrícola e de\nalimentos\nServiços\nsociais\nde saúde\nÁgua e\nesgoto\nEducação\nAmbiente\nde trabalho\nHabitação\nDesemprego\nBATISTELLA, C. Abordagens contemporâneas do conceito de saúde. \nDisponível em: www.dihs.ensp.fi ocruz.br. Acesso em: 23 set. 2020.\nCom base no conceito apresentado no texto, a saúde é \nconsequência direta do(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "adoção de um estilo de vida ativo por parte dos"
+        },
+        {
+          "key": "B",
+          "text": "disponibilidade de emprego no mercado de trabalho."
+        },
+        {
+          "key": "C",
+          "text": "condição habitacional presente nas cidades."
+        },
+        {
+          "key": "D",
+          "text": "acesso ao sistema educacional."
+        },
+        {
+          "key": "E",
+          "text": "forma de organização social."
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q36",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 36,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Caminhando contra o vento,\nSem lenço e sem documento\nNo sol de quase dezembro\nEu vou\nO sol se reparte em crimes\nEspaçonaves, guerrilhas\nEm cardinales bonitas\nEu vou\nEm caras de presidentes\nEm grandes beijos de amor\nEm dentes, pernas, bandeiras\nBombas e Brigitte Bardot\nO sol nas bancas de revista\nMe enche de alegria e preguiça\nQuem lê tanta notícia\nEu vou\nVELOSO, C. Alegria, alegria. In: Caetano Veloso. \nSão Paulo: Phillips, 1967 (fragmento). \nÉ comum coexistirem sequências tipológicas em um \nmesmo gênero textual. Nesse fragmento, os tipos textuais \nque se destacam na organização temática são",
+      "options": [
+        {
+          "key": "A",
+          "text": "descritivo e argumentativo, pois o enunciador detalha"
+        },
+        {
+          "key": "B",
+          "text": "dissertativo e argumentativo, pois o enunciador"
+        },
+        {
+          "key": "C",
+          "text": "expositivo e injuntivo, pois o enunciador fala de"
+        },
+        {
+          "key": "D",
+          "text": "narrativo e descritivo, pois o enunciador conta sobre"
+        },
+        {
+          "key": "E",
+          "text": "narrativo e injuntivo, pois o enunciador ensina"
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q37",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 37,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Leandro Aparecido Ferreira, o MC Fioti, compôs em \n2017 a música Bum bum tam tam, que gerou, em nove \nmeses, 480 milhões de visualizações no YouTube. É o \nfunk brasileiro mais ouvido na história do site.\nA partir de uma gravação da flauta que achou na \ninternet, MC Fioti fez tudo sozinho: compôs, cantou e \nproduziu em uma noite só. “Comecei a pesquisar alguns \ntipos de flauta, coisas antigas. E nisso eu achei a ‘flautinha \ndo Sebastian Bach’”, conta. A descoberta foi por acaso: \nFioti não sabia quem era o músico alemão e não sabe \ntocar o instrumento.\nA “flauta envolvente” da música é um trecho da Partita \nem Lá menor, escrita pelo alemão Johann Sebastian \nBach por volta de 1723.\nDisponível em: https://g1.globo.com. Acesso em: 6 jun. 2018 (adaptado).\nA incorporação de um trecho da obra para flauta solo de \nJohann Sebastian Bach na música de MC Fioti demonstra a",
+      "options": [
+        {
+          "key": "A",
+          "text": "influência permanente da cultura eurocêntrica nas"
+        },
+        {
+          "key": "B",
+          "text": "homenagem aos referenciais estéticos que deram"
+        },
+        {
+          "key": "C",
+          "text": "necessidade de divulgar a música de concerto nos"
+        },
+        {
+          "key": "D",
+          "text": "utilização"
+        },
+        {
+          "key": "E",
+          "text": "inter-relação de elementos culturais vindos de"
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q38",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 38,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Seu delegado\nEu sou viúvo e tenho um filho homem\nArrumei uma viúva e fui me casar\nA minha sogra era muito teimosa\nCom o meu filho foi se matrimoniar\nDesse matrimônio nasceu um garoto\nDesde esse dia que eu ando é louco\nEsse garoto é filho do meu filho\nE o filho da minha sogra é irmão da minha mulher\nEle é meu neto e eu sou cunhado dele\nA minha nora é minha sogra\nMeu filho meu sogro é\nNessa confusão já nem sei quem sou\nAcaba esse garoto sendo meu avô.\nTRIO FORROZÃO. Agitando a rapaziada. \nRio de Janeiro: Natasha Records, 2009.\nNessa letra da canção, a suposição do último verso \nsinaliza a intenção do autor de",
+      "options": [
+        {
+          "key": "A",
+          "text": "ironizar as relações familiares modernas."
+        },
+        {
+          "key": "B",
+          "text": "reforçar o humor da situação representada."
+        },
+        {
+          "key": "C",
+          "text": "expressar perplexidade em relação ao parente."
+        },
+        {
+          "key": "D",
+          "text": "atribuir à criança a causa da dúvida existencial."
+        },
+        {
+          "key": "E",
+          "text": "questionar os lugares predeterminados da família."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q39",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 39,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Uma das mais contundentes críticas ao discurso \nda aptidão física relacionada à saúde está no caráter \neminentemente individual de suas propostas, o que \nserve para obscurecer outros determinantes da saúde. \nOu seja, costuma-se apresentar o indivíduo como o \nproblema e a mudança do estilo de vida como a solução. \nArgumenta-se ainda que o movimento da aptidão física \nrelacionada à saúde considera a existência de uma \ncultura homogênea na qual todos seriam livres para \nescolher seus estilos de vida, o que não condiz com a \nrealidade. O fato é que vivemos numa sociedade dividida \nem classes sociais, na qual nem todas as pessoas têm \ncondições econômicas para adotar um estilo de vida ativo \ne saudável. Há desigualdades estruturais com raízes \npolíticas, econômicas e sociais que dificultam a adoção \ndesses estilos de vida.\nFERREIRA, M. S. Aptidão física e saúde na educação física escolar: ampliando o enfoque. \nRBCE, n. 2, jan. 2001 (adaptado).\nCom base no texto, a relação entre saúde e estilos de vida",
+      "options": [
+        {
+          "key": "A",
+          "text": "constrói a ideia de que a mudança individual de"
+        },
+        {
+          "key": "B",
+          "text": "considera a homogeneidade da escolha de hábitos"
+        },
+        {
+          "key": "C",
+          "text": "reforça a necessidade de solucionar os problemas de"
+        },
+        {
+          "key": "D",
+          "text": "problematiza a organização social e seu impacto na"
+        },
+        {
+          "key": "E",
+          "text": "reproduz a noção de que a melhoria da aptidão física"
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q40",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 40,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Retrato de homem\nA paisagem estrita\nao apuro do muro\nfeito vértebra a vértebra\ne escuro.\nA geração dos pelos\nsobre a casca e os rostos\nem seus diques de sombra\nrepostos.\nOs poços com seu lodo\nde ira e de tensão:\nentre cimento e fronte\n— um vão.\nAs setas se atiram\nàs margens de ninguém,\nilesas a si mesmas\nretêm.\nCompassos de evasão\nentre falange e rua\nsondando a solitude\nnua.\nE na armadura de coisa\nsalobra, um só segredo:\na polpa toda é fruição\nde medo.\nARAÚJO, L. C. Cantochão. Belo Horizonte: Imprensa Publicações — Governo do Estado \nde Minas Gerais, 1967.\nNo poema, a descrição lírica do objeto representado é \norientada por um olhar que",
+      "options": [
+        {
+          "key": "A",
+          "text": "desvela sentimentos de vazio e angústia sob a"
+        },
+        {
+          "key": "B",
+          "text": "expressa desilusão ante a possibilidade de superação"
+        },
+        {
+          "key": "C",
+          "text": "contrapõe a fragilidade emocional ao uso desmedido"
+        },
+        {
+          "key": "D",
+          "text": "associa"
+        },
+        {
+          "key": "E",
+          "text": "privilegia imagens relacionadas à exposição do"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q41",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 41,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Senhor Juiz\nO instrumento do “crime” que se arrola\nNesse processo de contravenção\nNão é faca, revólver ou pistola,\nSimplesmente, doutor, é um violão.\nSerá crime, afinal, será pecado,\nSerá delito de tão vis horrores,\nPerambular na rua um desgraçado\nDerramando nas praças suas dores?\nMande, pois, libertá-lo da agonia\n(a consciência assim nos insinua)\nNão sufoque o cantar que vem da rua,\nQue vem da noite para saudar o dia.\nÉ o apelo que aqui lhe dirigimos,\nNa certeza do seu acolhimento\nJuntada desta aos autos nós pedimos\nE pedimos, enfim, deferimento.\nDisponível em: www.migalhas.com.br.\nAcesso em: 23 set. 2020 (adaptado).\nEssa petição de habeas corpus, ao transgredir o rigor da \nlinguagem jurídica,",
+      "options": [
+        {
+          "key": "A",
+          "text": "permite que a narrativa seja objetiva e repleta de"
+        },
+        {
+          "key": "B",
+          "text": "mostra que o cordel explora termos próprios da esfera"
+        },
+        {
+          "key": "C",
+          "text": "demonstra que o jogo de linguagem proposto atenua"
+        },
+        {
+          "key": "D",
+          "text": "exemplifica como o texto em forma de cordel"
+        },
+        {
+          "key": "E",
+          "text": "esclarece que os termos “crime” e “processo de"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q42",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 42,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Hino à Bandeira\nEm teu seio formoso retratas\nEste céu de puríssimo azul,\nA verdura sem par destas matas,\nE o esplendor do Cruzeiro do Sul.\nContemplando o teu vulto sagrado,\nCompreendemos o nosso dever,\nE o Brasil por seus filhos amado,\nPoderoso e feliz há de ser!\nSobre a imensa Nação Brasileira,\nNos momentos de festa ou de dor,\nPaira sempre sagrada bandeira\nPavilhão da justiça e do amor!\nBILAC, O.; BRAGA, F. Disponível em: www2.planalto.gov.br. \nAcesso em: 10 dez. 2017 (fragmento).\nNo Hino à Bandeira, a descrição é um recurso utilizado \npara exaltar o símbolo nacional na medida em que",
+      "options": [
+        {
+          "key": "A",
+          "text": "remete a um momento futuro."
+        },
+        {
+          "key": "B",
+          "text": "promove a união dos cidadãos."
+        },
+        {
+          "key": "C",
+          "text": "valoriza os seus elementos."
+        },
+        {
+          "key": "D",
+          "text": "emprega termos religiosos."
+        },
+        {
+          "key": "E",
+          "text": "recorre à sua história."
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q43",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 43,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "— O senhor pensa que eu tenho alguma fábrica de \ndinheiro? (O diretor diz essas coisas a ele, mas olha \npara todos como quem quer dar uma explicação a todos. \nTodas as caras sorriem.) Quando seu filho esteve doente, \neu o ajudei como pude. Não me peça mais nada. Não me \nencarregue de pagar as suas contas: já tenho as minhas, \ne é o que me basta... (Risos.)\nO diretor tem o rosto escanhoado, a camisa limpa. A \npalavra possui um tom educado, de pessoa que convive \ncom gente inteligente, causeuse. O rosto do Dr. Rist \nresplandece, vermelho e glabro. Um que outro tem os \nolhos no chão, a atitude discreta.\nNaziazeno espera que ele lhe dê as costas, vá reatar \na palestra interrompida, aquelas observações sobre a \nquestão social, comunismo e integralismo.\nMACHADO, D. Os ratos. São Paulo: Círculo do Livro, s/d.\nA ficção modernista explorou tipos humanos em situação \nde conflito social. No fragmento do romancista gaúcho, \nesse conflito revela a",
+      "options": [
+        {
+          "key": "A",
+          "text": "sujeição moral amplificada pela pobreza."
+        },
+        {
+          "key": "B",
+          "text": "crise econômica em expansão nas cidades."
+        },
+        {
+          "key": "C",
+          "text": "falta de diálogo entre patrões e empregados."
+        },
+        {
+          "key": "D",
+          "text": "perspicácia marcada pela formação intelectual."
+        },
+        {
+          "key": "E",
+          "text": "tensão política gerada pelas ideologias vigentes."
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q44",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 44,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Policarpo Quaresma, cidadão brasileiro, funcionário \npúblico, certo de que a língua portuguesa é emprestada \nao Brasil; certo também de que, por esse fato, o \nfalar e o escrever em geral, sobretudo no campo das \nletras, se veem na humilhante contingência de sofrer \ncontinuamente censuras ásperas dos proprietários da \nlíngua; sabendo, além, que, dentro do nosso país, os \nautores e os escritores, com especialidade os gramáticos, \nnão se entendem no tocante à correção gramatical, \nvendo-se, diariamente, surgir azedas polêmicas entre os \nmais profundos estudiosos do nosso idioma — usando \ndo direito que lhe confere a Constituição, vem pedir que \no Congresso Nacional decrete o tupi-guarani como língua \noficial e nacional do povo brasileiro.\nBARRETO, L. Triste fim de Policarpo Quaresma.\nDisponível em: www.dominiopublico.gov.br. Acesso em: 26 jun. 2012.\nNessa petição da pitoresca personagem do romance de \nLima Barreto, o uso da norma-padrão justifica-se pela",
+      "options": [
+        {
+          "key": "A",
+          "text": "situação social de enunciação representada."
+        },
+        {
+          "key": "B",
+          "text": "divergência teórica entre gramáticos e literatos."
+        },
+        {
+          "key": "C",
+          "text": "pouca representatividade das línguas indígenas."
+        },
+        {
+          "key": "D",
+          "text": "atitude irônica diante da língua dos colonizadores."
+        },
+        {
+          "key": "E",
+          "text": "tentativa de solicitação do documento demandado."
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2020__dia1__cd3__prova__q45",
+      "source": "enem",
+      "exam_id": "enem__2020__dia1__cd3__prova",
+      "question_number": 45,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Atualmente os jovens estão imersos numa sociedade \npermeada pela tecnologia. Nesse contexto, os jogos \ndigitais são artefatos muito empregados. Videogames \nativos ou exergames foram introduzidos como forma \nde permitir que o corpo controlasse tais jogos. Como \nresultado, passaram a ser vistos como uma ferramenta \nauxiliar na adoção de um estilo de vida menos sedentário, \ncom efeitos positivos sobre a saúde. Tem-se defendido \nque os exergames podem contribuir para a prática regular \nde atividade física moderada, bem como promover a \ninteração entre jogadores, reduzindo o sentimento de \nisolamento social. Por outro lado, argumenta-se que os \nexergames não podem substituir a experiência real das \npráticas corporais, pois não motivam a longo prazo a \nprática permanente de atividades físicas.\nFINCO, M. D.; REATEGUI, E. B.; ZARO, M. A. Laboratório de exergames: um espaço \ncomplementar para as aulas de educação física. Movimento, n. 3, 2015 (adaptado).\nPela sua interatividade, os exergames apresentam-se \ncomo possibilidade para estimular o(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "exercitação física, promovendo a saúde."
+        },
+        {
+          "key": "B",
+          "text": "vivência de exercícios físicos sistemáticos."
+        },
+        {
+          "key": "C",
+          "text": "envolvimento com atividades físicas ao longo da vida."
+        },
+        {
+          "key": "D",
+          "text": "jogo por meio de comandos fornecidos pelo videogame."
+        },
+        {
+          "key": "E",
+          "text": "disputa entre jogadores, contribuindo para o"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    }
+  ]
+}

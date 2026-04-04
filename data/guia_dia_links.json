@@ -1,0 +1,147 @@
+{
+  "_nota": "Recursos de apoio por bloco do plano. Edite queries e canais.",
+  "intro": "Vídeos e ideias para o que você vai treinar hoje. Em dúvida nas questões, abra o assunto aqui embaixo.",
+  "sessao_mista": {
+    "titulo": "Rodada de questões no app",
+    "linhas": [
+      "Mistura de questões reais (ENEM), estilo SSA‑PE e extras — tudo com gabarito."
+    ]
+  },
+  "mapa_bloco": [
+    {
+      "match": "Linguagens",
+      "recursos": [
+        {
+          "titulo": "Interpretação de texto (ENEM)",
+          "youtube_query": "interpretação de texto ENEM aula",
+          "canais": ["Ferretto", "Professor Noslen", "Descomplica"]
+        },
+        {
+          "titulo": "Inglês / leitura no ENEM",
+          "youtube_query": "ENEM inglês interpretação texto dica",
+          "canais": ["Ferretto", "English Yourself"]
+        }
+      ]
+    },
+    {
+      "match": "Matemática",
+      "recursos": [
+        {
+          "titulo": "Função afim e gráficos",
+          "youtube_query": "função afim ENEM gráfico",
+          "canais": ["Ferretto", "Mathematicamente"]
+        },
+        {
+          "titulo": "Porcentagem e razão",
+          "youtube_query": "porcentagem ENEM exercícios",
+          "canais": ["Ferretto", "Prof. Gis"]
+        }
+      ]
+    },
+    {
+      "match": "Ciências Humanas",
+      "recursos": [
+        {
+          "titulo": "História e sociedade (visão ENEM)",
+          "youtube_query": "história Brasil ENEM resumo",
+          "canais": ["Descomplica", "Aula Livre"]
+        },
+        {
+          "titulo": "Geografia — população e espaço",
+          "youtube_query": "geografia ENEM população urbanização",
+          "canais": ["Descomplica"]
+        }
+      ]
+    },
+    {
+      "match": "Ciências da Natureza",
+      "recursos": [
+        {
+          "titulo": "Ecologia e cadeias alimentares",
+          "youtube_query": "ecologia ENEM cadeia alimentar",
+          "canais": ["Khan Academy Brasil", "Descomplica"]
+        },
+        {
+          "titulo": "Física — cinemática básica",
+          "youtube_query": "cinemática ENEM velocidade média",
+          "canais": ["Ferretto", "Physics Girl Brasil"]
+        }
+      ]
+    },
+    {
+      "match": "Leitura",
+      "recursos": [
+        {
+          "titulo": "Leitura crítica e anotações",
+          "youtube_query": "como anotar leitura vestibular",
+          "canais": ["Papo de Homem Ilustrado", "Descomplica"]
+        }
+      ]
+    },
+    {
+      "match": "Revisão espaçada",
+      "recursos": [
+        {
+          "titulo": "Como revisar erros de simulado",
+          "youtube_query": "revisão espaçada estudos método",
+          "canais": ["Ponto Eletrônico", "Descomplica"]
+        }
+      ]
+    },
+    {
+      "match": "Redação",
+      "recursos": [
+        {
+          "titulo": "Estrutura dissertativa ENEM",
+          "youtube_query": "redação ENEM 1000 pontos estrutura",
+          "canais": ["Redação Que Dá Nota", "Descomplica"]
+        }
+      ]
+    },
+    {
+      "match": "Mistura",
+      "recursos": [
+        {
+          "titulo": "Prova mista — gestão de tempo",
+          "youtube_query": "como fazer prova mista vestibular tempo",
+          "canais": ["Descomplica"]
+        }
+      ]
+    },
+    {
+      "match": "Erros da semana",
+      "recursos": [
+        {
+          "titulo": "Análise de erros em questões",
+          "youtube_query": "como corrigir erros questões vestibular",
+          "canais": ["Descomplica"]
+        }
+      ]
+    },
+    {
+      "match": "Simulado",
+      "recursos": [
+        {
+          "titulo": "SSA UPE — ritmo e estratégia",
+          "youtube_query": "SSA UPE dicas prova",
+          "canais": []
+        },
+        {
+          "titulo": "Correção comentada (estilo)",
+          "youtube_query": "correção simulado ENEM estratégia",
+          "canais": ["Descomplica"]
+        }
+      ]
+    },
+    {
+      "match": "Correção",
+      "recursos": [
+        {
+          "titulo": "Como usar o gabarito para aprender",
+          "youtube_query": "estudar com gabarito questões",
+          "canais": []
+        }
+      ]
+    }
+  ]
+}

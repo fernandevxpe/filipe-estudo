@@ -1,0 +1,288 @@
+{
+  "generated_from": {
+    "nota": "Amostra autoral no estilo SSA UPE (múltipla escolha). Substitua por itens extraídos de PDFs oficiais quando o pipeline SSA estiver pronto."
+  },
+  "item_count": 8,
+  "items": [
+    {
+      "id": "ssa_upe_amostra__q01",
+      "source": "ssa_upe",
+      "exam_id": "ssa_upe_amostra",
+      "question_number": 1,
+      "area": "linguagens",
+      "study_topic": "Interpretação de texto e inferência",
+      "stem": "Leia: “A leitura não é apenas decodificar símbolos; é construir sentido a partir do contexto e da intenção do autor.”\nCom base na ideia apresentada, infere-se que",
+      "options": [
+        {
+          "key": "A",
+          "text": "o leitor é totalmente passivo diante do texto."
+        },
+        {
+          "key": "B",
+          "text": "compreender um texto exige ativação de conhecimentos prévios."
+        },
+        {
+          "key": "C",
+          "text": "o contexto é irrelevante para a compreensão."
+        },
+        {
+          "key": "D",
+          "text": "a intenção do autor não influencia a interpretação."
+        },
+        {
+          "key": "E",
+          "text": "decodificar grafemas é suficiente para plena compreensão."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "ssa_upe_amostra__q02",
+      "source": "ssa_upe",
+      "exam_id": "ssa_upe_amostra",
+      "question_number": 2,
+      "area": "matematica",
+      "study_topic": "Razão e proporção",
+      "stem": "Em uma receita, a razão entre farinha e açúcar é de 5 para 2. Se forem usados 250 g de farinha, a quantidade de açúcar necessária, em gramas, é",
+      "options": [
+        {
+          "key": "A",
+          "text": "40"
+        },
+        {
+          "key": "B",
+          "text": "80"
+        },
+        {
+          "key": "C",
+          "text": "100"
+        },
+        {
+          "key": "D",
+          "text": "120"
+        },
+        {
+          "key": "E",
+          "text": "125"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "ssa_upe_amostra__q03",
+      "source": "ssa_upe",
+      "exam_id": "ssa_upe_amostra",
+      "question_number": 3,
+      "area": "humanas",
+      "study_topic": "História — Brasil República",
+      "stem": "A Constituição de 1988 é frequentemente chamada de “Constituição cidadã” principalmente porque",
+      "options": [
+        {
+          "key": "A",
+          "text": "extinguiu o Poder Judiciário."
+        },
+        {
+          "key": "B",
+          "text": "ampliou direitos fundamentais e mecanismos de participação social."
+        },
+        {
+          "key": "C",
+          "text": "instituiu o voto censitário."
+        },
+        {
+          "key": "D",
+          "text": "aboliu a separação dos poderes."
+        },
+        {
+          "key": "E",
+          "text": "proibiu sindicatos e greves."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "ssa_upe_amostra__q04",
+      "source": "ssa_upe",
+      "exam_id": "ssa_upe_amostra",
+      "question_number": 4,
+      "area": "natureza",
+      "study_topic": "Biologia — ecologia",
+      "stem": "Em uma cadeia alimentar, os produtores são organismos que",
+      "options": [
+        {
+          "key": "A",
+          "text": "decompõem matéria orgânica morta."
+        },
+        {
+          "key": "B",
+          "text": "realizam fotossíntese e sintetizam matéria orgânica."
+        },
+        {
+          "key": "C",
+          "text": "se alimentam exclusivamente de carnívoros."
+        },
+        {
+          "key": "D",
+          "text": "fixam nitrogênio atmosférico em todos os biomas."
+        },
+        {
+          "key": "E",
+          "text": "obtêm energia apenas da respiração celular de consumidores."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "ssa_upe_amostra__q05",
+      "source": "ssa_upe",
+      "exam_id": "ssa_upe_amostra",
+      "question_number": 5,
+      "area": "linguagens",
+      "study_topic": "Português — regência verbal",
+      "stem": "Assinale a alternativa em que a regência verbal está de acordo com a norma-padrão.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Obedecer o regulamento."
+        },
+        {
+          "key": "B",
+          "text": "Obedecer ao regulamento."
+        },
+        {
+          "key": "C",
+          "text": "Obedecer no regulamento."
+        },
+        {
+          "key": "D",
+          "text": "Obedecer para o regulamento."
+        },
+        {
+          "key": "E",
+          "text": "Obedecer de regulamento."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "ssa_upe_amostra__q06",
+      "source": "ssa_upe",
+      "exam_id": "ssa_upe_amostra",
+      "question_number": 6,
+      "area": "matematica",
+      "study_topic": "Geometria — áreas",
+      "stem": "Um retângulo tem lados 8 cm e 5 cm. A área do retângulo, em cm², é",
+      "options": [
+        {
+          "key": "A",
+          "text": "13"
+        },
+        {
+          "key": "B",
+          "text": "26"
+        },
+        {
+          "key": "C",
+          "text": "35"
+        },
+        {
+          "key": "D",
+          "text": "40"
+        },
+        {
+          "key": "E",
+          "text": "80"
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "ssa_upe_amostra__q07",
+      "source": "ssa_upe",
+      "exam_id": "ssa_upe_amostra",
+      "question_number": 7,
+      "area": "humanas",
+      "study_topic": "Geografia — população",
+      "stem": "O êxodo rural urbano no Brasil, especialmente nas décadas de 1960–1980, esteve associado, entre outros fatores, a",
+      "options": [
+        {
+          "key": "A",
+          "text": "estímulo oficial à fixação no campo com baixa mecanização."
+        },
+        {
+          "key": "B",
+          "text": "atração de empregos formais nas cidades e modernização agrícola."
+        },
+        {
+          "key": "C",
+          "text": "fim absoluto da agricultura de subsistência em todo o país."
+        },
+        {
+          "key": "D",
+          "text": "redução zero da desigualdade regional."
+        },
+        {
+          "key": "E",
+          "text": "proibição de migração interestadual."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "ssa_upe_amostra__q08",
+      "source": "ssa_upe",
+      "exam_id": "ssa_upe_amostra",
+      "question_number": 8,
+      "area": "natureza",
+      "study_topic": "Física — cinemática",
+      "stem": "Um móvel percorre 120 m em movimento uniforme em 20 s. Sua velocidade escalar média, em m/s, é",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_doc": "Âncora do plano tipo docs/semana_2026-04-07.md. Cada semana usa um pool da rotação; seg–sex usam faixas de question_number; sábado amostra determinística; domingo vazio.",
+  "anchorDate": "2026-04-07",
+  "poolRotation": [
+    "enem_2024_dia1_cd1_ingles",
+    "enem_2024_dia1_cd2_ingles",
+    "enem_2024_dia1_cd3_ingles",
+    "enem_2024_dia1_cd4_ingles",
+    "enem_2023_dia1_cd1_ingles",
+    "enem_2023_dia1_cd2_ingles",
+    "enem_2023_dia1_cd3_ingles",
+    "enem_2023_dia1_cd4_ingles",
+    "enem_2022_dia1_cd1_ingles",
+    "enem_2022_dia1_cd2_ingles",
+    "enem_2022_dia1_cd3_ingles",
+    "enem_2022_dia1_cd4_ingles",
+    "enem_2020_dia1_cd1_ingles",
+    "enem_2020_dia1_cd2_ingles",
+    "enem_2020_dia1_cd3_ingles",
+    "enem_2020_dia1_cd4_ingles"
+  ],
+  "weekdayQuestionSpans": {
+    "1": [1, 10],
+    "2": [11, 20],
+    "3": [21, 30],
+    "4": [31, 40],
+    "5": [41, 45]
+  },
+  "saturday": {
+    "count": 24,
+    "useOnlyWeekPool": false
+  },
+  "queueChunkSize": 10
+}

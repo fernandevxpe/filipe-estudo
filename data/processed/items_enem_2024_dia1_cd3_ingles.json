@@ -1,0 +1,1656 @@
+{
+  "generated_from": {
+    "prova": "data/processed/enem/2024/dia1/cd3/prova.json",
+    "gabarito": "data/raw/enem/2024/dia1/cd3/gabarito.pdf"
+  },
+  "item_count": 45,
+  "items": [
+    {
+      "id": "enem__2024__dia1__cd3__prova__q01",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 1,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Disponível em: www.clickhole.com. Acesso em: 26 out. 2015.\nA carta da editora Stephanie Allen-Nichols à escritora \nAlice Walker tem o propósito de",
+      "options": [
+        {
+          "key": "A",
+          "text": "problematizar o enredo de sua obra."
+        },
+        {
+          "key": "B",
+          "text": "acusar o recebimento de seu manuscrito."
+        },
+        {
+          "key": "C",
+          "text": "solicitar a revisão ortográfica de seu texto."
+        },
+        {
+          "key": "D",
+          "text": "informar a transferência de seu livro a outra editora."
+        },
+        {
+          "key": "E",
+          "text": "comunicar a recusa da publicação de seu romance."
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p1.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p2.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q02",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 2,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "I remember being caught speaking Spanish at recess \n[...] I remember being sent to the corner of the classroom \nfor “talking back” to the Anglo teacher when all I was trying \nto do was tell her how to pronounce my name. “If you \nwant to be American, speak ‘American’. If you don’t like it, \ngo back to Mexico where you belong”.\n“I want you to speak English […]”, my mother would \nsay, mortified that I spoke English like a Mexican. At Pan \nAmerican University, I and all Chicano students were \nrequired to take two speech classes. Their purpose: to get \nrid of our accents.\nANZALDÚA, G. Borderlands/La Frontera: The New Mestiza. \nSan Francisco: Aunt Lute Books, 1987.\nO problema abordado nesse texto sobre imigrantes residentes \nnos Estados Unidos diz respeito aos prejuízos gerados pelo(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "repúdio ao sotaque espanhol no uso do inglês."
+        },
+        {
+          "key": "B",
+          "text": "resignação diante do apagamento da língua materna."
+        },
+        {
+          "key": "C",
+          "text": "escassez de oportunidades de aprendizado do espanhol."
+        },
+        {
+          "key": "D",
+          "text": "choque entre falantes de línguas distintas de diferentes"
+        },
+        {
+          "key": "E",
+          "text": "concorrência entre as variações linguísticas do inglês"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p1.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p2.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q03",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 3,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Disponível em: www.hongkiat.com. Acesso em: 18 ago. 2017 (adaptado).\nO texto estabelece uma relação entre elementos da \nnatureza e comandos de um programa de computador para",
+      "options": [
+        {
+          "key": "A",
+          "text": "alertar as pessoas sobre a rápida destruição da natureza."
+        },
+        {
+          "key": "B",
+          "text": "conscientizar os indivíduos sobre a passagem acelerada"
+        },
+        {
+          "key": "C",
+          "text": "apresentar aos leitores os avanços tecnológicos na"
+        },
+        {
+          "key": "D",
+          "text": "orientar os usuários sobre o emprego sustentável das"
+        },
+        {
+          "key": "E",
+          "text": "informar os interessados sobre o tempo de crescimento"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p1.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p2.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q04",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 4,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Holy War\nOh, so we can hate each other and fear each other\nWe can build these walls between each other\nBaby, blow by blow and brick by brick\nKeep yourself locked in, yourself locked in\n[…]\nOh, maybe we should love somebody\nOh, maybe we could care a little more\nSo maybe we should love somebody\nInstead of polishing the bombs of holy war\nKEYS, A. Here. Estados Unidos: RCA Records, 2016.\nNessa letra de canção, que aborda um contexto de ódio \ne intolerância, o marcador “instead of ” introduz a ideia de",
+      "options": [
+        {
+          "key": "A",
+          "text": "mudança de comportamento."
+        },
+        {
+          "key": "B",
+          "text": "panorama de conflitos."
+        },
+        {
+          "key": "C",
+          "text": "rotina de isolamento."
+        },
+        {
+          "key": "D",
+          "text": "perspectiva bélica."
+        },
+        {
+          "key": "E",
+          "text": "cenário religioso."
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p1.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p2.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q05",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 5,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Disponível em: http://thumbpress.com. Acesso em: 28 out. 2013.\nA relação entre as citações atribuídas ao físico Albert Einstein \ne ao cantor e compositor Bob Marley reside na crença de que \né necessário",
+      "options": [
+        {
+          "key": "A",
+          "text": "dar oportunidade a pessoas que parecem necessitadas."
+        },
+        {
+          "key": "B",
+          "text": "identificar contextos que podem representar perigo."
+        },
+        {
+          "key": "C",
+          "text": "tirar proveito de situações que podem ser adversas."
+        },
+        {
+          "key": "D",
+          "text": "evitar dificuldades que parecem ser intransponíveis."
+        },
+        {
+          "key": "E",
+          "text": "contestar circunstâncias que parecem ser harmônicas."
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p2.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p3.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q06",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 6,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Um estudo norte-americano analisou os efeitos \nda pandemia da covid-19 sobre a saúde mental e a \nmanutenção da atividade física, revelando que um fator \nestá diretamente ligado ao outro. De acordo com os dados, \nfamílias de baixa renda foram mais impactadas pelo \nciclo vicioso de falta de motivação e pelo sedentarismo. \nDiante da necessidade de distanciamento social e do \ninício da quarentena, as opções de espaços seguros \npara exercícios físicos diminuíram, o que dificultou que as \npessoas mantivessem seus níveis de atividade. Os dados \nevidenciaram que as pessoas mais ativas tinham melhor \nestado de saúde mental. As pessoas com menor renda \ntiveram mais dificuldade para manter os níveis de atividade \nfísica durante a pandemia, sendo aproximadamente \nduas vezes menos propensas a continuarem no mesmo \nritmo de exercícios de antes da pandemia. Habitantes \nde áreas urbanas mostraram maior probabilidade de \nnão conseguirem manter os níveis de atividade física \nsemelhantes aos de pessoas que vivem em zonas rurais, \nonde há mais oportunidades de sair para espaços abertos.\nDisponível em: https://revistagalileu.globo.com. \nAcesso em: 6 dez. 2021 (adaptado).\nO texto evidencia a perspectiva ampliada de saúde ao \nabordar criticamente a pandemia da covid-19 a partir do(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "busca por espaços para a prática de exercícios físicos."
+        },
+        {
+          "key": "B",
+          "text": "necessidade de se manter ativo para ter equilíbrio"
+        },
+        {
+          "key": "C",
+          "text": "distanciamento social e sua vinculação com a prática"
+        },
+        {
+          "key": "D",
+          "text": "relação entre os determinantes socioeconômicos e a"
+        },
+        {
+          "key": "E",
+          "text": "benefício de morar em áreas rurais para preservar a"
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p4.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p5.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q07",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 7,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Até ali que sabia das misérias do mundo? Nada. \nAquela noite do Castelo, tão simples, tão monótona, \nfora uma revelação! Era bem certo que a lágrima existia, \nque irrompiam soluços de peitos oprimidos, que para \nalguém os dias não tinham cor nem a noite tinha estrelas! \nEla, criada entre beijos, no aroma dos seus jardins, com as \nvontades satisfeitas, o leito fofo, a mesa delicada, sentira \nsempre no coração um desejo sem nome, um desejo ou \numa saudade absurda, a saudade do céu, como dizia o \ndr. Gervásio, e que não era mais que a doida aspiração \nda artista incipiente, que germinava no seu peito fraco.\nE aquela mesma mágoa parecia-lhe agora doce e \nembaladora, comparando-se à outra, a Sancha, da sua \nidade, negra, feia, suja, levada a pontapés, dormindo \nsem lençóis em uma esteira, comendo em pé, apressada, \nos restos parcos e frios de duas velhas, vestida de algodões \nrotos, curvada para um trabalho sem descanso nem paga!\nPor quê? Que direito teriam uns a todas as primícias e \nregalos da vida, se havia outros que nem por uma nesga \nviam a felicidade?\nALMEIDA, J. L. A falência. Disponível em: www.dominiopublico.gov.br. \nAcesso em: 28 dez. 2023.\nNesse fragmento do romance de Júlia Lopes de Almeida, \nescrito no cenário brasileiro pós-abolição, a narradora \nexprime um olhar crítico sobre a",
+      "options": [
+        {
+          "key": "A",
+          "text": "desvalorização da arte produzida por mulheres."
+        },
+        {
+          "key": "B",
+          "text": "mudança das condições de moradia do povo negro."
+        },
+        {
+          "key": "C",
+          "text": "ruptura do projeto político de emancipação feminina."
+        },
+        {
+          "key": "D",
+          "text": "exploração da força de trabalho da população negra."
+        },
+        {
+          "key": "E",
+          "text": "disputa de poder entre brancos e negros no século XIX."
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p4.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p5.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q08",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 8,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Sempre passo nervoso quando leio minha crônica \nneste jornal e percebo que escapuliu a palavra “coisa” em \nalguma frase. Acontece que “coisa” está entre as coisas \nmais deliciosas do mundo.\nO primeiro banho da minha filha foi embalado pela \nminha voz dizendo, ao fundo, “cuidado, ela ainda é uma \ncoisinha tão pequena”. “Viu só que amor? Nunca vi coisa \nassim”. O amor que não dá conta de explicação é “a coisa” \nem seu esplendor e excelência. “Alguma coisa acontece \nno meu coração” é a frase mais bonita que alguém já disse \nsobre São Paulo. E quando Caetano, citado aqui pela \nterceira vez pra defender a dimensão poética da coisa, \ndiz “coisa linda”, nós sabemos que nenhuma palavra \ndefiniria de forma mais profunda e literária o quão bela e \namada uma coisa pode ser.\n“Coisar” é verbo de quem está com pressa ou tem \nlapsos de memória. É pra quando “mexe qualquer coisa \ndentro doida”. E que coisa magnífica poder se expressar \ntal qual Caetano Veloso. Agora chega, porque “esse papo \njá tá qualquer coisa” e eu já tô “pra lá de Marrakech”.\nTATI BERNARDI. Disponível em: www1.folha.uol.com.br. \nAcesso em: 3 jan. 2024 (adaptado).\nO recurso utilizado na progressão textual para garantir a \nunidade temática dessa crônica é a",
+      "options": [
+        {
+          "key": "A",
+          "text": "intertextualidade, marcada pela citação de versos de"
+        },
+        {
+          "key": "B",
+          "text": "metalinguagem, marcada pela referência à escrita de"
+        },
+        {
+          "key": "C",
+          "text": "reiteração, marcada pela repetição de uma determinada"
+        },
+        {
+          "key": "D",
+          "text": "conexão, marcada pela presença dos conectores lógicos"
+        },
+        {
+          "key": "E",
+          "text": "pronominalização, marcada pela retomada de “minha filha”"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p4.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p5.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q09",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 9,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Telemedicina é para todos,  \nmas nem todos estão preparados\nA telemedicina, nos últimos anos, tem se destacado \ncomo uma ferramenta valiosa, proporcionando uma gama \nde benefícios que vão desde a ampliação do acesso à \nassistência médica até a otimização dos recursos de todo \no ecossistema de saúde.\nO governo federal propõe a Estratégia de Saúde Digital, \num programa destinado à transformação digital da saúde no \nBrasil. Seu principal objetivo é facilitar a troca de informações \nentre os diversos pontos da Rede de Atenção à Saúde, \npromovendo a interoperabilidade e, assim, possibilitando a \ntransição e a continuidade do cuidado nos setores público e \nprivado. Também está em discussão um projeto de lei que \ndispõe sobre o prontuário eletrônico unificado do cidadão, \no que indica o quanto o tema está em evidência tanto para \nos gestores públicos quanto para os privados.\nContudo, é importante reconhecer que nem todas as \npessoas estão igualmente preparadas para aproveitar \nplenamente os cuidados ofertados pela telemedicina. \nUm dos principais benefícios do atendimento de saúde a \ndistância é a capacidade de superar barreiras geográficas, \nproporcionando acesso a serviços médicos, especialmente \npara pacientes que residem em áreas remotas e/ou carentes \nde certas especialidades médicas, os chamados “vazios \nassistenciais”. A equidade no acesso é uma questão crítica, \numa vez que nem todos têm ao seu alcance dispositivos \ntecnológicos ou uma conexão à internet que seja confiável, \nentre outros problemas de infraestrutura. É um desafio \ntanto para os pacientes quanto para os profissionais de \nsaúde, que, em muitos casos, não contam com estrutura \npara o trabalho remoto nem com letramento digital para \ndesenvolver as funções.\nOLIVEIRA, D. Disponível em: www.correiobraziliense.com.br. \nAcesso em: 21 jan. 2024 (adaptado).\nAo tratar da telemedicina, esse texto ressalta que um dos \nbenefícios dessa tecnologia para a sociedade é o fato de ela",
+      "options": [
+        {
+          "key": "A",
+          "text": "disponibilizar prontuário único do cidadão tanto na rede"
+        },
+        {
+          "key": "B",
+          "text": "oportunizar o acesso a atendimento médico a pacientes"
+        },
+        {
+          "key": "C",
+          "text": "fornecer dispositivos tecnológicos para a realização"
+        },
+        {
+          "key": "D",
+          "text": "promover a interação entre diferentes especialidades"
+        },
+        {
+          "key": "E",
+          "text": "garantir infraestrutura para o trabalho remoto de"
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p5.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p6.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q10",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 10,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Uma definição possível para o conceito de arte \nafro-brasileira pode ser: produção plástica que é feita por \nnegros, mestiços ou brancos a partir de suas experiências \nsociais com a cultura negra nacional. Exemplos clássicos \ndessa abordagem são Carybé (1911-1997), Mestre Didi \n(1917-2013) e Djanira da Motta e Silva (1914-1979), cujas \nobras emergem e ganham forma em razão do ambiente \nsocial no qual habitaram e viveram. Se Didi era um \ncélebre representante da cultura religiosa nagô baiana e \nbrasileira, iniciado desde o ventre no candomblé, Carybé \nera argentino e, naturalizado brasileiro, envolveu-se de \ntal modo com essa religião que alguns dos orixás dos \nquais conhecemos a imagem visual são produções suas.\nDisponível em: www.premiopipa.com. \nAcesso em: 13 nov. 2021 (adaptado).\nSob a perspectiva da multiculturalidade e de acordo com \no texto, a produção artística afro-brasileira caracteriza-se \npelo(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "estranhamento no modo de apropriação da cultura"
+        },
+        {
+          "key": "B",
+          "text": "distanciamento entre as raízes de matriz africana e"
+        },
+        {
+          "key": "C",
+          "text": "visão uniformizadora das religiões de matriz africana"
+        },
+        {
+          "key": "D",
+          "text": "relação complexa entre as vivências pessoais dos"
+        },
+        {
+          "key": "E",
+          "text": "padronização da forma de produção e da temática da"
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p5.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p6.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q11",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 11,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Influenciadores negros têm recorrentemente chamado \na atenção para o fato de terem muito menos repercussão \nem suas postagens e nas entregas do seu conteúdo \nquando comparados com os influenciadores brancos, \nmesmo se fotos, contextos e anúncios forem extremamente \nsemelhantes. Segundo o site Negrê, a digital influencer \ne youtuber criadora do projeto digital Preta Pariu iniciou \num experimento em uma plataforma. Após perceber a \ncrescente queda nos índices de alcance digital, a paulista \npublicou fotografias de modelos brancas em seu perfil e \nanalisou as métricas de engajamento. Surpreendentemente, \na ferramenta de estatísticas aferiu um aumento de 6 000% \nem seu alcance.\nDisponível em: https://diplomatique.org.br. \nAcesso em: 21 jan. 2024 (adaptado).\nA apresentação do dado estatístico ao final desse texto \nrevela a intenção de",
+      "options": [
+        {
+          "key": "A",
+          "text": "demonstrar a repercussão de projetos como o Preta Pariu."
+        },
+        {
+          "key": "B",
+          "text": "informar o quantitativo de postagens da comunidade negra."
+        },
+        {
+          "key": "C",
+          "text": "potencializar o alcance de textos e imagens em sites"
+        },
+        {
+          "key": "D",
+          "text": "exaltar a qualidade das publicações sobre negritude"
+        },
+        {
+          "key": "E",
+          "text": "comprovar a relação entre o alcance de conteúdos"
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p5.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p6.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q12",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 12,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Pressão, depressão, estresse e crise de ansiedade. \nOs males da sociedade contemporânea também estão \nno esporte. A tenista Naomi Osaka, do Japão, jogadora \nmais bem paga do mundo e que já ocupou o número 2 do \nranking, retirou-se do torneio de Roland Garros de 2021 \nporque não estava conseguindo administrar as crises \nde ansiedade provocadas pelos grandes eventos, por \nser uma estrela aos 23 anos, e pelo peso de parte da \nimprensa. O tenista australiano Nick Kyrgios, de 25 anos, \nrevelou sua “situação triste e solitária” enquanto lutava \ncontra a depressão causada pelo ritmo avassalador do \nCircuito Mundial de Tênis. O jogador de basquete americano \nKevin Love também tornou público seu quadro de ansiedade \ne depressão. O mundo do atleta é solitário e distante da \nfamília. O que vemos numa partida não reflete a rotina \ndesgastante. A imprensa denomina atletas como heróis, \ncomo se aquele corpo fosse indestrutível, mas a mente é \no ponto fraco da história.\nDisponível em: www.uol.com.br. Acesso em: 31 out. 2021 (adaptado).\nAs causas do desequilíbrio na saúde mental apontadas \nno texto estão relacionadas às",
+      "options": [
+        {
+          "key": "A",
+          "text": "nacionalidades diversificadas dos praticantes."
+        },
+        {
+          "key": "B",
+          "text": "modalidades esportivas distintas."
+        },
+        {
+          "key": "C",
+          "text": "faixas etárias aproximadas."
+        },
+        {
+          "key": "D",
+          "text": "representações heroicas dos atletas."
+        },
+        {
+          "key": "E",
+          "text": "pressões constantes dos eventos e da mídia."
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p6.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p7.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q13",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 13,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Já ouvi gente falando que o podcast é o renascimento \ndo rádio. O rádio é genial, uma mídia imorredoura, \nmas podcast não tem nada a ver com ele. O formato está \nmais próximo do ensaio literário do que de um programa \nde ondas curtas, médias ou longas.\nPodcasts são antípodas das redes sociais. Enquanto \nelas são dispersivas, levam à evasão e à desinformação, \nos podcasts são uma possibilidade de imersão, \nconcentração, aprendizado. Depois que eles surgiram, \nlavar a louça e me locomover pela cidade viraram um \nprogramaço. Um pós-almoço de domingo e aprendo tudo \nsobre bonobos e gorilas. Um táxi pro aeroporto e chego \nao embarque PhD em reforma tributária.\nPRATA, A. Disponível em: www1.folha.uol.com.br. \nAcesso em: 7 jan. 2024 (adaptado).\nSegundo a argumentação construída nesse texto, o podcast",
+      "options": [
+        {
+          "key": "A",
+          "text": "provoca dispersão da atenção em seu público."
+        },
+        {
+          "key": "B",
+          "text": "funciona por meio de uma frequência de ondas curtas."
+        },
+        {
+          "key": "C",
+          "text": "propicia divulgação de conhecimento para seus usuários."
+        },
+        {
+          "key": "D",
+          "text": "tem um formato de interação semelhante ao das redes"
+        },
+        {
+          "key": "E",
+          "text": "constitui uma evolução na transmissão de informações"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p6.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p7.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q14",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 14,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Evanildo Bechara prepara a sua aposentadoria de pouco \nem pouco, como se a adiasse ao máximo. Aos 95 anos, \no imortal da Academia Brasileira de Letras (ABL) alcançou \num status de astro pop no mundo da filologia e da gramática. \nQuando ainda tinha saúde para viagens mais longas, o filólogo \nlotava plateias em suas palestras na Europa e no Brasil, \nque não raro terminavam com filas para selfies.\nA idade acentuou o lado “cientista” e professoral de \nBechara, que adota um tom técnico na conversa até mesmo \ndiante das perguntas mais pessoais. — “Qual o seu tipo \npreferido de leitura?”. — “A minha leitura está dividida em \nduas partes, a científica e a literária, estabelecendo uma \nrelação de causa e efeito entre elas.” — responde.\nAinda adolescente, Bechara descobriu a lexicologia. \nUm “novo mundo” se abriu para o pernambucano, que \nse mantém atento às metamorfoses do nosso idioma. \nSeu colega de ABL, o filólogo Ricardo Cavaliere, se lembra \nde quando deu carona para o mestre e este encucou com \nos estrangeirismos do aplicativo de navegação instalado \nno veículo. — “A vozinha do aplicativo avisou que havia \num radar de velocidade ‘reportado’ à frente”, lembra \nCavaliere. — “Esse ‘reportado’ é uma importação, né?”, \nnotou Bechara.\nDisponível em: https://oglobo.globo.com. \nAcesso em: 3 jan. 2024 (adaptado).\nNesse texto, as falas atribuídas a Evanildo Bechara são \nrepresentativas da variedade linguística",
+      "options": [
+        {
+          "key": "A",
+          "text": "situacional, pois o contexto exige o uso da linguagem"
+        },
+        {
+          "key": "B",
+          "text": "regional, pois ele traz marcas do falar de seu local de"
+        },
+        {
+          "key": "C",
+          "text": "sociocultural, pois sua formação pressupõe o uso de"
+        },
+        {
+          "key": "D",
+          "text": "geracional, pois ele emprega termos característicos de"
+        },
+        {
+          "key": "E",
+          "text": "ocupacional, pois ele faz uso de termos específicos de"
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p6.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p7.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q15",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 15,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "TEXTO I\nA linguagem visual dos adornos transmite informações \nsobre prestígio e transgressão, direito e dever, pois só é \npermitido ao indivíduo o uso de adornos de sua linhagem. \nQuando diretamente vinculadas aos conceitos cosmológicos, \nas artes indígenas convertem-se antes em prismas que \nrefletem as concepções acerca da composição do universo \ne dos componentes que o povoam.\nAGUILAR, N. (Org.); DIAS, J. A. B. F.; VELTHEN, L. H. V. Mostra do \nredescobrimento: artes indígenas. São Paulo: Fundação Bienal de \nSão Paulo-Associação Brasil 500 anos, 2000 (adaptado).\nTEXTO II\nDiadema (etnia Kayapó). Estados do Mato Grosso e Pará.  \nMuseu de Arte Indígena, s.d.\nDisponível em: www.maimuseu.com.br. Acesso em: 11 jul. 2024.\nPela leitura desses textos, infere-se que a compreensão \nda arte plumária indígena requer a consideração da",
+      "options": [
+        {
+          "key": "A",
+          "text": "indistinção hierárquica entre os membros de um mesmo"
+        },
+        {
+          "key": "B",
+          "text": "prevalência dos elementos do mundo natural sobre as"
+        },
+        {
+          "key": "C",
+          "text": "reconfiguração constante das representações coletivas"
+        },
+        {
+          "key": "D",
+          "text": "indeterminação entre as noções de identidade individual"
+        },
+        {
+          "key": "E",
+          "text": "indissociabilidade entre objetos ritualísticos e os papéis"
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p7.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p8.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q16",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 16,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "TEXTO I\nCapítulo 4, versículo 3\nMinha palavra vale um tiro, eu tenho muita munição\nNa queda ou na ascensão, minha atitude vai além\nE tem disposição pro mal e pro bem\nTalvez eu seja um sádico ou um anjo, um mágico\nOu juiz, ou réu, o bandido do céu\nMalandro ou otário, quase sanguinário\nFranco atirador se for necessário\nRevolucionário, insano, ou marginal\nAntigo e moderno, imortal\nFronteira do céu com o inferno\nAstral imprevisível, como um ataque cardíaco do verso.\nRACIONAIS MCs. Sobrevivendo ao inferno. \nSão Paulo: Cosa Nostra, 1997 (fragmento).\nTEXTO II\nPode-se dizer que as várias experiências narradas \nnos discos do Racionais tratam no fundo de um só tema: \na violência que estrutura a nossa sociedade. O grupo \ncanta a violência que estrutura as relações entre os \nfamiliares, os amigos, o homem e a mulher, o traficante e \no viciado. Canta a violência do crime. A violência causada \npor inveja ou por vaidade. Também canta que a relação \nentre as classes sociais é sempre violenta: o racismo, \na miséria, os baixos salários, a concentração de renda, \na esmola, a publicidade, o alcoolismo, o jornalismo, o poder \npolicial, a justiça, o sistema penitenciário, o governo existem \npor meio da violência.\nGARCIA, W. Ouvindo Racionais MCs. Teresa: revista de \nliteratura brasileira, n. 5, 2004 (adaptado).\nNa letra da canção, a tematização da violência mencionada \nno Texto II manifesta-se",
+      "options": [
+        {
+          "key": "A",
+          "text": "como metáfora da desigualdade, que associa a ideia de"
+        },
+        {
+          "key": "B",
+          "text": "na referência a termos bélicos, que sinaliza uma crítica"
+        },
+        {
+          "key": "C",
+          "text": "como procedimento metalinguístico, que concebe a"
+        },
+        {
+          "key": "D",
+          "text": "nas definições ambíguas do enunciador, que inverte e"
+        },
+        {
+          "key": "E",
+          "text": "na menção à imortalidade, que sugere a possibilidade de"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p7.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p8.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q17",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 17,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "As reações à sétima temporada foram o ápice do último \nestágio em Game of Thrones. De forma alguma, este que \nvos fala seria capaz de argumentar que a série é perfeita, \nmas os defeitos que existem aqui sempre existiram, de uma \nforma ou de outra, durante os sete anos em que ela esteve \nno ar. Os dois roteiristas foram brilhantes em traduzir os \npersonagens intrincados e conflituosos da obra de George \nR. R. Martin, mas nunca souberam exatamente como fazer \njus a eles (e especialmente a elas, as mulheres da trama).\nA verdade é que, com tudo isso e mais Ramin Djawadi \nevocando sentimentos e ambientes improváveis com sua \ntrilha sonora magistral, a série não conseguiria ser ruim nem \nse tentasse, mas continua sendo uma pena que, ao buscar \no seu final com tanta sede e tanta celeridade, Benioff e \nWeiss tenham tirado sua qualidade mais preciosa: o fôlego, \na paciência e o detalhismo que faziam suas palavras se \nlevantarem do papel e ganharem vida.\nDisponível em: https://observatoriodocinema.uol.com.br. \nAcesso em: 29 nov. 2017 (adaptado).\nAinda que faça uma avaliação positiva da série, nessa \nresenha, o autor aponta aspectos negativos da obra ao utilizar",
+      "options": [
+        {
+          "key": "A",
+          "text": "marcas de impessoalidade que disfarçam a opinião do"
+        },
+        {
+          "key": "B",
+          "text": "expressões adversativas para fazer ressalvas às"
+        },
+        {
+          "key": "C",
+          "text": "interlocução com o leitor para corroborar opiniões"
+        },
+        {
+          "key": "D",
+          "text": "eufemismos que minimizam as críticas feitas à"
+        },
+        {
+          "key": "E",
+          "text": "antíteses que opõem a fragilidade do roteiro à beleza"
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p8.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p9.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q18",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 18,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "— Vá para o inferno, Gondim. Você acanalhou o troço. \nEstá pernóstico, está safado, está idiota. Há lá ninguém \nque fale dessa forma!\nAzevedo Gondim apagou o sorriso, engoliu em seco, \napanhou os cacos da sua pequenina vaidade e replicou \namuado que um artista não pode escrever como fala.\n— Não pode? — perguntei com assombro. E por quê?\nAzevedo Gondim respondeu que não pode porque \nnão pode.\n— Foi assim que sempre se fez. A literatura é a \nliteratura, seu Paulo. A gente discute, briga, trata de \nnegócios naturalmente, mas arranjar palavras com tinta é \noutra coisa. Se eu fosse escrever como falo, ninguém me lia.\nRAMOS, G. São Bernardo. Rio de Janeiro: Record, 2009.\nNesse fragmento, a discussão dos personagens traz à \ncena um debate acerca da escrita que",
+      "options": [
+        {
+          "key": "A",
+          "text": "diferencia a produção artística do registro padrão da língua."
+        },
+        {
+          "key": "B",
+          "text": "aproxima a literatura de dialetos sociais de pouco prestígio."
+        },
+        {
+          "key": "C",
+          "text": "defende a relação entre a fala e o estilo literário de um autor."
+        },
+        {
+          "key": "D",
+          "text": "contrapõe o preciosismo linguístico a situações de"
+        },
+        {
+          "key": "E",
+          "text": "associa o uso da norma culta à ocorrência de"
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p8.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p9.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q19",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 19,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "VISCONTI, E. Três meninas no jardim. Óleo sobre tela,  \n81 × 65 cm. Museu Nacional de Belas Artes,  \nRio de Janeiro, 1935.\nDisponível em: www.eliseuvisconti.com.br. Acesso em: 18 set. 2012.\nEliseu D’Angelo Visconti (1866-1944) desenvolveu diversas \nobras no Brasil, com grande influência das escolas \neuropeias. Em sua pintura Três meninas no jardim, há",
+      "options": [
+        {
+          "key": "A",
+          "text": "culto à fluidez e ao progresso, nos moldes do ideário"
+        },
+        {
+          "key": "B",
+          "text": "valorização de formas decompostas, a exemplo do"
+        },
+        {
+          "key": "C",
+          "text": "efeitos fugazes de luz e movimento, que remetem à"
+        },
+        {
+          "key": "D",
+          "text": "expressão do sonho e do inconsciente, que dialoga"
+        },
+        {
+          "key": "E",
+          "text": "tematização de elementos cotidianos, que resgata"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p8.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p9.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q20",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 20,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "O festival folclórico de Parintins, no Amazonas, \nanunciou que o Boi Caprichoso levou, em 2018, seu \n23º título — contra 31 do adversário Boi Garantido. \nDesde o fim do evento que não paro de cantar duas \nmúsicas que aprendi no Bumbódromo (arena onde ocorre \no espetáculo). Revezo entre “meu amor, eu sou feliz, ééé \nazul o meu país”, obviamente do boi azul, o Caprichoso; \ne “vermelhou o curral, a ideologia avermelhou”, do boi \nvermelho, o Garantido. Esse revezamento seria proibido \nem Parintins, cidade tão dividida entre as torcidas dos bois. \nEm Parintins, você tem de ter um lado. Há aqueles que \ntentam fugir e dizem que são “garanchoso”, com os quais \nme identifiquei, mas esses são vistos com certo desdém.\nDYNIEWICZ, L. Disponível em: https://viagem.estadao.com.br. \nAcesso em: 22 nov. 2018 (adaptado).\nA apropriação de elementos como rivalidade, competitividade, \ntorcida e gritos de guerra pelo festival de Parintins evidencia a",
+      "options": [
+        {
+          "key": "A",
+          "text": "escolha de um local específico para a festa."
+        },
+        {
+          "key": "B",
+          "text": "importância atribuída pelos turistas aos bois."
+        },
+        {
+          "key": "C",
+          "text": "interação social estabelecida após o evento."
+        },
+        {
+          "key": "D",
+          "text": "aproximação da manifestação folclórica com o esporte."
+        },
+        {
+          "key": "E",
+          "text": "composição de enredos musicais pelos “garanchosos”."
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p9.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q21",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 21,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "O Brasil somou cerca de 60 mil novos casos de câncer \nde mama até o final de 2019, número que corresponde a \n25% de todos os diagnósticos da condição registrados no \npaís, segundo dados do Instituto Nacional do Câncer (Inca). \nApesar de o Outubro Rosa ser o mês de conscientização \nsobre a questão voltada para as mulheres, é muito importante \nlembrar que um dos grandes mitos da medicina é o de que \no câncer de mama não afeta o sexo masculino.\nFatores importantes para detectar o câncer de mama \nmasculino:\n1.\t\u0007  \u0007Genética: se houver casos na família, as chances são \num pouco mais elevadas.\n2.\t\u0007  \u0007Hormônios: homens podem desenvolver tecido real das \nglândulas mamárias por tomarem certos medicamentos \nou apresentarem níveis hormonais anormais.\n3.\t\u0007  \u0007Caroços: é necessário que os médicos se atentem a \nalguns sintomas suspeitos, como um caroço na área \ndo tórax.\n4.\t\u0007  \u0007Retração na pele: em situações mais graves do câncer \nde mama masculino, é possível também ocorrer uma \nretração do mamilo.\nDisponível em: https://pebmed.com.br. \nAcesso em: 24 nov. 2021 (adaptado).\nAs informações dessa reportagem auxiliam no combate \nao câncer de mama masculino por apresentarem um \nalerta sobre o(s)",
+      "options": [
+        {
+          "key": "A",
+          "text": "sinais indicadores da doença."
+        },
+        {
+          "key": "B",
+          "text": "índice de crescimento de casos."
+        },
+        {
+          "key": "C",
+          "text": "exames para diagnóstico do tumor."
+        },
+        {
+          "key": "D",
+          "text": "mitos a respeito da herança genética."
+        },
+        {
+          "key": "E",
+          "text": "período de campanhas de conscientização."
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p9.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q22",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 22,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Feijoada à minha moda\nAmiga Helena Sangirardi\nConforme um dia prometi\nOnde, confesso que esqueci\nE embora — perdoe — tão tarde\n(Melhor do que nunca!) este poeta\nSegundo manda a boa ética\nEnvia-lhe a receita (poética)\nDe sua feijoada completa.\nEm atenção ao adiantado\nDa hora em que abrimos o olho\nO feijão deve, já catado\nNos esperar, feliz, de molho.\nUma vez cozido o feijão\n(Umas quatro horas, fogo médio)\nNós, bocejando o nosso tédio\nNos chegaremos ao fogão\n[...]\nDe carne-seca suculenta\nGordos paios, nédio toucinho\n(Nunca orelhas de bacorinho\nQue a tornam em excesso opulenta!)\n[...]\nEnquanto ao lado, em fogo brando\nDesmilinguindo-se de gozo\nDeve também se estar fritando\nO torresminho delicioso\nEm cuja gordura, de resto\n(Melhor gordura nunca houve!)\nDeve depois frigir a couve\nPicada, em fogo alegre e presto.\n[...]\nDever cumprido. Nunca é vã\nA palavra de um poeta... — jamais!\nAbraça-a, em Brillat-Savarin,\nO seu Vinicius de Moraes.\nMORAES, V. In: CÍCERO, A.; QUEIROZ, E. (Org.). Vinicius de Moraes: \n nova antologia poética. São Paulo: Cia. das Letras, 2005 (fragmento).\nApesar de haver marcas formais de carta e receita, \na característica que define esse texto como poema \né o(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "nomeação de um interlocutor."
+        },
+        {
+          "key": "B",
+          "text": "manifestação de intimidade."
+        },
+        {
+          "key": "C",
+          "text": "descrição de procedimentos."
+        },
+        {
+          "key": "D",
+          "text": "utilização de uma linguagem expressiva."
+        },
+        {
+          "key": "E",
+          "text": "apresentação de ingredientes culinários."
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p9.png",
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q23",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 23,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "TEXTO I\nA fotografia de Regina Valkenborgh apresenta \n2 953 arcos de luz cruzando o céu e registra o nascer e o pôr \ndo sol ao longo de oito anos. Em 2012, essa estudante da \nUniversidade de Hertfordshire colocou uma folha de papel \nfotográfico em uma lata com um pequeno orifício, criando \nassim uma câmera pinhole de baixa tecnologia. Porém, \na lata foi esquecida em um telescópio no observatório da \nuniversidade. Esse projeto esquecido acabou revelando a \nfoto do pôr do sol de maior exposição já tirada.\nSANTOS, A. Disponível em: https://socientifica.com.br. \n Acesso em: 13 nov. 2021 (adaptado).\nTEXTO II\nRepresentação de 2 953 arcos de luz cruzando o céu, \nregistrando o nascer e o pôr do sol ao longo de oito anos\nVALKENBORGH, R. Fotografia. Reino Unido: \nUniversidade Hertfordshire (2012-2020).\nDisponível em: www.thisiscolossal.com. Acesso em: 1 nov. 2022.\nO experimento realizado por Regina Valkenborgh resultou \nno entendimento de que a",
+      "options": [
+        {
+          "key": "A",
+          "text": "técnica fotográfica alternativa limita o registro de imagens."
+        },
+        {
+          "key": "B",
+          "text": "apreciação da natureza depende de registro fotográfico."
+        },
+        {
+          "key": "C",
+          "text": "criatividade artística decorre do conhecimento científico."
+        },
+        {
+          "key": "D",
+          "text": "câmera de criação caseira tem valor tecnológico."
+        },
+        {
+          "key": "E",
+          "text": "produção artística pode ser resultado do acaso."
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q24",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 24,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Os Jogos Olímpicos já não são mais os mesmos. \nE isso não é nem uma crítica, nem um elogio. É uma \nconstatação. Esse movimento começou com o vôlei de \npraia tornando-se esporte olímpico em 1996, passou pela \nchegada do BMX Racing como primeiro “radical” a entrar \nno programa em 2008, e agora atinge seu momento mais \ninsólito com a inclusão do break dance como modalidade \ndos Jogos de Paris, em 2024. Para os mais tradicionalistas, \no cruzamento da linha que delimitava o que é esporte e o \nque é cultura e arte é uma afronta ao espírito dos Jogos \nOlímpicos. Skate e surfe, que há anos têm competições na \ntelevisão, pareciam estar na divisa entre esses dois mundos, \no limite do aceitável pelos puristas. O break dance estaria \ndo lado de “lá” dessa fronteira. Para o Comitê Olímpico \nInternacional, a decisão faz parte de uma estratégia de \nse comunicar com jovens urbanos que se exercitam e se \nentretêm de uma maneira muito diferente da dos seus avós.\nDisponível em: www.uol.com.br. Acesso em: 19 nov. 2021 (adaptado).\nA mudança no programa olímpico mencionada no texto \nmostra que o esporte está se",
+      "options": [
+        {
+          "key": "A",
+          "text": "aproximando da aventura."
+        },
+        {
+          "key": "B",
+          "text": "mantendo em sua forma padrão."
+        },
+        {
+          "key": "C",
+          "text": "tornando uma forma de dança."
+        },
+        {
+          "key": "D",
+          "text": "afastando de elementos culturais."
+        },
+        {
+          "key": "E",
+          "text": "adaptando às demandas do seu tempo."
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q25",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 25,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Memes e fake news: o impacto na \neducação das crianças\nHá quem diga que o Brasil nunca mais foi o mesmo \ndepois dos memes. Na economia da velocidade, alguns \napostam no humor, outros no engajamento político, e tem \ngente investindo alto na mentira também. Diante desse \ncenário, uma pergunta se torna essencial: será que todo \nmundo está conseguindo traduzir as mensagens postadas, \ncurtidas e compartilhadas?\nEssa dúvida incentivou uma professora de língua \nportuguesa a desenvolver uma proposta de leitura e análise \ncrítica de memes com estudantes do ensino fundamental, na \nrede pública do Distrito Federal, na cidade de Samambaia. \n“Percebi que muitos alunos e pais estavam divulgando \nconteúdos sem saber o que havia por trás das palavras”, \nrelata a professora.\n“O que antes era engraçado para os alunos passou \na ser visto com outros olhos”, afirma a professora. Para \nela, que utilizou a representação da criança em memes \nde WhatsApp como material gerador das discussões em \nsala de aula, aguçar o olhar sobre essas mensagens \nimpacta diretamente a atitude de postar, curtir e compartilhar \nconteúdos ao estimular o uso consciente da informação \nque circula nas plataformas de mídia social.\nLetramento político e midiático é um desafio \nintergeracional. Em tempos de notícias falsas, de imagens \nmanipuladas e de memes sendo usados como triunfo \nda verdade de cada um, checagem de informação e \ninterpretação de texto acabam se tornando moedas valiosas.\nDisponível em: https://lunetas.com.br. Acesso em: 15 jan. 2024 (adaptado).\nAo abordar a relação dos memes com a educação, \na reportagem sustenta uma crítica à",
+      "options": [
+        {
+          "key": "A",
+          "text": "falta de fiscalização no uso de aplicativos de mensagens"
+        },
+        {
+          "key": "B",
+          "text": "divulgação de informação manipulada em postagens"
+        },
+        {
+          "key": "C",
+          "text": "utilização de ferramentas digitais no trabalho"
+        },
+        {
+          "key": "D",
+          "text": "exploração de conteúdos humorísticos nas mídias"
+        },
+        {
+          "key": "E",
+          "text": "propagação de mensagens com objetivos políticos."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2024/dia1/cd3/enem__2024__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q26",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 26,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Se você é feito de música, este texto é pra você\nÀs vezes, no silêncio da noite, eu fico imaginando: \nque graça teria a vida sem música? Sem ela não há paz, \nnão há beleza. Nos dias de festa e nas madrugadas de \npranto, nas trilhas dos filmes e nas corridas no parque, \no que seria de nós sem as canções que enfeitam o cotidiano \ncom ritmo e verso? Quem nunca curou uma dor de cotovelo \ndançando lambada ou terminou de se afundar ouvindo \nsertanejo sofrência? Quantos já criticaram funk e fecharam \na noite descendo até o chão? Tudo bem... Raul nos ensinou \nque é preferível ser essa metamorfose ambulante do que \nter aquela velha opinião formada sobre tudo.\nJá somos castigados com o peso das tragédias, \no barulho das buzinas, os ruídos dos conflitos. É pau, \né pedra, é o fim do caminho. Há uma nuvem de lágrimas \nsobre os olhos, você está na lanterna dos afogados, \no coração despedaçado. Mas, como um sopro, da janela \ndo vizinho, entra o samba que reanima a mente. Floresce \ndo fundo do nosso quintal a batida que ressuscita o ânimo, \nsintoniza a alegria e equaliza o fôlego. Levanta, sacode \na poeira, dá a volta por cima.\nBITTAR, L. Disponível em: www.revistabula.com. \n Acesso em: 21 nov. 2021 (adaptado).\nDefendendo a importância da música para o bem-estar e \no equilíbrio emocional das pessoas, a autora usa, como \nrecurso persuasivo, a",
+      "options": [
+        {
+          "key": "A",
+          "text": "contradição, ao associar o coração despedaçado"
+        },
+        {
+          "key": "B",
+          "text": "metáfora, ao citar a imagem da metamorfose ambulante."
+        },
+        {
+          "key": "C",
+          "text": "intertextualidade, ao resgatar versos de letras de canções."
+        },
+        {
+          "key": "D",
+          "text": "enumeração, ao mencionar diferentes ritmos musicais."
+        },
+        {
+          "key": "E",
+          "text": "hipérbole, ao falar em “sofrência”, “tragédias” e “afogados”."
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q27",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 27,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "pessoas com suas malas\nmochilas e valises\nchegam e se vão\nse encontram\nse despedem\ne se despem\nde seus pertences\ncomo se pudessem chegar\na algum lugar\nonde elas mesmas\nnão estivessem\nRUIZ, A. In: SANT’ANNA, A. Rua Aribau: coletânea de poemas. \nPorto Alegre: TAG, 2018.\nEsse poema, por meio da ideia de deslocamento, metaforiza \na tentativa de pessoas",
+      "options": [
+        {
+          "key": "A",
+          "text": "buscarem novos encontros."
+        },
+        {
+          "key": "B",
+          "text": "fugirem da própria identidade."
+        },
+        {
+          "key": "C",
+          "text": "procurarem lugares inexplorados."
+        },
+        {
+          "key": "D",
+          "text": "partirem em experiências inusitadas."
+        },
+        {
+          "key": "E",
+          "text": "desaparecerem da vida em sociedade."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q28",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 28,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Falar errado é uma arte, Arnesto!\nNo dia 6 de agosto de 1910, Emma Riccini Rubinato \npariu um garoto sapeca em Valinhos e deu a ele o nome \nde João Rubinato. Na escola, João não passou do terceiro \nano. Não era a área dele, tinha de escolher outra. Fez o que \napareceu. Foi ser garçom, metalúrgico, até virar radialista, \ncomediante, ator de cinema e TV, cantor e compositor. \nDe samba.\nComo tinha sobrenome italiano, João resolveu mudar \npara emplacar seu samba. E como ia mudar o sobrenome, \nmudou o nome. Virou Adoniran Barbosa. O cara falava \nerrado, voz rouca, pinta de malandro da roça. Virou ícone da \nmúsica brasileira, o mais paulista de todos, falando errado \ne irritando Vinicius de Moraes, que ficou de bico fechado \ndepois de ouvir a música que Adoniran fez para a letra \nBom dia, tristeza, de autoria do Poetinha. Coisa de arrepiar.\nPara toda essa gente que implicava, Adoniran tinha \numa resposta neoerudita: “Gosto de samba e não foi fácil, \npra mim, ser aceito como compositor, porque ninguém \nqueria nada com as minhas letras que falavam ‘nóis vai’, \n‘nóis fumo’, ‘nóis fizemo’, ‘nóis peguemo’. Acontece que é \npreciso saber falar errado. Falar errado é uma arte, senão \nvira deboche”.\nEle sabia o que fazia. Por isso dizia que falar errado \nera uma arte. A sua arte. Escolhida a dedo porque casava \ncom seu tipo. O Samba do Arnesto é um monumento à \nfala errada, assim como Tiro ao Álvaro. O erudito podia \nresmungar, mas o povo se identificava.\nPEREIRA, E. Disponível em: www.tribunapr.com.br. \nAcesso em: 8 jul. 2024 (adaptado).\nO “falar errado” a que o texto se refere constitui um \npreconceito em relação ao uso que Adoniran Barbosa \nfazia da língua em suas composições, pois esse uso",
+      "options": [
+        {
+          "key": "A",
+          "text": "marcava a linguagem dos comediantes no mesmo"
+        },
+        {
+          "key": "B",
+          "text": "prejudicava a compreensão das canções pelo público."
+        },
+        {
+          "key": "C",
+          "text": "denunciava a ausência de estilo nas letras de canção."
+        },
+        {
+          "key": "D",
+          "text": "restringia a criação poética nas letras do compositor."
+        },
+        {
+          "key": "E",
+          "text": "transgredia a norma-padrão vigente à época."
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q29",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 29,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Cap. XLVIII / Terpsícore\nAo contrário do que ficou dito atrás, Flora não se aborreceu \nna ilha. Conjeturei mal, emendo-me a tempo. Podia aborrecer-se \npelas razões que lá ficam, e ainda outras que poupei ao leitor \napressado; mas, em verdade, passou bem a noite. A novidade \nda festa, a vizinhança do mar, os navios perdidos na sombra, \na cidade defronte com os seus lampiões de gás, embaixo e \nem cima, na praia e nos outeiros, eis aí aspectos novos que \na encantaram durante aquelas horas rápidas.\nNão lhe faltavam pares, nem conversação, nem alegria \nalheia e própria. Toda ela compartia da felicidade dos outros. \nVia, ouvia, sorria, esquecia-se do resto para se meter \nconsigo. Também invejava a princesa imperial, que viria a \nser imperatriz um dia, com o absoluto poder de despedir \nministros e damas, visitas e requerentes, e ficar só, no mais \nrecôndito do paço, fartando-se de contemplação ou de \nmúsica. Era assim que Flora definia o ofício de governar. \nTais ideias passavam e tornavam. De uma vez alguém lhe \ndisse, como para lhe dar força: “Toda alma livre é imperatriz!”.\nASSIS, M. Esaú e Jacó. Rio de Janeiro: Nova Aguilar, 1974.\nConvidada para o último baile do Império, na Ilha Fiscal, \nlocalizada no Rio de Janeiro, Flora devaneia sobre \naspectos daquele contexto, no qual o narrador ironiza a",
+      "options": [
+        {
+          "key": "A",
+          "text": "promessa de esperança com o futuro regime."
+        },
+        {
+          "key": "B",
+          "text": "alienação da elite em relação ao fim da monarquia."
+        },
+        {
+          "key": "C",
+          "text": "perspectiva da contemplação distanciada da capital."
+        },
+        {
+          "key": "D",
+          "text": "animosidade entre população e membros da nobreza."
+        },
+        {
+          "key": "E",
+          "text": "fantasia de amor e de casamento da mulher burguesa."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q30",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 30,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Meu irmão é filho adotivo. Há uma tecnicidade no termo, \nfilho adotivo, que contribui para sua aceitação social. Há uma \nnovidade que por um átimo o absolve das mazelas do passado, \nque parece limpá-lo de seus sentidos indesejáveis. Digo que \nmeu irmão é filho adotivo e as pessoas tendem a assentir com \nsolenidade, disfarçando qualquer pesar, baixando os olhos \ncomo se não sentissem nenhuma ânsia de perguntar mais \nnada. Talvez compartilhem da minha inquietude, talvez de \nfato se esqueçam do assunto no próximo gole ou na próxima \ngarfada. Se a inquietude continua a reverberar em mim, \né porque ouço a frase também de maneira parcial — meu irmão \né filho — e é difícil aceitar que ela não termine com a verdade \ntautológica habitual: meu irmão é filho dos meus pais. Estou \nentoando que meu irmão é filho e uma interrogação sempre \nme salta aos lábios: filho de quem?\nFUCKS, J. A resistência. São Paulo: Cia. das Letras, 2015.\nDas reflexões do narrador, apreende-se uma perspectiva \nque associa a adoção",
+      "options": [
+        {
+          "key": "A",
+          "text": "a representações sociais estigmatizadas da parentalidade."
+        },
+        {
+          "key": "B",
+          "text": "à necessidade de aprovação por parte de desconhecidos."
+        },
+        {
+          "key": "C",
+          "text": "ao julgamento velado de membros do núcleo familiar."
+        },
+        {
+          "key": "D",
+          "text": "ao conflito entre o termo técnico e o vínculo afetivo."
+        },
+        {
+          "key": "E",
+          "text": "a inquietações próprias das relações entre irmãos."
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q31",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 31,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "TEXTO I\nA 13 de fevereiro de 1946, Graciliano Ramos escreve \numa carta a Cândido Portinari relembrando uma visita que \nlhe fizera quando tivera a ocasião de apreciar algumas \ntelas da série Retirantes. Diz o escritor alagoano:\nCaríssimo Portinari:\nA sua carta chegou muito atrasada, e receio que esta \nresposta já não o ache fixando na tela a nossa pobre \ngente da roça. Não há trabalho mais digno, penso eu. \nDizem que somos pessimistas e exibimos deformações; \ncontudo, as deformações e essa miséria existem fora da \narte e são cultivadas pelos que nos censuram. [...]\nDos quadros que você me mostrou quando almocei no \nCosme Velho pela última vez, o que mais me comoveu foi \naquela mãe com a criança morta. Saí de sua casa com um \npensamento horrível: numa sociedade sem classes e sem \nmiséria, seria possível fazer-se aquilo? Numa vida tranquila \ne feliz, que espécie de arte surgiria? Chego a pensar que \nteríamos cromos, anjinhos cor-de-rosa, e isto me horroriza.\nGraciliano\nDisponível em: https://graciliano.com.br. \nAcesso em: 6 fev. 2024 (adaptado).\nTEXTO II\nHistórias de ninar (adultos)\nHouve um tempo — tão perto, e, ó, tão longe — em que \na arte era um holofote na unha encravada, não um \ncampeonato de melhores esmaltes.\nRaskolnikov matava velhinhas, a família de Gregor Samsa \no assassinava a “maçãzadas”, Memórias póstumas de Brás \nCubas (Machado de Assis) é o retrato mais perfeito de tudo \no que tem de pior na sociedade brasileira, uma sequência \ntristemente hilária de ações moralmente condenáveis, atitudes \npusilânimes, cálculos mesquinhos e maus passos cretinos.\nA literatura, o cinema e o teatro vêm se transformando \nnum exercício de lacração: o mal está sempre no outro, os \nprotagonistas são ironmen / women da virtude. A pessoa \nsai da leitura ou da sessão não com a guarda abaixada, \nas certezas abaladas, mais próxima da verdade (ou, à falta \nde uma palavra melhor, da sinceridade): sai com suas \ncertezas reforçadas.\nA realidade é confusa. Contraditória. Muitas vezes \nincompreensível. A arte é onde tentamos nos mostrar nus, \ncom todos os nossos defeitos.\nPRATA, A. Disponível em: www1.folha.uol.com.br. \nAcesso em: 12 jan. 2024 (adaptado).\nNo que diz respeito à arte, o posicionamento de Antônio \nPrata, no Texto II, aproxima-se da tese de Graciliano Ramos, \nno Texto I, uma vez que ambos",
+      "options": [
+        {
+          "key": "A",
+          "text": "defendem a dignidade do ofício dos artistas."
+        },
+        {
+          "key": "B",
+          "text": "concluem que a arte reforça crenças pessoais."
+        },
+        {
+          "key": "C",
+          "text": "apresentam a pobreza como inspiração para a arte."
+        },
+        {
+          "key": "D",
+          "text": "afirmam o necessário caráter desestabilizador da arte."
+        },
+        {
+          "key": "E",
+          "text": "atestam que há mudanças significativas na produção"
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q32",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 32,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Por trás do universo “masculino” das lutas, é cada \nvez mais notório o aumento da participação de mulheres \nnessa prática corporal. Algumas situações reforçam esse \nfenômeno de ocupação em ambientes de lutas: a inclusão \nde mulheres em combates de artes marciais mistas, ou MMA, \na transmissão televisiva de lutas de mulheres e a criação de \nhorários específicos para elas em academias que ensinam \nlutas. Uma pesquisa científica mostrou menor participação e \nmobilização das meninas em comparação com os meninos \nnas aulas de Educação Física. Entre as justificativas discentes \npara essa situação está o fato de que eles relacionam a luta \ncomo uma expressão corporal masculina e, por consequência, \nnão adequada aos interesses femininos. Dessa forma, o ensino \nde lutas nas aulas de Educação Física é atravessado por \ntensões relacionadas às questões de gênero e sexualidade, \no que, por sua vez, pode favorecer a sua exclusão do conteúdo \npróprio da disciplina.\nSO, M. R.; MARTINS, M. Z.; BETTI, M. As relações das meninas \ncom os saberes das lutas nas aulas de Educação Física. \nMotrivivência, n. 56, dez. 2018 (adaptado).\nSegundo o texto, apesar do aumento da participação de \nmulheres em lutas, a realidade na escola ainda é diferente \nem razão do(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "esportivização desse conteúdo."
+        },
+        {
+          "key": "B",
+          "text": "masculinização dessa modalidade."
+        },
+        {
+          "key": "C",
+          "text": "enfoque desses eventos pela mídia."
+        },
+        {
+          "key": "D",
+          "text": "trato pedagógico dessa manifestação."
+        },
+        {
+          "key": "E",
+          "text": "marginalização desse tema pela Educação Física."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q33",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 33,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Volta e meia recebo cartinhas de fãs, e alguns são bem \njovens, contando como meu trabalho com a música mudou \na vida deles. Fico no céu lendo essas coisas e me emociono \nquando escrevem que não são aceitos pelos pais por serem \ndiferentes, e como minhas músicas são uma companhia e \nos libertam nessas horas de solidão.\nSinto que é mais complicado ser jovem hoje, já que nunca \ntivemos essa superpopulação no planeta: haja competitividade, \nculto à beleza, ter filho ou não, estudar, ralar para arranjar \ntrabalho, ser mal remunerado, ser bombardeado com trocentas \ninformações, lavagens cerebrais...\nQueria dar beijinhos e carinhos sem ter fim nessa moçada e \ndizer a ela que a barra é pesada mesmo, mas que a juventude \nestá a seu favor e, de repente, a maré de tempestade muda. \nDiria também um monte de clichê: que vale a pena estudar \nmais, pesquisar mais, ler mais. Diria que não é sinal de saúde \nestar bem-adaptado a uma sociedade doente, que o que é \nnormal para uma aranha é o caos para uma mosca.\nMeninada, sintam-se beijados pela vovó Rita.\nRITA LEE. Outra autobiografia. São Paulo: Globo Livros, 2023.\nComo estratégia para se aproximar de seu leitor, a autora \nusa uma postura de empatia explicitada em",
+      "options": [
+        {
+          "key": "A",
+          "text": "“Volta e meia recebo cartinhas de fãs, e alguns são"
+        },
+        {
+          "key": "B",
+          "text": "“Fico no céu lendo essas coisas”."
+        },
+        {
+          "key": "C",
+          "text": "“Sinto que é mais complicado ser jovem hoje”."
+        },
+        {
+          "key": "D",
+          "text": "“Queria dar beijinhos e carinhos sem ter fim nessa moçada”."
+        },
+        {
+          "key": "E",
+          "text": "“Diria que não é sinal de saúde estar bem-adaptado a"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q34",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 34,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Data venia\nConheci Bentinho e Capitu nos meus curiosos e antigos \nquinze anos. E os olhos de água da jovem de Matacavalos \natraíram-me, seduziram-me ao primeiro contato. Aliados ao \nseu jeito de ser, flor e mistério. Mas tomou-me também a \nindignação diante do narrador e seu texto, feito de acusação \ne vilipêndio. Sem qualquer direito de defesa. Sem acesso ao \ndiscurso, usurpado, sutilmente, pela palavra autoritária do \nmarido, algoz, em pele de cordeiro vitimado. Crudelíssimo \ne desumano: não bastasse o que faz com a mulher, chega \na desejar a morte do próprio filho e a festejá-la com \num jantar, sem qualquer remorso. No fundo, uma pobre \nconsciência dilacerada, um homem dividido, que busca \nencontrar-se na memória, e acaba faltando-se a si mesmo. \nRetomei inúmeras vezes a triste história daquele amor em \ndesencanto. Familiarizei-me, ao longo do tempo, com a \ncrítica do texto; poucos, muito poucos, escapam das bem \ntraçadas linhas do libelo condenatório; no mínimo concedem \nà ré o beneplácito da dúvida: convertem-na num enigma \nindecifrável, seu atributo consagrador.\nEis que, diante de mais um retorno ao romance, veio \na iluminação: por que não dar voz plena àquela mulher, \nbrasileira do século XIX, que, apesar de todas as artimanhas \ne do maquiavelismo do companheiro, se converte numa das \nmais fascinantes criaturas do gênio que foi Machado de Assis?\nA empresa era temerária, mas escrever é sempre um \nrisco. Apoiado no espaço de liberdade em que habita a \nLiteratura, arrisquei-me.\nO resultado: este livro em que, além-túmulo, como \nBrás Cubas, a dona dos olhos de ressaca assume, à \nluz do mistério da arte literária e do próprio texto do \nDr. Bento Santiago, seu discurso e sua verdade.\nPROENÇA FILHO, D. Capitu: memórias póstumas. \nRio de Janeiro: Atrium, 1998.\nPara apresentar a apropriação literária que faz da obra de \nMachado de Assis, o autor desse texto",
+      "options": [
+        {
+          "key": "A",
+          "text": "relaciona aspectos centrais da obra original e, então,"
+        },
+        {
+          "key": "B",
+          "text": "explica os pontos de vista de críticos da literatura e,"
+        },
+        {
+          "key": "C",
+          "text": "introduz elementos relevantes da história e, na sequência,"
+        },
+        {
+          "key": "D",
+          "text": "justifica as razões pelas quais adotou certa abordagem"
+        },
+        {
+          "key": "E",
+          "text": "contextualiza o enredo de forma subjetiva e, na conclusão,"
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q35",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 35,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Marília acorda\nTomo café em golinhos para não queimar meus lábios \nressequidos. Como pão em pedacinhos para não engasgar \ncom um farelo mais duro. Marília come também, mas olha \no tempo todo para baixo. Parece que tem um acanhamento \nnovo entre a gente. Termino. Olho mais uma vez pela janela. \nO dia está bom. Quero caminhar pelo pátio. Marília levanta, \npega o andador e põe ao lado da cama. Ela sabe que eu \nquero levantar sozinha, e levanto. O lance de escadas, \napesar de pequeno, ainda me causa problemas, mas não \nquero um elevador na casa e não vou tolerar descer uma \nrampa de cadeira de rodas. Marília abre a porta e saímos \npara a manhã. O dia está mais fresco do que eu imaginava. \nEla pega uma manta de tricô que temos desde não sei \nquando e põe sobre as minhas costas. Ela aperta meus \nombros com muita força, porque mesmo depois de todos \nesses anos, não descobriu a medida certa do carinho. \nEu gosto. Porque entendo que naquele ato, naquela força \nestá o nosso carinho.\nPOLESSO, N. B. Amora. Porto Alegre: Não Editora, 2015.\nNesse trecho, o drama do declínio físico da narradora \ntransmite uma sensibilidade lírica centrada na",
+      "options": [
+        {
+          "key": "A",
+          "text": "necessidade de fazer adaptações na casa."
+        },
+        {
+          "key": "B",
+          "text": "atmosfera de afeto fortalecido pelo convívio."
+        },
+        {
+          "key": "C",
+          "text": "condição de dependência de outras pessoas."
+        },
+        {
+          "key": "D",
+          "text": "determinação de manter a regularidade da rotina."
+        },
+        {
+          "key": "E",
+          "text": "aceitação das restrições de mobilidade da personagem."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q36",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 36,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Disponível em: https://defesacivil.rs.gov.br. \nAcesso em: 11 mar. 2024 (adaptado).\nNesse cartaz, a expressão “Vou deixar que você se vá”, \nem conjunto com os elementos não verbais utilizados, \ntem a finalidade de",
+      "options": [
+        {
+          "key": "A",
+          "text": "incentivar o descarte de itens defeituosos."
+        },
+        {
+          "key": "B",
+          "text": "promover a reciclagem de produtos usados."
+        },
+        {
+          "key": "C",
+          "text": "garantir a conservação de roupas de inverno."
+        },
+        {
+          "key": "D",
+          "text": "relacionar o gesto de doação à ideia de desapego."
+        },
+        {
+          "key": "E",
+          "text": "comparar a peça de roupa ao sentimento de despedida."
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q37",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 37,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Teclado amazônico\nEm novembro de 2023, uma professora indígena \nrecebeu uma missão: verter as regras de um jogo de \ntabuleiro infantil do português para o tukano, sua língua \nnativa. Com vinte anos de experiência como professora \nde línguas em Taracuá, no Amazonas, ela já se dedicava à \ntradução havia tempos. O trabalho ficou mais fácil graças \na um aplicativo lançado no ano anterior: com o Linklado \nem seu computador, ela traduziu as sete páginas das \ninstruções do jogo em dois dias. Sem esse recurso, a tarefa \nseria bem mais trabalhosa. Antes dele, diz a professora, \nas transcrições de línguas indígenas exigiam o esforço \nquase manual de produzir diacríticos (acentos gráficos) \ne letras que não constam no teclado de aplicativos de \nmensagens ou programas de texto.\nPara a pesquisadora do Instituto Nacional de Pesquisas \nda Amazônia (Inpa), idealizadora do aplicativo, o Linklado \nrepresenta uma revolução. O programa não restringe \ncombinações de acentos, e isso poderá facilitar a criação \nde representações gráficas para fonemas que ainda não \ntêm forma escrita. “Eu mirei em uma dor e atingimos várias \noutras”, diz.\n“O Linklado possibilita que o Brasil reconheça a sua \ndiversidade linguística”, afirma uma antropóloga que é \ncolega da pesquisadora no Inpa e faz parte da equipe do \naplicativo. Ela defende que escrever na língua materna é \numa das principais formas de preservá-la.\nDisponível em: https://piaui.folha.uol.com.br. \nAcesso em: 3 fev. 2024 (adaptado).\nDe acordo com esse texto, o aplicativo Linklado contribuiu \npara a",
+      "options": [
+        {
+          "key": "A",
+          "text": "criação de fonemas representativos de línguas indígenas"
+        },
+        {
+          "key": "B",
+          "text": "democratização do registro escrito de línguas dos povos"
+        },
+        {
+          "key": "C",
+          "text": "adaptação de regras de jogos de tabuleiro de origem"
+        },
+        {
+          "key": "D",
+          "text": "divulgação das técnicas de tradução de línguas indígenas."
+        },
+        {
+          "key": "E",
+          "text": "aprendizagem da lingua portuguesa pelos indígenas."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q38",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 38,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "— Eu lhe juro, Aurélia. Estes lábios nunca tocaram a face de outra mulher, que não fosse minha mãe. Meu primeiro \nbeijo de amor, guardei-o para minha esposa, para ti...\n[...]\n— Ou de outra mais rica! — disse ela, retraindo-se para fugir ao beijo do marido, e afastando-o com a ponta dos dedos.\nA voz da moça tomara o timbre cristalino, eco da rispidez e aspereza do sentimento que lhe sublevava o seio, \ne que parecia ringir-lhe nos lábios como aço.\n— Aurélia! Que significa isto?\n— Representamos uma comédia, na qual ambos desempenhamos o nosso papel com perícia consumada. Podemos \nter este orgulho, que os melhores atores não nos excederiam. Mas é tempo de pôr termo a esta cruel mistificação, \ncom que nos estamos escarnecendo mutuamente, senhor. Entremos na realidade por mais triste que ela seja; \ne resigne-se cada um ao que é, eu, uma mulher traída; o senhor, um homem vendido.\n— Vendido! — exclamou Seixas ferido dentro d’alma.\n— Vendido, sim: não tem outro nome. Sou rica, muito rica; sou milionária; precisava de um marido, traste indispensável \nàs mulheres honestas. O senhor estava no mercado; comprei-o. Custou-me cem contos de réis, foi barato; não se \nfez valer. Eu daria o dobro, o triplo, toda a minha riqueza por este momento.\nALENCAR, J. Senhora. Rio de Janeiro: Tecnoprint, 2003.\nAo tematizar o casamento, esse fragmento reproduz uma concepção de literatura romântica evidenciada na",
+      "options": [
+        {
+          "key": "A",
+          "text": "defesa da igualdade de gêneros."
+        },
+        {
+          "key": "B",
+          "text": "importância atribuída à castidade."
+        },
+        {
+          "key": "C",
+          "text": "indignação com as injustiças sociais."
+        },
+        {
+          "key": "D",
+          "text": "interferência da riqueza sobre o amor."
+        },
+        {
+          "key": "E",
+          "text": "valorização das relações interpessoais."
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q39",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 39,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "TEXTO I\nTEXTO II\nAnônimo. Cabeça de uma figura feminina.  \nCirca 2700-2500 a.C. Escultura em mármore, 8 × 3,2 cm. \nMetropolitan Museum of Art, Nova Iorque.\nMODIGLIANI, A. Cabeça de mulher. Circa 1910-1911.  \nEscultura em calcário, 68,3 × 15,9 × 24,1 cm. \nNational Gallery of Art, Washington.\nWOLKOFF, J. These 5,000-Year-Old Sculptures Look Shockingly Similar to Modern Art. \nDisponível em: www.artsy.net. Acesso em: 19 jun. 2019.\nA leitura comparativa das duas esculturas, separadas por mais de 2 500 anos, indica a",
+      "options": [
+        {
+          "key": "A",
+          "text": "valorização da arte antiga por artistas contemporâneos."
+        },
+        {
+          "key": "B",
+          "text": "resistência da arte escultórica aos avanços tecnológicos."
+        },
+        {
+          "key": "C",
+          "text": "simplificação da forma em razão do tipo de material utilizado."
+        },
+        {
+          "key": "D",
+          "text": "persistência de padrões estéticos em diferentes épocas e culturas."
+        },
+        {
+          "key": "E",
+          "text": "ausência de detalhes como traço distintivo da arte tradicional popular."
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q40",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 40,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "A Língua da Tabatinga, falada na cidade de \nBom  Despacho, Minas Gerais, foi por muito tempo \nestigmatizada devido à sua origem e à própria classe social de \nseus falantes, pois, segundo uma pesquisadora, era falada por \n“meninos pobres vindos da Tabatinga ou de Cruz de Monte — \nruas da periferia da cidade cujos habitantes sempre \nforam tidos por marginais”. Conhecida por antigos como a \n“língua dos engraxates”, pois muitos trabalhadores desse \nofício conversavam nessa língua enquanto lustravam \nsapatos na praça da matriz, a Língua da Tabatinga era \nutilizada por negros escravizados como uma espécie de \n“língua secreta”, um código para trocarem informações de \ncomo conseguir alimentos, ou para planejar fugas de seus \nsenhores sem risco de serem descobertos por eles.\nDe acordo com um documento do Iphan (2011), \nos falantes da língua apresentam uma forte consciência de \nsua relação com a descendência africana e da importância \nde preservar a “fala que os identifica na região”. Essa \nmudança de compreensão tangencia aspectos de \npertencimento, pois, à medida que o falante da Língua \nda Tabatinga se identifica com a origem afro-brasileira, \nele passa a ver essa língua como um legado recebido \ne tem o cuidado de transmiti-la para outras gerações. \nA concentração de falantes dessa língua está na faixa \nentre 21 e 60 anos de idade.\nDisponível em: www.historiaeparcerias2019.rj.anpuh.org. \nAcesso em: 3 fev. 2024 (adaptado).\nA Língua da Tabatinga tem sido preservada porque o(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "seu registro passou da forma oral para a escrita."
+        },
+        {
+          "key": "B",
+          "text": "classe social de seus usuários ganhou prestígio."
+        },
+        {
+          "key": "C",
+          "text": "sua função inicial se manteve ao longo dos anos."
+        },
+        {
+          "key": "D",
+          "text": "sentimento de identidade linguística tem se consolidado."
+        },
+        {
+          "key": "E",
+          "text": "perfil etário de seus falantes tem se tornado homogêneo."
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q41",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 41,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Diante do pouco dinheiro para produtos básicos de \nsobrevivência, são as adolescentes o alvo mais vulnerável \nà precariedade menstrual. Sofrem com dois fatores: \no desconhecimento da importância da higiene menstrual \npara sua saúde e a dependência dos pais ou familiares para \na compra do absorvente, que acaba entrando na lista de \nartigos supérfluos da casa.\nA falta do absorvente afeta diretamente o desempenho \nescolar dessas estudantes e, como consequência, restringe \no desenvolvimento de seu potencial na vida adulta. \nDados da Pesquisa Nacional de Saúde (PNS), do IBGE, \nrevelaram que, das meninas entre 10 e 19 anos que \ndeixaram de fazer alguma atividade (estudar, realizar \nafazeres domésticos, trabalhar ou, até mesmo, brincar) \npor problemas de saúde nos 14 dias anteriores à data \nda pesquisa, 2,88% deixaram de fazê-la por problemas \nmenstruais. Para efeitos de comparação, o índice de \nmeninas que relataram não ter conseguido realizar alguma \nde suas atividades por gravidez e parto foi menor: 2,55%.\nDados da ONU apontam que, no mundo, uma em cada \ndez meninas falta às aulas durante o período menstrual. \nNo Brasil, esse número é ainda maior: uma entre quatro \nestudantes já deixou de ir à escola por não ter absorventes.\nCom isso, perdem, em média, até 45 dias de aula, por \nano letivo, como revela o levantamento Impacto da Pobreza \nMenstrual no Brasil. O ato biológico de menstruar acaba \npor virar mais um fator de desigualdade de oportunidades \nentre os gêneros.\nDisponível em: www12.senado.leg.br. \nAcesso em: 21 jan. 2024 (adaptado).\nEsse texto é marcado pela função referencial da linguagem, \numa vez que cumpre o propósito de",
+      "options": [
+        {
+          "key": "A",
+          "text": "sugerir soluções para um problema de ordem social."
+        },
+        {
+          "key": "B",
+          "text": "estabelecer uma relação entre menstruação e gravidez."
+        },
+        {
+          "key": "C",
+          "text": "comparar o desempenho acadêmico de mulheres e"
+        },
+        {
+          "key": "D",
+          "text": "informar o leitor sobre o impacto da pobreza menstrual"
+        },
+        {
+          "key": "E",
+          "text": "orientar o público sobre a necessidade de rotinas de"
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q42",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 42,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Maranhenses que moram longe matam a saudade da \nterra natal usando expressões próprias do estado. Se o \nmaranhês impressiona e desperta a curiosidade de quem \nmora no próprio Maranhão, imagine de quem vem de \noutros estados e países? A variedade linguística local é \nenorme e o modo de falar tão próprio e característico dos \nmaranhenses vem conquistando muita gente e inspirando \ntítulos e muito conteúdo digital com a criação de podcasts, \nblogs, perfis na internet, além de estampar diversos tipos \nde produtos e serviços de empresas locais.\nCom saudades do Maranhão, morando há 16 anos no \nRio de Janeiro, um fotógrafo maranhense criou um perfil \nna internet no qual compartilha a culinária, brincadeiras e o \n‘dicionário’ maranhês. “A primeira vez que fui a uma padaria \nno Rio, na inocência, pedi 3 reais de ‘pães misturados’. \nQuando falei isso, as pessoas pararam e me olharam de \numa forma bem engraçada, aí já fiquei ‘encabulado, ó’ \ne o atendente sorriu e explicou que lá não existia pão \nmisturado e, sim, pão francês e suíço. Depois foi a minha \nvez de explicar sobre os pães ‘massa grossa e massa \nfina’”, contou o fotógrafo, com humor.\nDisponível em: https://oimparcial.com.br. \nAcesso em: 1 nov. 2021 (adaptado).\nA vivência relatada no texto evidencia que as variedades \nlinguísticas",
+      "options": [
+        {
+          "key": "A",
+          "text": "impedem o entendimento mútuo."
+        },
+        {
+          "key": "B",
+          "text": "enaltecem o português do Maranhão."
+        },
+        {
+          "key": "C",
+          "text": "são constitutivas do português brasileiro."
+        },
+        {
+          "key": "D",
+          "text": "exigem a dicionarização dos termos usados."
+        },
+        {
+          "key": "E",
+          "text": "são restritas a situações coloquiais de comunicação."
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q43",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 43,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Expressões e termos utilizados no Amazonas \nsão retratados em livro e em camisetas\n“Na linguagem, podemos nos ver da forma mais \nverdadeira: nossas crenças, nossos valores, nosso lugar \nno mundo”, afirmou o doutor em linguística e professor da \nUfam em seu livro Amazonês: expressões e termos usados \nno Amazonas. Portanto, o amazonense, com todas as suas \n“cunhantãs” e “curumins”, acaba por encontrar um lugar no \nmundo e formar uma unidade linguística, informalmente \ndenominada de português “caboco”, que muito se diferencia \ndo português “mineiro”, “gaúcho”, “carioca” e de tantos \noutros espalhados pelo Brasil. O livro, que conta com cerca \nde 1 100 expressões e termos típicos do falar amazonense, \nlevou dez anos para ser construído. Para o autor, o principal \nobjetivo da obra é registrar a linguagem.\nUm designer amazonense também acha o amazonês \n“xibata”, tanto é que criou uma série de camisetas estampadas \ncom o nome de Caboquês Ilustrado, que mistura o bom \nhumor com as expressões típicas da região. A coleção conta \ncom sete modelos já lançados, entre eles: Leseira Baré, \nXibata no Balde e Até o Tucupi, e 43 ainda na fila de espera. \nPara o criador, as camisas têm como objetivo “resgatar o \norgulho do povo manauara, do povo do Norte”.\nDisponível em: https://g1.globo.com. Acesso em: 15 jan. 2024 (adaptado).\nA reportagem apresenta duas iniciativas: o livro Amazonês \ne as camisetas do Caboquês Ilustrado. Com temática em \ncomum, essas iniciativas",
+      "options": [
+        {
+          "key": "A",
+          "text": "recomendam produtos feitos por empreendedores da"
+        },
+        {
+          "key": "B",
+          "text": "ressaltam diferenças entre o falar manauara e outros"
+        },
+        {
+          "key": "C",
+          "text": "reverenciam o trabalho feito por pesquisadores brasileiros."
+        },
+        {
+          "key": "D",
+          "text": "destacam a descontração no jeito de ser do amazonense."
+        },
+        {
+          "key": "E",
+          "text": "valorizam o repertório linguístico do povo do Amazonas."
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q44",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 44,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Conheça histórias de atletas paralímpicas que \ntrocaram de modalidade durante a carreira esportiva\nJane Karla: a goiana de 45 anos teve poliomielite aos três \nanos, o que prejudicou seus movimentos das pernas. Em \n2003, iniciou no tênis de mesa e conseguiu conquistar títulos \nnacionais e internacionais. Mas conheceu o tiro com arco e, \nem 2015, optou por se dedicar somente à nova modalidade. \nEm seu ano de estreia no tiro, já faturou a medalha de ouro \nnos Jogos Parapan-Americanos de Toronto 2015.\nElizabeth Gomes: a santista de 55 anos era jogadora de \nvôlei quando foi diagnosticada com esclerose múltipla em \n1993. Ingressou no Movimento Paralímpico pelo basquete \nem cadeira de rodas até experimentar o atletismo. \nChegou a praticar as duas modalidades simultaneamente \naté optar pelas provas de campo em 2010. No \nCampeonato Mundial de Atletismo, realizado em Dubai, em \n2019, Beth se sagrou campeã do lançamento de disco e \nestabeleceu um novo recorde mundial da classe F52.\nSilvana Fernandes: a paraibana de 21 anos é natural de \nSão Bento e nasceu com malformação no braço direito. \nAos 15 anos, começou a praticar atletismo no lançamento \nde dardo. Em 2018, enquanto competia na regional \nNorte-Nordeste, foi convidada para conhecer o paratae \nkwon do. No ano seguinte, migrou para a modalidade \ne já faturou o ouro na categoria até 58 kg nos Jogos \nParapan-Americanos de Lima 2019.\nDisponível em: https://cpb.org.br. Acesso em: 15 jan. 2024 (adaptado).\nEsse conjunto de minibiografias tem como propósito",
+      "options": [
+        {
+          "key": "A",
+          "text": "descrever as rotinas de treinamento das atletas."
+        },
+        {
+          "key": "B",
+          "text": "comparar os desempenhos de atletas de alto rendimento."
+        },
+        {
+          "key": "C",
+          "text": "destacar a trajetória profissional de atletas paralímpicas"
+        },
+        {
+          "key": "D",
+          "text": "indicar as categorias mais adequadas a adaptações"
+        },
+        {
+          "key": "E",
+          "text": "estimular a participação de mulheres em campeonatos"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2024__dia1__cd3__prova__q45",
+      "source": "enem",
+      "exam_id": "enem__2024__dia1__cd3__prova",
+      "question_number": 45,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "É fundamentalmente no Minho, norte de Portugal, que o \ncavaquinho aparece como instrumento tipicamente popular, \nligado às formas essenciais da música característica dessa \nprovíncia. O cavaquinho minhoto tem escala rasa com o \ntampo, o que facilita a prática do “rasqueado”. O cavaquinho \nchega ao Brasil diretamente de Portugal, e o modelo \nbrasileiro é maior do que a sua versão portuguesa, com \numa caixa de ressonância mais funda. Semelhante ao \ncavaquinho minhoto, o machete, ou machetinho madeirense, \né um pequeno cordófono de corda dedilhada, que faz \nparte da grande e diversificada família das violas de mão \nportuguesas. O ukulele tem a sua origem no século XIX, \ntendo como ancestrais o braguinha (ou machete) e o rajão, \ninstrumentos levados pelos madeirenses quando eles \nemigraram para o Havaí.\nOLIVEIRA, E. V. Cavaquinhos e família. Disponível em: \nhttps://casadaguitarra.pt. Acesso em: 18 nov. 2021 (adaptado).\nO conjunto dessas práticas musicais demonstra que os \ninstrumentos mencionados no texto",
+      "options": [
+        {
+          "key": "A",
+          "text": "refletem a dependência da utilização de matéria-prima"
+        },
+        {
+          "key": "B",
+          "text": "adaptam suas características a cada cultura, assumindo"
+        },
+        {
+          "key": "C",
+          "text": "comprovam a hegemonia portuguesa na invenção de"
+        },
+        {
+          "key": "D",
+          "text": "ilustram processos de dominação cultural, evidenciando"
+        },
+        {
+          "key": "E",
+          "text": "mantêm nomenclatura própria para garantir a fidelidade"
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    }
+  ]
+}

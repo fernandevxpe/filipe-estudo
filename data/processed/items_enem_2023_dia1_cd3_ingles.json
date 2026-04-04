@@ -1,0 +1,1744 @@
+{
+  "generated_from": {
+    "prova": "data/processed/enem/2023/dia1/cd3/prova.json",
+    "gabarito": "data/raw/enem/2023/dia1/cd3/gabarito.pdf"
+  },
+  "item_count": 45,
+  "items": [
+    {
+      "id": "enem__2023__dia1__cd3__prova__q01",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 1,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Things We Carry on the Sea\nWe carry tears in our eyes: good-bye father, good-bye\n[mother\nWe carry soil in small bags: may home never fade in our\n[hearts\nWe carry carnage of mining, droughts, floods, genocides\nWe carry dust of our families and neighbors incinerated\n[in mushroom clouds\nWe carry our islands sinking under the sea\nWe carry our hands, feet, bones, hearts and best minds \n[for a new life\nWe carry diplomas: medicine, engineer, nurse,\n[education, math, poetry, even if they mean \n[nothing to the other shore\nWe carry railroads, plantations, laundromats,\n[bodegas, taco trucks, farms, factories, nursing \n[homes, hospitals, schools, temples... built on \n[our ancestors’ backs\nWe carry old homes along the spine, new dreams in our\n[chests\nWe carry yesterday, today and tomorrow\nWe’re orphans of the wars forced upon us\nWe’re refugees of the sea rising from industrial wastes\nAnd we carry our mother tongues\n[...]\nAs we drift... in our rubber boats... from shore... to shore...\n[to shore...\nPING, W. Disponível em: https://poets.org. Acesso em: 1 jun. 2023 (fragmento).\nAo retratar a trajetória de refugiados, o poema recorre à \nimagem de viagem marítima para destacar o(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t risco de choques culturais."
+        },
+        {
+          "key": "B",
+          "text": "B\t impacto do ensino de história."
+        },
+        {
+          "key": "C",
+          "text": "C\t importância da luta ambiental."
+        },
+        {
+          "key": "D",
+          "text": "D\t existência de experiências plurais."
+        },
+        {
+          "key": "E",
+          "text": "E\t necessidade de capacitação profissional."
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p2_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p2.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q02",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 2,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "“Oh, you’ll love working here. Nobody treats you any \ndifferently just because of your age, race, or gender.”\nDisponível em: www.cartoonstock.com. Acesso em: 25 out. 2021.\nAo retratar o ambiente de trabalho em um escritório, esse \ncartum tem por objetivo",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t criticar um padrão de vestimenta."
+        },
+        {
+          "key": "B",
+          "text": "B\t destacar a falta de diversidade."
+        },
+        {
+          "key": "C",
+          "text": "C\t indicar um modo de interação."
+        },
+        {
+          "key": "D",
+          "text": "D\t elogiar um modelo de organização."
+        },
+        {
+          "key": "E",
+          "text": "E\t salientar o espírito de cooperação."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p2_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p2.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q03",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 3,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Spanglish\npues estoy creando Spanglish \nbi-cultural systems \nscientific lexicographical \ninter-textual integrations \ntwo expressions \nexistentially wired \ntwo dominant languages \ncontinentally abrazándose \nin colloquial combate \nimperio spanglish emerges \nsobre territorio bi-lingual \nlas novelas mexicanas \nmixing with radiorocknroll \nimmigrant/migrant \nnasal mispronouncements \nhip-hop, street salsa, spanish pop \nstandard english classroom \nwith computer technicalities \nspanglish is literally perfect\nLAVIERA, T. Benedición: The Complete Poetry of Tato Laviera. \nHouston: Arte Público Press, 2014 (fragmento).\nNesse poema de Tato Laviera, o eu lírico destaca uma",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t convergência linguístico-cultural."
+        },
+        {
+          "key": "B",
+          "text": "B\t característica histórico-cultural."
+        },
+        {
+          "key": "C",
+          "text": "C\t tendência estilístico-literária."
+        },
+        {
+          "key": "D",
+          "text": "D\t discriminação cultural."
+        },
+        {
+          "key": "E",
+          "text": "E\t censura musical."
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p2_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p2.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img2.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img3.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img4.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img5.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img6.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img7.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img8.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img9.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img10.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img11.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img12.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img13.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img14.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img15.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img16.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p3.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q04",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 4,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "The average american tosses 300 pounds of food\neach year, making food the number one contributor to \nAmerica’s landfills. Eat your leftovers and keep your \nperishables in the fridge – the Earth is counting on it.\nDisponível em: https://mir-s3-cdn-cf.behance.net. Acesso em: 29 out. 2021 (adaptado).\nEsse cartaz de campanha sugere que",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t os lixões precisam de ampliação."
+        },
+        {
+          "key": "B",
+          "text": "B\t o desperdício degrada o ambiente."
+        },
+        {
+          "key": "C",
+          "text": "C\t os mercados doam alimentos perecíveis."
+        },
+        {
+          "key": "D",
+          "text": "D\t a desnutrição compromete o raciocínio."
+        },
+        {
+          "key": "E",
+          "text": "E\t as residências carecem de refrigeradores."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p2_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p2.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img2.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img3.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img4.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img5.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img6.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img7.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img8.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img9.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img10.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img11.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img12.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img13.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img14.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img15.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img16.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p3.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q05",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 5,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "No man is an island,\nEntire of itself;\nEvery man is a piece of the continent,\nA part of the main.\n[...]\nAny man’s death diminishes me,\nBecause I am involved in mankind.\nDONNE, J. The Works of John Donne. Londres: John W. Parker, 1839 (fragmento).\nNesse poema, a expressão “No man is an island ” ressalta o(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t medo da morte."
+        },
+        {
+          "key": "B",
+          "text": "B\t ideia de conexão."
+        },
+        {
+          "key": "C",
+          "text": "C\t conceito de solidão."
+        },
+        {
+          "key": "D",
+          "text": "D\t risco de devastação."
+        },
+        {
+          "key": "E",
+          "text": "E\t necessidade de empatia."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p2_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p2.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img2.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img3.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img4.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img5.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img6.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img7.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img8.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img9.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img10.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img11.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img12.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img13.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img14.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img15.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p3_img16.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p3.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q06",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 6,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "O sol começa a descer por trás da vegetação da Ilha \nda Restinga, na outra margem do rio Paraíba, colorindo \no céu de amarelo, laranja e lilás. Então se ouvem as \nprimeiras notas do Bolero, do compositor francês Maurice \nRavel, executadas pelo saxofonista Jurandy. É assim o \npôr do sol da praia do Jacaré, em Cabedelo (Grande João \nPessoa). Depois do Bolero, Jurandy toca Asa branca, \nde Luiz Gonzaga, e Meu sublime torrão, de Genival \nMacedo, espécie de hino não oficial da Paraíba.\nPINHEIRO, A. Sol se põe embalado pelo Bolero de Ravel. Disponível em: \nhttp://tools.folha.com.br. Acesso em: 16 set. 2012 (adaptado).\nA interpretação musical de Jurandy do Sax, codinome \nde José Jurandy Félix, apresenta um repertório \ncaracterizado pela",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t inter-relação de referenciais estéticos aparentemente"
+        },
+        {
+          "key": "B",
+          "text": "B\t valorização de músicas que revelam mensagens"
+        },
+        {
+          "key": "C",
+          "text": "C\t consagração do repertório erudito como cultura"
+        },
+        {
+          "key": "D",
+          "text": "D\t iniciativa de estímulo à vocação turística da cidade."
+        },
+        {
+          "key": "E",
+          "text": "E\t divisão hierárquica entre gêneros e estilos musicais."
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p5_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p5_img2.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p5.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p6_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p6_img2.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p6.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q07",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 7,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "TEXTO I\nSEGALL, L. Eternos caminhantes. Óleo sobre tela, 138 x 184 cm.\nMuseu Lasar Segall, IbramMinc, São Paulo, 1919.\nTEXTO II\nEm 1933, a obra Eternos caminhantes ingressou \nem uma das primeiras edições das exposições de Arte \nDegenerada, promovida por membros do partido nazista \nalemão. Nos anos seguintes, ela voltaria a ser exibida na \nmostra denominada Exposição da Vergonha, promovida \npor pequenos grupos abastados. Em 1937, essa obra foi \nconfiscada pelo Ministério da Propaganda daquele país, na \ngrande ação nacional-socialista contra a “Arte Degenerada”.\nSCHWARTZ, J. Perseguição à Arte Moderna em tempos de \nguerra. São Paulo: Museu Lasar Segall, 2018 (adaptado).\nQuase cinquenta obras de Lasar Segall foram confiscadas \npelo regime totalitário alemão na primeira metade do \nséculo XX, entre elas a obra Eternos caminhantes, \nconsiderada degenerada por",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t representar uma estética tida como inconveniente para"
+        },
+        {
+          "key": "B",
+          "text": "B\t manifestar um posicionamento político-cultural"
+        },
+        {
+          "key": "C",
+          "text": "C\t expressar a cultura artística por meio da representação"
+        },
+        {
+          "key": "D",
+          "text": "D\t apresentar uma composição que antecipa o imaginário"
+        },
+        {
+          "key": "E",
+          "text": "E\t estimular discussões sobre o papel da arte na"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p5_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p5_img2.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p5.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p6_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p6_img2.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p6.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q08",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 8,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "TEXTO I\nLogo no início de Gira, um grupo de sete bailarinas \nocupa o centro da cena. Mãos cruzadas sobre a lateral \nesquerda do quadril, olhos fechados, troncos que pendulam \nsobre si mesmos em vaguíssimas órbitas, tudo nelas \nsugere o transe. Está estabelecido o caráter volátil do que \nse passará no palco dali para frente. Mas engana-se quem \npensa que vai assistir a uma representação mimética dos \ncultos afro-brasileiros.\nTEXTO II\nDisponível em: www.grupocorpo.com.br. Acesso em: 2 jul. 2019.\nNo diálogo que estabelece com religiões afro-brasileiras, \nsintetizado na descrição e na imagem do espetáculo, \na dança exprime uma",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t crítica aos movimentos padronizados do balé clássico."
+        },
+        {
+          "key": "B",
+          "text": "B\t representação contemporânea de rituais ancestrais"
+        },
+        {
+          "key": "C",
+          "text": "C\t reelaboração estética erudita de práticas religiosas"
+        },
+        {
+          "key": "D",
+          "text": "D\t releitura irônica da atmosfera mística presente no culto"
+        },
+        {
+          "key": "E",
+          "text": "E\t oposição entre o resgate de tradições e a efemeridade"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p5_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p5_img2.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p5.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p6_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p6_img2.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p6.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q09",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 9,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "A sessão do Comitê Olímpico Internacional (COI) \naprovou uma mudança histórica e inédita no lema \nolímpico, criado em 1894 pelo Barão Pierre de Coubertin \npara expressar os valores e a excelência do esporte. Mais \nde 120 anos depois, o lema tem sua primeira alteração \npara ressaltar a solidariedade e incluir a palavra “juntos”: \nmais rápido, mais alto, mais forte — juntos. A mudança \nfoi aprovada por unanimidade pelos membros do COI \ne celebrada pelo presidente da entidade.\nDisponível em: https://ge.globo.com. Acesso em: 10 nov. 2021 (adaptado).\nDe acordo com o texto, a alteração do lema olímpico teve \ncomo objetivo a",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t unificação do lema anterior ao atual."
+        },
+        {
+          "key": "B",
+          "text": "B\t aproximação entre o lema olímpico e o COI."
+        },
+        {
+          "key": "C",
+          "text": "C\t junção do lema olímpico com os princípios esportivos."
+        },
+        {
+          "key": "D",
+          "text": "D\t associação entre o lema olímpico e a cooperatividade."
+        },
+        {
+          "key": "E",
+          "text": "E\t vinculação entre o lema olímpico e os eventos atléticos."
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p6_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p6_img2.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p6.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p7.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q10",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 10,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Mais iluminada que outras \nTenho dois seios, estas duas coxas, duas mãos que me \nsão muito úteis, olhos escuros, estas duas sobrancelhas que \npreencho com maquiagem comprada por dezenove e noventa \ne orelhas que não aceitam bijuterias. Este corpo é um corpo \nfaminto, dentado, cruel, capaz e violento. Movo os braços \ne multidões correm desesperadas. Caminho no escuro com \no rosto para baixo, pois cada parte isolada de mim tem sua \nprópria vida e não quero domá-las. Animal da caatinga. Forte \ndemais. Engolidora de espadas e espinhos.\nDizem e eu ouvi, mas depois também li, que o estado \ndo Ceará aboliu a escravidão quatro anos antes do restante \ndo país. Todos aqueles corpos que eram trazidos com \nseus dedos contados, seus calcanhares prontos e seus \numbigos em fogo, todos eles foram interrompidos no \nporto. Um homem — dizem e eu ouvi e depois também \nli — liderou o levante. E todos esses corpos foram buscar \noutros incômodos. Foram ser incomodados.\nARRAES, J. Redemoinho em dia quente. São Paulo: Alfaguara, 2019.\nNesse texto, os recursos expressivos usados pela narradora",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t revelam as marcas da violência de raça e de gênero"
+        },
+        {
+          "key": "B",
+          "text": "B\t questionam o pioneirismo do estado do Ceará no"
+        },
+        {
+          "key": "C",
+          "text": "C\t reproduzem padrões estéticos em busca da valorização"
+        },
+        {
+          "key": "D",
+          "text": "D\t sugerem uma atmosfera onírica alinhada ao desejo"
+        },
+        {
+          "key": "E",
+          "text": "E\t mimetizam, na paisagem, os corpos transformados"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p6_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p6_img2.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p6.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p7.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q11",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 11,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "De quem é esta língua?\nUma pequena editora brasileira, a Urutau, acaba de \nlançar em Lisboa uma “antologia antirracista de poetas \nestrangeiros em Portugal”, com o título Volta para a tua terra.\nO livro denuncia as diversas formas de racismo a que \nos imigrantes estão sujeitos. Alguns dos poetas brasileiros \nantologiados queixam-se do desdém com que um grande \nnúmero de portugueses acolhe o português brasileiro. \nÉ uma queixa frequente.\n“Aqui em Portugal eles dizem / — eles dizem — / que \nnosso português é errado, que nós não falamos português”, \nescreve a poetisa paulista Maria Giulia Pinheiro, para \nconcluir: “Se a sua linguagem, a lusitana, / ainda conserva \na palavra da opressão / ela não é a mais bonita do mundo./ \nEla é uma das mais violentas”.\nAGUALUSA, J. E. Disponível em: https://oglobo.globo.com. \n Acesso em: 22 nov. 2021 (adaptado).\nO texto de Agualusa tematiza o preconceito em relação \nao português brasileiro. Com base no trecho citado pelo \nautor, infere-se que esse preconceito se deve",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t à dificuldade de consolidação da literatura brasileira"
+        },
+        {
+          "key": "B",
+          "text": "B\t aos diferentes graus de instrução formal entre os"
+        },
+        {
+          "key": "C",
+          "text": "C\t à existência de uma língua ideal que alguns falantes"
+        },
+        {
+          "key": "D",
+          "text": "D\t ao intercâmbio cultural que ocorre entre os povos dos"
+        },
+        {
+          "key": "E",
+          "text": "E\t à distância territorial entre os falantes do português"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p6_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p6_img2.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p6.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p7.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q12",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 12,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "“São tantas formas de matar um preto\nQue para alguns sua morte é justificada\nDevia tá fazendo coisa errada\nSe não era bandido, um dia ia ser\nPor ser PRETO sua morte é defendida\nO PRETO sempre merece morrer”.\nA estrofe acima é do poeta e educador social Baticum \nProletário, que atua na periferia de Fortaleza, no Ceará, \npreparando jovens — em quase sua totalidade negros \n— para enfrentar as dificuldades impostas pelo racismo \nestrutural no país.\nÉ a partir da arte que Baticum consegue envolver \na juventude em um projeto de fortalecimento dessa \npopulação ao promover batalhas de rimas, slams e saraus \ncom temáticas que discutem os problemas sociais. Não por \nacaso, o tema mais explorado nas rimas, versos e prosas \né a violência. De acordo com o mais recente Atlas da \nviolência, em 2019, os negros representaram 77% das \nvítimas de homicídios, quase 30 assassinatos por 100 mil \nhabitantes, a maioria deles jovens.\nO Atlas revela ainda que um negro tem quase 2,7 \nvezes mais chance de ser morto do que um branco, o que \njustifica o movimento de resistência crescente no Brasil.\nMENDONÇA, F. Disponível em: www.cartacapital.com.br. \nAcesso em: 22 nov. 2021 (adaptado).\nO uso de citação e de dados estatísticos nesse texto tem \no objetivo de",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t ressaltar a importância da poesia para denunciar a"
+        },
+        {
+          "key": "B",
+          "text": "B\t destacar o crescimento exponencial da temática do"
+        },
+        {
+          "key": "C",
+          "text": "C\t demonstrar o incremento no quantitativo de expressões"
+        },
+        {
+          "key": "D",
+          "text": "D\t evidenciar argumentos que reforçam a ideia de que os"
+        },
+        {
+          "key": "E",
+          "text": "E\t salientar o aumento da participação de jovens nos"
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p7.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p8.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q13",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 13,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "No princípio era o verbo. A frase que abre o primeiro \ncapítulo do Evangelho de João e remete à criação do \nmundo, assim como também faz o Gênesis, é a mais \nfamosa da Bíblia. A ideia de que o mundo é criado pela \npalavra, porém, é tão estruturante que está presente \nem outras religiões, para muito além das fundadas no \ncristianismo. Como humanos, a linguagem é o mundo que \nhabitamos. Basta tentar imaginar um mundo em que não \npodemos usar palavras para dizer de nós e dos outros \npara compreender o que isso significa. Ou um mundo \nem que aquilo que você diz não é entendido pelo outro, \ne o que o outro diz não é entendido por você.\nO que acontece então quando a palavra é destruída \ne, com ela, a linguagem?\nDurante séculos, em diferentes sociedades e \nlínguas, é importante lembrar, a linguagem serviu \n— e ainda serve — para manter privilégios de grupos de \npoder e deixar todos os outros de fora. Quem entende \nlinguagem de advogados, juízes e promotores, linguagem \nde médicos, linguagem de burocratas, linguagem de \ncientistas? A maior parte da população foi submetida à \nviolência de propositalmente ser impedida de compreender \na linguagem daqueles que determinam seus destinos.\nSe o princípio é o verbo, o fim pode ser o silenciamento. \nMesmo que ele seja cheio de gritos entre aqueles que já não \ntêm linguagem comum para compreender uns aos outros.\nBRUM, E. Disponível em: https://brasil.elpais.com. Acesso em: 5 nov. 2021.\nNesse texto, a estratégia usada para convencer o leitor de \nque uma grande parcela da população não compreende \na linguagem daqueles que detêm o poder foi",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t revelar a origem religiosa da linguagem."
+        },
+        {
+          "key": "B",
+          "text": "B\t questionar o temor sobre o futuro da linguagem."
+        },
+        {
+          "key": "C",
+          "text": "C\t descrever a relação entre sociedade e linguagem."
+        },
+        {
+          "key": "D",
+          "text": "D\t apresentar as consequências do esfacelamento da"
+        },
+        {
+          "key": "E",
+          "text": "E\t criticar o obstáculo promovido pelos usos especializados"
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p7.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p8.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q14",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 14,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Um grupo de pesquisadores da Universidade Federal \ndo Ceará desenvolveu um dicionário para traduzir sintomas \nde doenças da linguagem popular para os termos médicos. \nDefruço, chanha e piloura, por exemplo, podem ser termos \nconhecidos para muitos, mas, durante uma consulta médica, \no desconhecimento pode significar um diagnóstico errado.\n“Isso é um registro histórico e pode ser muito útil para \nestudos dessas comunidades, na abordagem médica delas. \nÉ de certa forma pioneiro no Brasil e, sem dúvida, um instrumento \nde trabalho importante, porque a comunicação é fundamental \nna relação médico-paciente”, avalia o reitor da instituição.\nDisponível em: https://g1.globo.com. Acesso em: 1 nov. 2021 (adaptado).\nAo registrarem usos regionais de termos da área médica, \npesquisadores",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t apontaram erros motivados pelo desconhecimento da"
+        },
+        {
+          "key": "B",
+          "text": "B\t explicaram problemas provocados pela incapacidade"
+        },
+        {
+          "key": "C",
+          "text": "C\t descobriram novos sintomas de doenças existentes"
+        },
+        {
+          "key": "D",
+          "text": "D\t propiciaram melhor compreensão dos sintomas dos"
+        },
+        {
+          "key": "E",
+          "text": "E\t divulgaram um novo rol de doenças características"
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p7.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p8.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q15",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 15,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "A indústria do esporte eletrônico é um mercado que \nestá crescendo em um ritmo mais rápido do que a economia \nmundial. Sua popularidade cresceu muito e no Brasil não é \ndiferente. De acordo com os dados de uma pesquisa, mais de \n64% dos brasileiros que jogam videogame já ouviram falar de \nesporte eletrônico. No entanto, o que chama a atenção é o \ncrescimento superior a 10% do público praticante comparado \nao ano anterior, que subiu de 44,7% para 55,4%. Trata-se \nde um percentual expressivo, já que o Brasil está no top 3 \ndentre os países que têm maior número de espectadores de \nesporte eletrônico do mundo. Comparado ao ano anterior, \nem 2020, o Brasil teve um marco de crescimento de 20% \nna audiência. Mundo afora, a árdua dedicação de grandes \ngamers contribuiu para o reconhecimento do Comitê Olímpico \nInternacional, aliado a outras cinco federações esportivas \ne suas desenvolvedoras de jogos, que direcionaram um \nolhar mais atento ao assunto, permitindo dar o primeiro \npasso para concretizar, pela primeira vez na história dos \njogos eletrônicos, um evento olímpico oficial.\nDisponível em: https://chicoterra.com. Acesso em: 19 nov. 2021 (adaptado).\nO contexto em que o esporte eletrônico é apresentado no \ntexto demonstra o(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t condição favorável à expansão dessa modalidade."
+        },
+        {
+          "key": "B",
+          "text": "B\t promoção dessa prática por jogadores profissionais."
+        },
+        {
+          "key": "C",
+          "text": "C\t impulsionamento de um processo de marketing."
+        },
+        {
+          "key": "D",
+          "text": "D\t favorecimento de fabricantes dos jogos."
+        },
+        {
+          "key": "E",
+          "text": "E\t modificação da audiência televisiva."
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p8.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p9.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q16",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 16,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "O Marabaixo é uma expressão artístico-cultural \nformada nas tradições e na identificação cultural entre as \ncomunidades negras do Amapá. O nome remonta às mortes \nde escravizados em navios negreiros que eram jogados na \nágua. Em sua homenagem, hinos de lamento eram cantados \nmar abaixo, mar acima. Posteriormente, o Marabaixo se \nintegrou à vivência das comunidades negras em um ciclo \nde danças, cantorias com tambores e festas religiosas, \nrecebendo, em 2018, o título de Patrimônio Cultural do Brasil.\nDisponível em: http://portal.iphan.gov.br. Acesso em: 15 nov. 2021 (adaptado).\nA manifestação do Marabaixo se constituiu em expressão \nde arte e cultura, exercendo função de",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t ressignificar episódios dramáticos em novas práticas"
+        },
+        {
+          "key": "B",
+          "text": "B\t adaptar coreografias como imitação dos movimentos"
+        },
+        {
+          "key": "C",
+          "text": "C\t lembrar dos mortos no passado escravista como forma"
+        },
+        {
+          "key": "D",
+          "text": "D\t perpetuar uma narrativa de apagamento dos fatos"
+        },
+        {
+          "key": "E",
+          "text": "E\t ritualizar a passagem de atos fúnebres nas produções"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p8.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p9.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q17",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 17,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "O uso das redes sociais como forma de ampliar \nuniversos foi uma descoberta recente para o artista Wolney \nFernandes, que começou a criar quando o ambiente em \nGoiás era mais árido em relação às artes visuais. “Hoje, ser \ndiferente é uma potência e quem sabe o que quer com \na própria arte encontra espaço”, diz. As colagens artísticas \ndo goiano aparecem em capas de obras literárias pelo \nBrasil e exterior.\nDisponível em: https://opopular.com.br. Acesso em: 15 nov. 2021 (adaptado).\nO artista goiano Wolney Fernandes busca expor seu \ntrabalho por meio de plataformas virtuais com o objetivo de",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t dar suporte à técnica de colagem em Artes Visuais,"
+        },
+        {
+          "key": "B",
+          "text": "B\t aproximar-se da estética visual própria da editoração"
+        },
+        {
+          "key": "C",
+          "text": "C\t oferecer uma vitrine internacional para sua produção"
+        },
+        {
+          "key": "D",
+          "text": "D\t enfatizar o caráter original e inovador de suas criações"
+        },
+        {
+          "key": "E",
+          "text": "E\t trazer um sentido tecnológico às suas colagens, uma"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p8.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p9.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q18",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 18,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "O mais antigo grupo de rap indígena do país, Brô MCs, \nsurgiu em 2009, na aldeia Jaguapiru, em Dourados, Mato \nGrosso do Sul. Os integrantes conheceram o rap pelo rádio, \nouvindo um programa que apresentava cantores e grupos \nbrasileiros desse gênero musical. O Brô MCs conseguiu \ninfluenciar outros a fazerem rap e a lutarem pelas causas \nindígenas. Um dos nomes do movimento, Kunumí MC, \né um jovem de 16 anos, da aldeia Krukutu, em São Paulo. \nO adolescente enxerga o rap como uma cultura da defesa \ne começou a fazer rimas quando percebeu que a poesia, \npela qual sempre se interessou, podia virar música. \nNas letras que cria, inspiradas tanto pelo rap quanto pelos \nritmos indígenas, tenta incluir sempre assuntos aos quais \nacha importante dar voz, principalmente, a questão da \ndemarcação de terras.\nDisponível em: www.correiobraziliense.com.br. Acesso em: 13 nov. 2021 (adaptado).\nO movimento rap dos povos originários do Brasil revela o(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t fusão de manifestações artísticas urbanas"
+        },
+        {
+          "key": "B",
+          "text": "B\t contraposição das temáticas socioambientais"
+        },
+        {
+          "key": "C",
+          "text": "C\t rejeição da indústria radiofônica às músicas indígenas."
+        },
+        {
+          "key": "D",
+          "text": "D\t distanciamento da realidade social indígena."
+        },
+        {
+          "key": "E",
+          "text": "E\t estímulo ao estudo da poesia indígena."
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p8.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p9.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q19",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 19,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Dão Lalalão\nDo povoado do Ão, ou dos sítios perto, alguém \nprecisava urgente de querer vir por escutar a novela do \nrádio. Ouvia-a, aprendia-a, guardava na ideia, e, retornado \nao Ão, no dia seguinte, a repetia a outros.\nAssim estavam jantando, vinham os do povoado \nreceber a nova parte da novela do rádio. Ouvir já \ntinham ouvido tudo, de uma vez, fugia da regra: falhara \nali no Ão, na véspera, o caminhão de um comprador \nde galinhas e ovos, seo Abrãozinho Buristém, que \ncarregava um rádio pequeno, de pilhas, armara um fio \nno arame da cerca... Mas queriam escutar outra vez, \npor confirmação. — “A estória é estável de boa, mal \nque acompridada: taca e não rende...” — explicava o \nZuz ao Dalberto.\nSoropita começou a recontar o capítulo da novela. \nSem trabalho, se recordava das palavras, até com \nclareza — disso se admirava. Contava com prazer de \ndemorar, encher a sala com o poder de outros altos \npersonagens. Tomar a atenção de todos, pudesse contar \naquilo noite adiante. Era preciso trazer luz, nem uns \nenxergavam mais os outros; quando alguém ria, ria de \nmuito longe. O capítulo da novela estava terminando.\nROSA, J. G. Noites do sertão (Corpo de baile). São Paulo: Global, 2021.\nNesse trecho do conto, o gosto dos moradores do \npovoado por ouvir a novela de rádio recontada por \nSoropita deve-se ao(à)",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t qualidade do som do rádio."
+        },
+        {
+          "key": "B",
+          "text": "B\t estabilidade do enredo contado."
+        },
+        {
+          "key": "C",
+          "text": "C\t ineditismo do capítulo da novela."
+        },
+        {
+          "key": "D",
+          "text": "D\t jeito singular de falar aos ouvintes."
+        },
+        {
+          "key": "E",
+          "text": "E\t dificuldade de compreensão da história."
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p9.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q20",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 20,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "As cinzas do Museu Nacional, no Rio de Janeiro, \nconsumido pelas chamas no mês de setembro de 2018, \nsão mais do que restos de fósseis, cerâmicas e espécimes \nraros. O museu abrigava, entre mais de 20 milhões de \npeças, os esqueletos com as respostas para perguntas \nque ainda não haviam sido respondidas — ou sequer \nfeitas — por pesquisadores brasileiros. E o incêndio \npode ter calado para sempre palavras e cantos indígenas \nancestrais, de línguas que não existem mais no mundo.\nO acervo do local continha gravações de conversas, \ncantos e rituais de dezenas de sociedades indígenas, \nmuitas feitas durante a década de 1960 com antigos \ngravadores de rolo e que ainda não haviam sido \ndigitalizadas. Alguns dos registros abordavam línguas já \nextintas, sem falantes originais ainda vivos. “A esperança \né que outras instituições tenham registros dessas línguas”, \ndiz a linguista Marilia Facó Soares. A pesquisadora, que \ntrabalha com os índios Tikuna, o maior grupo da Amazônia \nbrasileira, crê ter perdido parte de seu material. “Terei \nque fazer novas viagens de campo para recompor meus \narquivos. Mas obviamente não dá para recuperar a fala de \nnativos já falecidos, geralmente os mais idosos”, lamenta.\nDisponível em: https://brasil.elpais.com. Acesso em: 10 dez. 2018 (adaptado).\nA perda dos registros linguísticos no incêndio do Museu \nNacional tem impacto potencializado, uma vez que",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t exige a retomada das pesquisas por especialistas de"
+        },
+        {
+          "key": "B",
+          "text": "B\t representa danos irreparáveis à memória e à identidade"
+        },
+        {
+          "key": "C",
+          "text": "C\t impossibilita o surgimento de novas pesquisas na área."
+        },
+        {
+          "key": "D",
+          "text": "D\t resulta na extinção da cultura de povos originários."
+        },
+        {
+          "key": "E",
+          "text": "E\t inviabiliza o estudo da língua do povo Tikuna."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p9.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q21",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 21,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Mandioca, macaxeira, aipim e castelinha são nomes \ndiferentes da mesma planta. Semáforo, sinaleiro e farol \ntambém significam a mesma coisa. O que muda é só o \nhábito cultural de cada região. A mesma coisa acontece \ncom a Língua Brasileira de Sinais (Libras). Embora ela \nseja a comunicação oficial da comunidade surda no Brasil, \nexistem sinais que variam em relação à região, à idade e até \nao gênero de quem se comunica. A cor verde, por exemplo, \npossui sinais diferentes no Rio de Janeiro, Paraná e São \nPaulo. São os regionalismos na língua de sinais.\nEssas variações são um dos temas da disciplina \nLinguística na língua de sinais, oferecida pela Universidade \nEstadual Paulista (Unesp) ao longo do segundo semestre. \n“Muitas pessoas pensam que a língua de sinais é universal, \no que não é verdade”, explica a professora e chefe do \nDepartamento de Linguística, Literatura e Letras Clássicas \nda Unesp. “Mesmo dentro de um mesmo país, ela sofre \nvariação em relação à localização geográfica, à faixa etária \ne até ao gênero dos usuários”, completa a especialista.\nOs surdos podem criar sinais diferentes para identificar \nlugares, objetos e conceitos. Em São Paulo, o sinal de \n“cerveja” é feito com um giro do punho como uma meia-volta. \nEm Minas, a bebida é citada quando os dedos indicador e \nmédio batem no lado do rosto. Também ocorrem mudanças \nhistóricas. Um sinal pode sofrer alterações decorrentes dos \ncostumes da geração que o utiliza.\nDisponível em: www.educacao.sp.gov.br. Acesso em: 1 nov. 2021 (adaptado).\nNesse texto, a Língua Brasileira de Sinais (Libras)",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t passa por fenômenos de variação linguística como"
+        },
+        {
+          "key": "B",
+          "text": "B\t apresenta variações regionais, assumindo novo"
+        },
+        {
+          "key": "C",
+          "text": "C\t sofre mudança estrutural motivada pelo uso de sinais"
+        },
+        {
+          "key": "D",
+          "text": "D\t diferencia-se em todo o Brasil, desenvolvendo cada"
+        },
+        {
+          "key": "E",
+          "text": "E\t é ininteligível para parte dos usuários em razão das"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q22",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 22,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Como é bom reencontrar os leitores da Revista da \nCultura por meio de uma publicação com outro visual, \nconteúdo de qualidade e interesses ampliados! ]cultura[, \neste nome simples, e eu diria mesmo familiar, nasce entre \ndois colchetes voltados para fora. E não é por acaso: \nsão sinais abertos, receptivos, propícios à circulação de \nideias. O DNA da publicação se mantém o mesmo, afinal, \npor longos anos montamos nossas edições com assuntos \nsaídos das estantes de uma grande livraria — e assim \ncontinuará sendo. Literatura, sociologia, filosofia, artes... \nnunca será difícil montar a pauta da revista porque os \nlivros nos ensinam que monotonia é só para quem não lê.\nHERZ, P. ]cultura[, n. 1, jun. 2018 (adaptado).\nO uso não padrão dos colchetes para nomear a revista \natribui-lhes uma nova função e está correlacionado ao(à)",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t perfil de público-alvo, constituído por leitores exigentes"
+        },
+        {
+          "key": "B",
+          "text": "B\t propósito do editor, chamando a atenção para o rigor"
+        },
+        {
+          "key": "C",
+          "text": "C\t exclusividade na seleção temática, direcionada para"
+        },
+        {
+          "key": "D",
+          "text": "D\t identidade da revista, voltada para a recepção e a"
+        },
+        {
+          "key": "E",
+          "text": "E\t padrão editorial dos artigos, organizados em torno de"
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q23",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 23,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "TEXTO I\nAlegria, alegria\nO sol nas bancas de revista\nMe enche de alegria e preguiça\nQuem lê tanta notícia\nEu vou\nPor entre fotos e nomes\nOs olhos cheios de cores\nO peito cheio de amores vãos\nEu vou\nPor que não, por que não?\nVELOSO, C. Alegria, alegria. Rio de Janeiro: Polygram, 1990 (fragmento).\nTEXTO II\nAnjos tronchos\nUns anjos tronchos do Vale do Silício\nDesses que vivem no escuro em plena luz\nDisseram vai ser virtuoso no vício\nDas telas dos azuis mais do que azuis\nAgora a minha história é um denso algoritmo\nQue vende venda a vendedores reais\nNeurônios meus ganharam novo outro ritmo\nE mais, e mais, e mais, e mais, e mais\nVELOSO, C. Meu coco. Rio de Janeiro: Sony, 2021 (fragmento).\nEmbora oriundas de momentos históricos diferentes, \nessas letras de canção têm em comum a",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t referência às cores como elemento de crítica a hábitos"
+        },
+        {
+          "key": "B",
+          "text": "B\t percepção da profusão de informações gerada pela"
+        },
+        {
+          "key": "C",
+          "text": "C\t contraposição entre os vícios e as virtudes da vida"
+        },
+        {
+          "key": "D",
+          "text": "D\t busca constante pela liberdade de expressão individual."
+        },
+        {
+          "key": "E",
+          "text": "E\t crítica à finalidade comercial das notícias."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_fullpage_p10.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q24",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 24,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Ainda daquela vez pude constatar a bizarrice dos \ncostumes que constituíam as leis mais ou menos constantes \ndo seu mundo: ao me aproximar, verifiquei que o \nSr. Timóteo, gordo e suado, trajava um vestido de franjas \ne lantejoulas que pertencera a sua mãe. O corpete \ndescia-lhe excessivamente justo na cintura, e aqui \ne ali rebentava através da costura um pouco da carne \naprisionada, esgarçando a fazenda e tornando o prazer de \nvestir-se daquele modo uma autêntica espécie de suplício. \nMovia-se ele com lentidão, meneando todas as suas franjas \ne abanando-se vigorosamente com um desses leques de \nmadeira de sândalo, o que o envolvia numa enjoativa onda \nde perfume. Não sei direito o que colocara sobre a cabeça, \nassemelhava-se mais a um turbante ou a um chapéu \nsem abas de onde saíam vigorosas mechas de cabelos \nalourados. Como era costume seu também, trazia o rosto \npintado — e para isto, bem como para suas vestimentas, \napoderara-se de todo o guarda-roupa deixado por sua mãe, \ntambém em sua época famosa pela extravagância com que \nse vestia — o que sem dúvida fazia sobressair-lhe o nariz \nenorme, tão característico da família Meneses.\nCARDOSO, L. Crônica da casa assassinada. São Paulo: Círculo do Livro, s.d.\nPela voz de uma empregada da casa, a descrição \nde um dos membros da família exemplifica a renovação \nda ficção urbana nos anos 1950, aqui observada na",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t opção por termos e expressões de sentido ambíguo."
+        },
+        {
+          "key": "B",
+          "text": "B\t crítica social inspirada pelo convívio com os patrões."
+        },
+        {
+          "key": "C",
+          "text": "C\t descrição impressionista do fetiche do personagem."
+        },
+        {
+          "key": "D",
+          "text": "D\t presença de um foco narrativo de caráter impreciso."
+        },
+        {
+          "key": "E",
+          "text": "E\t ambiência de mistério das relações entre familiares."
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q25",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 25,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Girassol da madrugada\nTeu dedo curioso me segue lento no rosto \nOs sulcos, as sombras machucadas por onde a\n[vida passou.\nQue silêncio, prenda minha... Que desvio triunfal\n[da verdade,\nQue círculos vagarosos na lagoa em que uma asa\n[gratuita roçou...\nTive quatro amores eternos... \nO primeiro era moça donzela, \nO segundo... eclipse, boi que fala, cataclisma, \nO terceiro era a rica senhora, \nO quarto és tu... E eu afinal me repousei dos\n[meus cuidados\nANDRADE, M. Poesias completas. Rio de Janeiro: Nova Fronteira, 2013 (fragmento).\nPerante o outro, o eu lírico revela, na força das memórias \nevocadas, a",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t vergonha das marcas provocadas pela passagem do"
+        },
+        {
+          "key": "B",
+          "text": "B\t indecisão em face das possibilidades afetivas do"
+        },
+        {
+          "key": "C",
+          "text": "C\t serenidade sedimentada pela entrega pacífica ao"
+        },
+        {
+          "key": "D",
+          "text": "D\t frustração causada pela vontade de retorno ao"
+        },
+        {
+          "key": "E",
+          "text": "E\t disponibilidade para a exploração do prazer efêmero."
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q26",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 26,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Era um gato preto, como convinha a um cultor das boas \nletras, que já lera Poe traduzido por Baudelaire. Preto e \ngordo. E lerdo. Tão gordo e lerdo que a certa altura observei \nque ia perdendo inteiramente as qualidades características \nda raça, que são em suma o ódio de morte aos ratos. Já nem \nos afugentava! Os ratos de Ouro Preto são também dignos \ne solenes — não ria — tradicionalistas... descendentes de \noutros ratos que naqueles mesmos casarões presenciaram \nacontecimentos importantes da nossa história... No sobrado \ndo desembargador Tomás Antônio Gonzaga, imagine o \nsenhor uma reunião dos sonhadores inconfidentes, com \nos antepassados daqueles ratos a passearem pelo sótão \nou mesmo pelo assoalho por entre as pernas dos homens \nabsortos na esperança da independência nacional! E \ndepois, os ancestres daqueles roedores que eu via agora \ndeslizar sutilmente no meu quarto podiam ter subido \npelo poste da ignomínia colonial, onde estava exposta a \ncabeça do Tiradentes! E quando as órbitas se descarnaram \nignominiosamente, podiam até ter penetrado no recesso \ndaquele crânio onde verdadeiramente ardera a literatura, \ncom a simplicidade do heroísmo, a febre nacionalista...\nALPHONSUS, J. Contos e novelas. Rio de Janeiro: Imago; Brasília: INL, 1976.\nDescrevendo seu gato, o narrador remete ao contexto \ne a protagonistas da Inconfidência para criar um efeito \ndesconcertante centrado no",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t desenho imaginativo do casario colonial de Ouro Preto."
+        },
+        {
+          "key": "B",
+          "text": "B\t efeito de apagamento de limites entre ficção e realidade."
+        },
+        {
+          "key": "C",
+          "text": "C\t vínculo estabelecido entre animais urbanos e literatura."
+        },
+        {
+          "key": "D",
+          "text": "D\t questionamento sutil quanto à sanidade dos inconfidentes."
+        },
+        {
+          "key": "E",
+          "text": "E\t contraste entre austeridade pomposa e imagem"
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q27",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 27,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Enquanto estivemos entretidos com os urubus outras \ncoisas andaram acontecendo na cidade. A Companhia \nbaixou novas proibições, umas inteiramente bobocas, só \npelo prazer de proibir (ninguém podia cuspir pra cima, nem \ncarregar água em jacá, nem tapar o sol com peneira, como \nse todo mundo estivesse abusando dessas esquisitices); \nmas outras bem irritantes, como a de pular muro pra cortar \ncaminho, tática que quase todo mundo que não sofria de \nreumatismo vinha adotando ultimamente, principalmente \nos meninos. E não confiando na proibição só, nem na força \ndos castigos, que eram rigorosos, a Companhia ainda \nmandou fincar cacos de garrafa nos muros. Achei isso um \nexagero, e comentei o assunto com mamãe. Meu pai ouviu \nlá do quarto e veio explicar. Disse que em épocas normais \nbastava uma coisa ou outra; mas agora a Companhia \nnão podia admitir nenhuma brecha em suas ordens; se \nalguém desobedecesse à proibição podia se cortar nos \ncacos; se alguém conseguisse pular um muro quebrando \no corte de alguns cacos, ou jogando um couro por cima, \nera apanhado pela proibição, nhoc — e fez o gesto de \nquem torce o pescoço de um frango.\nVEIGA, J. J. Sombras de reis barbudos. Rio de Janeiro: Civilização Brasileira, 1978.\nSob a perspectiva do menino que narra, os fatos ficcionais \noferecem um esboço do momento político vigente na \ndécada de 1970, aqui representado pelo",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t culto ao medo, infiltrado em situações do cotidiano."
+        },
+        {
+          "key": "B",
+          "text": "B\t sentimento de dúvida quanto à veracidade das"
+        },
+        {
+          "key": "C",
+          "text": "C\t ambiente de sonho, delineado por imagens"
+        },
+        {
+          "key": "D",
+          "text": "D\t incentivo ao desenvolvimento econômico com"
+        },
+        {
+          "key": "E",
+          "text": "E\t espaço urbano marcado por uma política de isolamento"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q28",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 28,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Migalhas\nEntre a toalha branca e um bule de café\nseria inapropriado dizer\neu não te amo mais.\nEra necessário algo mais solene,\num jardim japonês\npara as perdas pensadas,\num noturno de tempestade\npara arrebentar de dor,\numa praia de pedras para chorar\nem silêncio, uma cama alta\npara o incenso da despedida,\numa janela\ndando para o abismo.\nNo entanto você abaixa os olhos\ne recolhe lentamente as migalhas de pão\nsobre a mesa posta para dois.\nMARQUES, A. M. A vida submarina. São Paulo: Cia. das Letras, 2021.\nNesse poema, a representação do sentimento amoroso \nrecupera a tradição lírica, mas se ajusta à visão \ncontemporânea ao",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t invocar o interlocutor para uma tomada de posição."
+        },
+        {
+          "key": "B",
+          "text": "B\t questionar a validade do envolvimento romântico."
+        },
+        {
+          "key": "C",
+          "text": "C\t diluir em banalidade a comoção de um amor frustrado."
+        },
+        {
+          "key": "D",
+          "text": "D\t transformar em paz as emoções conflituosas do casal."
+        },
+        {
+          "key": "E",
+          "text": "E\t condicionar a existência da paixão a espaços idealizados."
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q29",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 29,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Alguém muito recentemente cortara o mato, que na \népoca das chuvas crescia e rodeava a casa da mãe de \nPonciá Vicêncio e de Luandi. Havia também vestígios \nde que a terra fora revolvida, como se ali fosse plantar uma \npequena roça. Luandi sorriu. A mãe devia estar bastante \nforte, pois ainda labutava a terra. Cantou alto uma cantiga \nque aprendera com o pai, quando eles trabalhavam na terra \ndos brancos. Era uma canção que os negros mais velhos \nensinavam aos mais novos. Eles diziam ser uma cantiga \nde voltar, que os homens, lá na África, entoavam sempre, \nquando estavam regressando da pesca, da caça ou de \nalgum lugar. O pai de Luandi, no dia em que queria agradar \nà mulher, costumava entoar aquela cantiga ao se aproximar \nde casa. Luandi não entendia as palavras do canto; sabia, \nporém, que era uma língua que alguns negros falavam \nainda, principalmente os velhos. Era uma cantiga alegre. \nLuandi, além de cantar, acompanhava o ritmo batendo com \nas palmas das mãos em um atabaque imaginário. Estava \nde regresso à terra. Voltava em casa. Chegava cantando, \ndançando a doce e vitoriosa cantiga de regressar.\nEVARISTO, C. Ponciá Vicêncio. Rio de Janeiro: Pallas, 2018.\nA leitura do texto permite reconhecer a “cantiga de voltar” \ncomo patrimônio linguístico que",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t representa a memória de uma língua africana extinta."
+        },
+        {
+          "key": "B",
+          "text": "B\t exalta a rotina executada por jovens afrodescendentes."
+        },
+        {
+          "key": "C",
+          "text": "C\t preserva a ancestralidade africana por meio da"
+        },
+        {
+          "key": "D",
+          "text": "D\t resgata a musicalidade africana por meio de palavras"
+        },
+        {
+          "key": "E",
+          "text": "E\t remonta à tristeza dos negros mais velhos com"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p14_img1.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q30",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 30,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "TEXTO I\nZapeei os canais, como há dezenas de anos faço, e pá: \nparei num que exibia um episódio daquela velha família do \nfuturo, Os Jetsons. \nNesse episódio em particular, a Jane Jetson, esposa \ndo George, tratava de dirigir aquele veículo voador \ndeles. Meu queixo foi caindo à medida que as piadinhas \nmachistas sobre mulheres dirigirem foram se acumulando. \nImpressionante! Que futuro careta aqueles roteiristas \nimaginavam! Seriam incapazes de projetar algo melhor, e não \napenas em termos de tecnologias, robôs e carros voadores? \nSerá que nossa máxima visão de futuro só atinge as coisas, \ne jamais as pessoas? Como a Jane, uma mulher de 33 anos \nno desenho, poderia ser o que foram as minhas bisavós?\nO futuro, naquele desenho, se esqueceu de ser melhor \nnas relações entre as pessoas. Aliás... tão parecido com a vida.\nFiquei de cara, como dizemos aqui, ou como dizíamos \nna minha adolescência, pobre adolescência, aprendendo, \nsem querer e sem muita defesa, um futuro tão besta quanto \no passado.\nRIBEIRO, A. E. Disponível em: www.rascunho.com br. Acesso em: 21 out. 2021 (adaptado).\nTEXTO II\nMasculino e feminino são campos escorregadios que \nsó se definem por oposição, sempre incompleta, um do \noutro. São formações imaginárias que buscam produzir \numa diferença radical e complementar onde só existem, \nde fato, mínimas diferenças. O resto é questão de estilo. \nAté pelo menos a segunda metade do século 19, o divisor \nde águas era claro: os homens ocupavam o espaço público. \nAs mulheres tratavam da vida privada. Privada de quê? \nDe visibilidade, diria Hannah Arendt. De visibilidade pública. \nDo que as mulheres estiveram privadas até o século 20 \nfoi de presença pública manifesta não em imagem, mas \nem palavra. A palavra feminina, reservada ao espaço \ndoméstico, não produzia diferença na vida social.\nKHEL, M. R. Disponível em: https://alias.estadao.com.br. \nAcesso em: 19 out. 2021 (adaptado).\nA representação da mulher apresentada no Texto I pode \nser explicada pelo Texto II no que diz respeito à(às)",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t censura a formas de expressão femininas."
+        },
+        {
+          "key": "B",
+          "text": "B\t ausência da figura feminina na vida pública."
+        },
+        {
+          "key": "C",
+          "text": "C\t construções imaginárias cristalizadas na sociedade."
+        },
+        {
+          "key": "D",
+          "text": "D\t limitações inerentes às figuras femininas e masculinas."
+        },
+        {
+          "key": "E",
+          "text": "E\t dificuldade na atribuição de papéis masculinos e"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p14_img1.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q31",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 31,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Em tempos de isolamento\nsocial por conta da pandemia de \ncovid-19, a Defensoria Pública \nalerta para o aumento da \nviolência contra a mulher! \nNão se cale! Denuncie!\nA Defensoria não para!\n#JuntasSomosMaisFortes\nDisque 180\nDisponível em: www.defensoriapublica.mt.gov.br. Acesso em: 29 out. 2021 (adaptado).\nEsse anúncio publicitário, veiculado durante o contexto \nda pandemia de covid-19, tem por finalidade",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t divulgar o canal telefônico de atendimento a casos de"
+        },
+        {
+          "key": "B",
+          "text": "B\t informar sobre a atuação de uma entidade defensora"
+        },
+        {
+          "key": "C",
+          "text": "C\t evidenciar o trabalho da Defensoria Pública em relação"
+        },
+        {
+          "key": "D",
+          "text": "D\t alertar a sociedade sobre o aumento da violência"
+        },
+        {
+          "key": "E",
+          "text": "E\t incentivar o público feminino a denunciar crimes"
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p14_img1.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q32",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 32,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Mestre e companheiro, disse eu que nos íamos despedir. \nMas disse mal. A morte não extingue: transforma; não aniquila: \nrenova; não divorcia: aproxima. Um dia supuseste “morta e \nseparada” a consorte dos teus sonhos e das tuas agonias, \nque te soubera “pôr um mundo inteiro no recanto” do teu \nninho; e, todavia, nunca ela te esteve mais presente, no íntimo \nde ti mesmo e na expressão do teu canto, no fundo do teu ser \ne na face de tuas ações. Esses catorze versos inimitáveis, em \nque o enlevo dos teus discípulos resume o valor de toda uma \nliteratura, eram a aliança de ouro do teu segundo noivado, um \nanel de outras núpcias, para a vida nova do teu renascimento \ne da tua glorificação, com a sócia sem nódoa dos teus anos \nde mocidade e madureza, da florescência e frutificação de \ntua alma. Para os eleitos do mundo das ideias a miséria \nestá na decadência, e não na morte. A nobreza de uma nos \npreserva das ruínas da outra. Quando eles atravessavam essa \npassagem do invisível, que os conduz à região da verdade \nsem mescla, então é que entramos a sentir o começo do seu \nreino, o reino dos mortos sobre os vivos.\nBARBOSA, R. O adeus da Academia a Machado de Assis. Rio de Janeiro: Agir, 1962.\nEsse é um trecho do discurso de Rui Barbosa na Academia \nBrasileira de Letras em homenagem a Machado de Assis \npor ocasião de sua morte. Uma das características desse \ndiscurso de homenagem é a presença de",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t metáforas relacionadas à trajetória pessoal e criadora"
+        },
+        {
+          "key": "B",
+          "text": "B\t recursos fonológicos empregados para a valorização"
+        },
+        {
+          "key": "C",
+          "text": "C\t frases curtas e diretas no relato da vida e da morte"
+        },
+        {
+          "key": "D",
+          "text": "D\t contraposição de ideias presentes na obra do"
+        },
+        {
+          "key": "E",
+          "text": "E\t seleção vocabular representativa do sentimento de"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p14_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p15_img1.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q33",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 33,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Disponível em: www.facebook.com/minsaude. Acesso em: 13 jun. 2018.\nEssa campanha publicitária do Ministério da Saúde visa",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t divulgar um conjunto de benefícios proporcionados"
+        },
+        {
+          "key": "B",
+          "text": "B\t apresentar tratamentos para infecções respiratórias"
+        },
+        {
+          "key": "C",
+          "text": "C\t defender o direito das mulheres de amamentar em"
+        },
+        {
+          "key": "D",
+          "text": "D\t orientar sobre os exercícios para uma boa"
+        },
+        {
+          "key": "E",
+          "text": "E\t informar sobre o aumento de anticorpos nas mães."
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p14_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p15_img1.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q34",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 34,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Carta aberta à população brasileira\nPrezados Cidadãos e Cidadãs,\nO envelhecimento populacional é um fenômeno \nmundial. Infelizmente, nosso país ainda não está preparado \npara atender às demandas dessa população.\nEste é o retrato da saúde pública no Brasil, que, \napesar dos indiscutíveis avanços, apresenta um cenário \nde deficiências e falta de integração em todos os níveis de \natenção à saúde: primária (atendimento deficiente nas \nunidades de saúde da atenção básica), secundária \n(carência de centros de referência com atendimento por \nespecialistas) e terciária (atendimento hospitalar com \nabordagem ao idoso centrada na doença), ou seja, não \nhá, na prática, uma rede de atenção à saúde do idoso.\nDiante desse cenário, a Sociedade Brasileira de \nGeriatria e Gerontologia (SBGG) vem a público manifestar \nsuas preocupações com o presente e o futuro dos idosos \nno Brasil. É preciso garantir a saúde como direito universal.\nEsperamos que tanto nossos atuais quanto os futuros \ngovernantes e legisladores reflitam sobre a necessidade \nde investir na saúde e na qualidade de vida associada ao \nenvelhecimento.\nDignidade à saúde do idoso!\nRio de Janeiro, 15 de setembro de 2014.\nDisponível em: www.sbgg.org.br. Acesso em: 20 out. 2021 (adaptado).\nO objetivo desse texto é",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t sensibilizar o idoso a respeito dos cuidados com a"
+        },
+        {
+          "key": "B",
+          "text": "B\t alertar os governantes sobre os cuidados requeridos"
+        },
+        {
+          "key": "C",
+          "text": "C\t divulgar o trabalho da Sociedade Brasileira de Geriatria"
+        },
+        {
+          "key": "D",
+          "text": "D\t informar o setor público sobre o retrocesso da"
+        },
+        {
+          "key": "E",
+          "text": "E\t chamar a atenção da população sobre a qualidade dos"
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p14_img1.png",
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p15_img1.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q35",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 35,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "A petição on-line criada por um cidadão paulista \nsurtiu efeito: casado há três anos com seu companheiro, \nele pedia a alteração da definição de “casamento” no \ntradicional dicionário Michaelis em português. Na definição \nanterior, casamento aparecia como “união legítima entre \nhomem e mulher” e “união legal entre homem e mulher, \npara constituir família”.\nO novo verbete não traz em nenhum momento as \npalavras homem ou mulher — agora a definição de \ncasamento se refere a “pessoas”.\nPara o diretor de comunicação do site onde a petição foi \npublicada, a iniciativa mostra a “eficiência da mobilização”. \n“Em dois dias, mudou-se uma definição que permanecia \na mesma há décadas”, afirma. E conclui: “A plataforma \nserve para todos os tipos de causas, para as mudanças \nque importam para as pessoas.”.\nSENRA, R. Disponível em: www.bbc.com. Acesso em: 29 out. 2015.\nA notícia trata da mudança ocorrida em um dicionário da \nlíngua portuguesa. Segundo o texto, essa mudança foi \nimpulsionada pela",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t inclusão de informações no verbete."
+        },
+        {
+          "key": "B",
+          "text": "B\t relevância social da instituição casamento."
+        },
+        {
+          "key": "C",
+          "text": "C\t utilização pública da petição pelos cidadãos."
+        },
+        {
+          "key": "D",
+          "text": "D\t rapidez na disseminação digital do verbete."
+        },
+        {
+          "key": "E",
+          "text": "E\t divulgação de plataformas para a criação de petição."
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p15_img1.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q36",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 36,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "A neozelandesa Laurel Hubbard fez história nos Jogos \nOlímpicos. Apesar de ter ficado de fora da disputa por \nmedalhas, a levantadora de peso deixou sua marca na \nedição de Tóquio por ser a primeira mulher abertamente \ntransgênero a participar de uma competição olímpica. \nNo início da carreira, na década de 1990, a neozelandesa \nparticipava de disputas na categoria masculina. \nEm 2001, aos 23 anos, ela se afastou da atividade. \n“A pressão de tentar me encaixar em um mundo que talvez \nnão tenha sido feito para pessoas como eu se tornou um \nfardo muito grande para suportar.” Em 2012, Laurel começou \nsua transição de gênero por meio de terapias hormonais e, \nem 2013, declarou abertamente ser uma mulher trans. Para \no Comitê Olímpico Internacional, a participação de mulheres \ntrans nos Jogos é permitida caso o nível de testosterona, \nhormônio que aumenta a massa muscular, esteja abaixo de \n10 nanomols por litro por pelo menos 12 meses.\nDisponível em: https://revistagalileu.globo.com. Acesso em: 18 nov. 2021 (adaptado).\nNo texto, os limites do potencial inclusivo do esporte são \ndados pela",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t dificuldade de conseguir bons resultados esportivos."
+        },
+        {
+          "key": "B",
+          "text": "B\t dependência de características biológicas padronizadas."
+        },
+        {
+          "key": "C",
+          "text": "C\t inexistência de uma categoria para pessoas"
+        },
+        {
+          "key": "D",
+          "text": "D\t necessidade de afastamento temporário das"
+        },
+        {
+          "key": "E",
+          "text": "E\t impossibilidade de uso controlado de substâncias"
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p15_img1.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q37",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 37,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "“Ganhei 25 medalhas em mundiais, sete em Jogos \nOlímpicos, e sou uma sobrevivente de abuso sexual.” \nFoi assim que Simone Biles se apresentou ao comitê do \nSenado norte-americano que investiga as supostas falhas \ndo FBI no caso Larry Nassar. Biles e outras três atletas, \nvítimas dos abusos do ex-médico da equipe de ginástica \nfeminina dos EUA, exigiram que os agentes da investigação \nsejam processados por falta de ação prévia contra Nassar, \nagora preso. Biles esclareceu que culpa Larry Nassar \ne “todo o sistema que o permitiu e o perpetrou”, acusando \na Federação de Ginástica e o Comitê Olímpico dos Estados \nUnidos de saberem “muito antes” que ela havia sofrido \nabusos. A melhor ginasta do mundo é um ícone. Nos Jogos \nOlímpicos de Tóquio, uma lesão psicológica a impediu de \ncompetir como previa. No entanto, ela chegou ao topo como \numa líder no trabalho de acabar com o preconceito com \nos problemas de saúde mental. “Não quero que nenhum \noutro atleta olímpico sofra o horror que eu e outras centenas \nsuportamos e continuamos suportando até hoje”, afirmou.\nDisponível em: https://brasil.elpais.com. Acesso em: 31 out. 2021 (adaptado).\nO fato relatado na notícia chama a atenção acerca da \nnecessidade de reflexão sobre a relação entre o esporte e",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t o desempenho atlético internacional."
+        },
+        {
+          "key": "B",
+          "text": "B\t a dimensão emocional dos atletas."
+        },
+        {
+          "key": "C",
+          "text": "C\t os comitês olímpicos nacionais."
+        },
+        {
+          "key": "D",
+          "text": "D\t as instituições de inteligência."
+        },
+        {
+          "key": "E",
+          "text": "E\t as federações esportivas."
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p15_img1.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q38",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 38,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "O acesso às Práticas Corporais/Atividades Físicas \n(PC/AF) é desigual no Brasil, à semelhança de outros \nindicadores sociais e de saúde. Em geral, PC/AF prazerosas, \ndiversificadas, mais afeitas ao período de lazer estão \nconcentradas nas populações mais abastadas. As atividades \nfísicas de deslocamento, trajetos a pé ou de bicicleta para \nestudar ou trabalhar, por exemplo, são mais frequentes \nna classe social menos favorecida. Aqui, há uma relação \ninversa e perversa entre variáveis socioeconômicas de acesso \nàs PC/AF. As maiores prevalências de inatividade física foram \nem mulheres, pessoas com 60 anos ou mais, negros, pessoas \ncom autoavaliação de saúde ruim ou muito ruim, com renda \nfamiliar de até quatro salários mínimos por pessoa, pessoas \nque desconhecem programas públicos de PC/AF e residentes \nem áreas sem locais públicos para a prática.\nKNUTH, A. G.; ANTUNES, P. C. Saúde e Sociedade, n. 2, 2021 (adaptado).\nO fator central que impacta a realização de práticas \ncorporais/atividades físicas no tempo de lazer no Brasil é a",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t diferença entre homens e mulheres."
+        },
+        {
+          "key": "B",
+          "text": "B\t inexistência de políticas públicas."
+        },
+        {
+          "key": "C",
+          "text": "C\t diversidade de faixa etária."
+        },
+        {
+          "key": "D",
+          "text": "D\t variação de condição étnica."
+        },
+        {
+          "key": "E",
+          "text": "E\t desigualdade entre classes sociais."
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": [
+        "data/assets/enem/2023/dia1/cd3/enem__2023__dia1__cd3__prova_p15_img1.png"
+      ]
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q39",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 39,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Passado muito tempo, resolvi tentar falar, porque \nestava sozinha me embrenhando na mesma vereda que \nDonana costumava entrar. Ainda recordo da palavra que \nescolhi: arado. Me deleitava vendo meu pai conduzindo \no arado velho da fazenda carregado pelo boi, rasgando \na terra para depois lançar grãos de arroz em torrões \nmarrons e vermelhos revolvidos. Gostava do som redondo, \nfácil e ruidoso que tinha ao ser enunciado. “Vou trabalhar no \narado.” “Vou arar a terra.” “Seria bom ter um arado novo, \nesse arado tá troncho e velho.” O som que deixou minha \nboca era uma aberração, uma desordem, como se no \nlugar do pedaço perdido da língua tivesse um ovo quente. \nEra um arado torto, deformado, que penetrava a terra de \ntal forma a deixá-la infértil, destruída, dilacerada.\nVIEIRA JR., I. Torto arado. São Paulo: Todavia, 2019.\nCom a perda de parte da língua na infância, a narradora \ntenta voltar a falar. Essa tentativa revela uma experiência que",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t reflete o olhar do pai sobre as etapas do plantio."
+        },
+        {
+          "key": "B",
+          "text": "B\t metaforiza a linguagem como ferramenta de lavoura."
+        },
+        {
+          "key": "C",
+          "text": "C\t explicita, na busca pela palavra, o medo da solidão."
+        },
+        {
+          "key": "D",
+          "text": "D\t confirma a frustração da narradora com relação à terra."
+        },
+        {
+          "key": "E",
+          "text": "E\t sugere, na ausência da linguagem, a estagnação do"
+        }
+      ],
+      "correct": "B",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q40",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 40,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "A escravidão\nEsses meninos que aí andam jogando peteca não \nviram nunca um escravo... Quando crescerem, saberão \nque já houve no Brasil uma raça triste, votada à escravidão \ne ao desespero; e verão nos museus a coleção hedionda \ndos troncos, dos vira-mundos e dos bacalhaus; e terão \nnotícias dos trágicos horrores de uma época maldita: filhos \narrancados ao seio das mães, virgens violadas em pranto, \nhomens assados lentamente em fornos de cal, mulheres \nnuas recebendo na sua mísera nudez desvalida o duplo \nultraje das chicotadas e dos olhares do feitor bestial. [...]\nMas a sua indignação nunca poderá ser tão grande como \na daqueles que nasceram e cresceram em pleno horror, \nno meio desse horrível drama de sangue e lodo, sentindo \ndentro do ouvido e da alma, numa arrastada e contínua \nmelopeia, o longo gemer da raça mártir — orquestração \nsatânica de todos os soluços, de todas as impressões, de \ntodos os lamentos que a tortura e a injustiça podem arrancar \na gargantas humanas.\nBILAC, O. Disponível em: www.escritas.org. Acesso em: 29 out. 2021.\nPublicado em 1902, o texto de Olavo Bilac enfatiza as \nmazelas da escravidão no Brasil ao",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t descrever de modo impessoal as consequências da"
+        },
+        {
+          "key": "B",
+          "text": "B\t contrapor a infância privilegiada das crianças da época"
+        },
+        {
+          "key": "C",
+          "text": "C\t antecipar o futuro apagamento das marcas da"
+        },
+        {
+          "key": "D",
+          "text": "D\t criticar a atenuação da violência contra os povos"
+        },
+        {
+          "key": "E",
+          "text": "E\t imaginar a reação de indiferença de seus"
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q41",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 41,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "E assim as coisas continuaram acontecendo entre os \ndois, em quase sustos, um grande por acaso com cacoetes \nde gestos definitivos. Com o Nunca Mais se oferecendo \no tempo todo, bastaria dizer foi um prazer ter te conhecido, \nbastaria não trocar telefones nem e-mails e enterrar \na casualidade com a cal da sabedoria — nada poderia \nser definitivo, os encontros duravam duas horas ou duas \ndécadas ou duas vezes isso, mas em algum momento \nnecessariamente seria o fim. De todos os grandes amores. \nDe todos os pequenos. De todas as juras, das promessas, \nde todos os na-alegria-e-na-tristeza. De todos os não \namores, os desamores, os casamentos para sempre, \nos rancores para sempre, de todas as paralelas que só \nse viabilizam na abstração da geometria, de todas as \npequenas paixões e de todas as grandes paixões, de tudo \nque para na antessala da paixão, de todos os vínculos não \nexperimentados, de todos.\nLISBOA, A. Rakushisha. Rio de Janeiro: Objetiva, 2014.\nO recurso que promove a progressão textual, contribuindo \npara a construção da ideia de que as relações amorosas \ntêm um enredo comum, é a",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t repetição do pronome indefinido “todos”."
+        },
+        {
+          "key": "B",
+          "text": "B\t utilização do travessão na marcação do aposto."
+        },
+        {
+          "key": "C",
+          "text": "C\t retomada do antecedente pelo pronome “isso”."
+        },
+        {
+          "key": "D",
+          "text": "D\t contraposição de ideias marcada pela conjunção “mas”."
+        },
+        {
+          "key": "E",
+          "text": "E\t substantivação de expressões pela anteposição do"
+        }
+      ],
+      "correct": "A",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q42",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 42,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "A garganta é a gruta que guarda o som\nA garganta está entre a mente e o coração\nVem coisa de cima, vem coisa de baixo e de\n[repente um nó (e o que eu quero dizer?)\nÀs vezes, acontece um negócio esquisito\nQuando eu quero falar eu grito, quando eu quero\n[gritar eu falo, o resultado\nCalo.\nESTRELA D’ALVA, R. Disponível em: https://claudia.abril.com.br. \nAcesso em: 23 nov. 2021 (fragmento).\nA função emotiva presente no poema cumpre o propósito \ndo eu lírico de",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t revelar as desilusões amorosas."
+        },
+        {
+          "key": "B",
+          "text": "B\t refletir sobre a censura à sua voz."
+        },
+        {
+          "key": "C",
+          "text": "C\t expressar a dificuldade de comunicação."
+        },
+        {
+          "key": "D",
+          "text": "D\t ressaltar a existência de pressões externas."
+        },
+        {
+          "key": "E",
+          "text": "E\t manifestar as dores do processo de criação."
+        }
+      ],
+      "correct": "C",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q43",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 43,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Na Idade Média, as notícias se propagavam com \nsurpreendente eficácia. Segundo uma emérita professora de \nSorbonne, um cavalo era capaz de percorrer 30 quilômetros \npor dia, mas o tempo podia se acelerar dependendo do \ninteresse da notícia. As ordens mendicantes tinham um papel \nimportante na disseminação de informações, assim como \nos jograis, os peregrinos e os vagabundos, porque todos \neles percorriam grandes distâncias. As cidades também \ntinham correios organizados e selos para lacrar mensagens \ne tentar certificar a veracidade das correspondências. \nGraças a tudo isso, a circulação de boatos era intensa \ne politicamente relevante. Um exemplo clássico de fake \nnews da era medieval é a história do rei que desaparece \nna batalha e reaparece muito depois, idoso e transformado.\nDisponível em: www.elpais.com.br. Acesso em: 18 jun. 2018 (adaptado).\nA propagação sistemática de informações é um \nfenômeno recorrente na história e no desenvolvimento \ndas sociedades. No texto, a eficácia dessa propagação \nestá diretamente relacionada ao(à)",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t velocidade de circulação das notícias."
+        },
+        {
+          "key": "B",
+          "text": "B\t nível de letramento da população marginalizada."
+        },
+        {
+          "key": "C",
+          "text": "C\t poder de censura por parte dos serviços públicos."
+        },
+        {
+          "key": "D",
+          "text": "D\t legitimidade da voz dos representantes da nobreza."
+        },
+        {
+          "key": "E",
+          "text": "E\t diversidade dos meios disponíveis em uma época"
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q44",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 44,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Se a interferência de contas falsas em discussões \npolíticas nas redes sociais já representava um perigo \npara os sistemas democráticos, sua sofisticação e maior \nsemelhança com pessoas reais têm agravado o problema \npelo mundo.\nO perigo cresceu porque a tecnologia e os métodos \nevoluíram dos robôs, os “bots” — softwares com tarefas \non-line automatizadas —, para os “ciborgues” ou “trolls”, \ncontas controladas diretamente por humanos com ajuda \nde um pouco de automação.\nMas pesquisadores começam agora a observar outros \npadrões de comportamento: quando mensagens não são \nprogramadas, sua publicação se concentra só em horários \nde trabalho, já que é controlada por pessoas cuja profissão \né exatamente essa, administrar um perfil falso durante o dia.\nOutra pista: a pobreza vocabular das mensagens \npublicadas por esses perfis. Um funcionário de uma \nempresa que supostamente produzia e vendia perfis \nfalsos explica que às vezes “faltava criatividade” para criar \nmensagens distintas controlando tantos perfis falsos ao \nmesmo tempo.\nGRAGNANI, J. Disponível em: www.bbc.com. Acesso em: 16 dez. 2017.\nDe acordo com o texto, a análise de características da \nlinguagem empregada por perfis automatizados contribui \npara o(a)",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t controle da atuação dos profissionais de TI."
+        },
+        {
+          "key": "B",
+          "text": "B\t desenvolvimento de tecnologias como os “trolls”."
+        },
+        {
+          "key": "C",
+          "text": "C\t flexibilização dos turnos de trabalho dos controladores."
+        },
+        {
+          "key": "D",
+          "text": "D\t necessidade de regulamentação do funcionamento"
+        },
+        {
+          "key": "E",
+          "text": "E\t identificação de padrões de disseminação de"
+        }
+      ],
+      "correct": "E",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    },
+    {
+      "id": "enem__2023__dia1__cd3__prova__q45",
+      "source": "enem",
+      "exam_id": "enem__2023__dia1__cd3__prova",
+      "question_number": 45,
+      "area": "linguagens",
+      "lingua_estrangeira": "ingles",
+      "stem": "Maio foi colorido de amarelo, e o foi porque \nmundialmente amarelo é a cor convencionada para as \nadvertências. No trânsito, essas advertências têm sido \nfatais. A estimativa, caso nada seja feito, é a de que se \natinjam assustadoras 2,4 milhões de mortes no trânsito \nem 2030 em todo o mundo.\nA pressa constante, o sentimento de invencibilidade, \na certeza de invulnerabilidade, a necessidade de poder, \na falta de civilidade, a certeza de impunidade, a ausência \nde solidariedade, a inexistência de compaixão e o \ndesrespeito por si próprio são circunstâncias reais que, \nnão raro, concorrem para o comportamento violento no \ntrânsito.\nO Maio Amarelo, que preconiza a atenção pela vida, \né uma das iniciativas nesse sentido. E é precisamente \na atenção pela vida que está esquecida. Essa atenção, \npor certo, requer menos pressa, mais civilidade, \nlimites assegurados, consciência de vulnerabilidade, \nsolidariedade, compaixão e respeito por si e pelo outro. \nReafirmar e praticar esses princípios e valores talvez seja \num caminho mais seguro e menos violento, que garanta \na vida e não celebre a morte.\nDisponível em: http://portaldotransito.com.br. Acesso em: 11 dez. 2018 (adaptado).\nConsiderando \nos \nprocedimentos \nargumentativos \nutilizados, infere-se que o objetivo desse texto é",
+      "options": [
+        {
+          "key": "A",
+          "text": "A\t enumerar as causas determinantes da violência no"
+        },
+        {
+          "key": "B",
+          "text": "B\t contextualizar a campanha de advertência no cenário"
+        },
+        {
+          "key": "C",
+          "text": "C\t divulgar dados numéricos alarmantes sobre acidentes"
+        },
+        {
+          "key": "D",
+          "text": "D\t sensibilizar o público para a importância de uma"
+        },
+        {
+          "key": "E",
+          "text": "E\t restringir os problemas da violência no trânsito a"
+        }
+      ],
+      "correct": "D",
+      "status": "ok",
+      "annulled": false,
+      "image_refs": []
+    }
+  ]
+}

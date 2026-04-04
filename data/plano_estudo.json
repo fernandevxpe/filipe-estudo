@@ -1,0 +1,90 @@
+{
+  "_nota": "Plano diário do Filipe (1º ano). Docs detalhados: docs/rotina_semanal_template.md, docs/semana_2026-04-07.md, docs/calendario_2026_2028.md",
+  "aluno": "Filipe Monteiro",
+  "serie": "1º ano EM",
+  "escopo": {
+    "rotina_semanal": "Repete toda semana (não tem data de término neste arquivo).",
+    "carga_estudo_por_dia_minutos": "90 a 120 (teto sugerido; ver metas.tempo_max_minutos_dia)",
+    "horizonte_macro_anos": "2026 a 2028 — marcos por ano do ensino médio e provas (ENEM experiência, SSA 1/2/3)",
+    "horizonte_macro_doc": "docs/calendario_2026_2028.md",
+    "inicio_rotina_exemplo": "2026-04-07 (primeira semana documentada)",
+    "inicio_rotina_doc": "docs/semana_2026-04-07.md",
+    "onde_editar_assuntos_e_blocos": "data/plano_estudo.json → chave \"semana\" (cada dia: blocos com assunto, atividade, minutos)",
+    "onde_editar_quantidade_questoes": "data/plano_estudo.json → metas (questoes_novas_seg_sex, sessao_app_padrao). Rodada mista: data/daily_mix_config.json (total_target). Pool único: web/app/api/pool/[poolId]/route.ts (limit).",
+    "organograma_conceitual": "Calendário macro (anos) → rotina semanal (dias) → blocos por assunto (JSON) → tópicos de vídeo (data/curadoria_videos.json). Não há diagrama SVG; é este encadeamento em arquivos.",
+    "guias_tematicos_enem_ssa": "docs/guia_temas_enem.md, docs/guia_temas_ssa_upe.md, docs/prioridade_enem_por_ano.md, docs/prioridade_ssa_por_ano.md"
+  },
+  "metas": {
+    "questoes_novas_seg_sex": 15,
+    "variacao_mensal": "+1 por mês se aderência ≥ 80%",
+    "revisao_espacada": "5 a 8 questões (últimos 7 dias)",
+    "mini_vestibular_sabado": "24 a 36 questões em ~90 min (1º bimestre)",
+    "sessao_app_padrao": 15,
+    "tempo_max_minutos_dia": "90 a 120"
+  },
+  "semana": {
+    "0": {
+      "nome": "Domingo",
+      "resumo": "Descanso ou leitura leve (opcional).",
+      "blocos": []
+    },
+    "1": {
+      "nome": "Segunda",
+      "resumo": "Linguagens + Matemática + revisão espaçada.",
+      "blocos": [
+        { "assunto": "Linguagens", "atividade": "Questões de prova real (ENEM/SSA quando disponível)", "minutos": "40–45" },
+        { "assunto": "Matemática", "atividade": "Questões de prova real", "minutos": "35–40" },
+        { "assunto": "Revisão espaçada", "atividade": "Tópicos dos últimos 7 dias", "minutos": "15–20" }
+      ]
+    },
+    "2": {
+      "nome": "Terça",
+      "resumo": "Humanas, Natureza e leitura.",
+      "blocos": [
+        { "assunto": "Ciências Humanas", "atividade": "Prova real / blocos do acervo", "minutos": "40–45" },
+        { "assunto": "Ciências da Natureza", "atividade": "Prova real / blocos do acervo", "minutos": "35–40" },
+        { "assunto": "Leitura", "atividade": "Texto + anotações", "minutos": "15–20" }
+      ]
+    },
+    "3": {
+      "nome": "Quarta",
+      "resumo": "Matemática + Linguagens + revisão.",
+      "blocos": [
+        { "assunto": "Matemática", "atividade": "Prova real", "minutos": "40–45" },
+        { "assunto": "Linguagens", "atividade": "Prova real", "minutos": "35–40" },
+        { "assunto": "Revisão espaçada", "atividade": "Erros recentes", "minutos": "15–20" }
+      ]
+    },
+    "4": {
+      "nome": "Quinta",
+      "resumo": "Natureza, Humanas e redação (rascunho).",
+      "blocos": [
+        { "assunto": "Ciências da Natureza", "atividade": "Prova real", "minutos": "40–45" },
+        { "assunto": "Ciências Humanas", "atividade": "Prova real", "minutos": "35–40" },
+        { "assunto": "Redação", "atividade": "Plano ou rascunho de tema", "minutos": "15–20" }
+      ]
+    },
+    "5": {
+      "nome": "Sexta",
+      "resumo": "Consolidação semanal e erros no app.",
+      "blocos": [
+        { "assunto": "Mistura das 4 áreas", "atividade": "Questões mistas do acervo", "minutos": "45–50" },
+        { "assunto": "Erros da semana", "atividade": "Refazer no app / anotar padrão", "minutos": "35–45" }
+      ]
+    },
+    "6": {
+      "nome": "Sábado",
+      "resumo": "Mini vestibular (ritmo de prova).",
+      "blocos": [
+        { "assunto": "Simulado curto", "atividade": "24–36 questões reais + pelo menos 2 com figura", "minutos": "~90" },
+        { "assunto": "Correção", "atividade": "Imediata no app; exportar erros se quiser", "minutos": "20–30" }
+      ]
+    }
+  },
+  "videos_politica": "Após a sessão, use a busca sugerida no YouTube por tópico com mais erro. Canais indicados são referência; revisar trimestralmente.",
+  "documentacao_repo": [
+    { "titulo": "Template de rotina semanal", "caminho": "docs/rotina_semanal_template.md" },
+    { "titulo": "Semana tipo (ex.: 7–13/04/2026)", "caminho": "docs/semana_2026-04-07.md" },
+    { "titulo": "Calendário macro 2026–2028", "caminho": "docs/calendario_2026_2028.md" }
+  ]
+}

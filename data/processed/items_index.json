@@ -1,0 +1,130 @@
+{
+  "pools": [
+    {
+      "id": "enem_2020_dia1_cd1_ingles",
+      "path": "items_enem_2020_dia1_cd1_ingles.json",
+      "label": "ENEM 2020 — 1º dia — C1 — Inglês (44 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "enem_2020_dia1_cd2_ingles",
+      "path": "items_enem_2020_dia1_cd2_ingles.json",
+      "label": "ENEM 2020 — 1º dia — C2 — Inglês (44 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "enem_2020_dia1_cd3_ingles",
+      "path": "items_enem_2020_dia1_cd3_ingles.json",
+      "label": "ENEM 2020 — 1º dia — C3 — Inglês (44 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "enem_2020_dia1_cd4_ingles",
+      "path": "items_enem_2020_dia1_cd4_ingles.json",
+      "label": "ENEM 2020 — 1º dia — C4 — Inglês (44 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "enem_2022_dia1_cd1_ingles",
+      "path": "items_enem_2022_dia1_cd1_ingles.json",
+      "label": "ENEM 2022 — 1º dia — C1 — Inglês (45 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "enem_2022_dia1_cd2_ingles",
+      "path": "items_enem_2022_dia1_cd2_ingles.json",
+      "label": "ENEM 2022 — 1º dia — C2 — Inglês (45 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "enem_2022_dia1_cd3_ingles",
+      "path": "items_enem_2022_dia1_cd3_ingles.json",
+      "label": "ENEM 2022 — 1º dia — C3 — Inglês (45 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "enem_2022_dia1_cd4_ingles",
+      "path": "items_enem_2022_dia1_cd4_ingles.json",
+      "label": "ENEM 2022 — 1º dia — C4 — Inglês (45 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "enem_2023_dia1_cd1_ingles",
+      "path": "items_enem_2023_dia1_cd1_ingles.json",
+      "label": "ENEM 2023 — 1º dia — C1 — Inglês (45 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "enem_2023_dia1_cd2_ingles",
+      "path": "items_enem_2023_dia1_cd2_ingles.json",
+      "label": "ENEM 2023 — 1º dia — C2 — Inglês (45 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "enem_2023_dia1_cd3_ingles",
+      "path": "items_enem_2023_dia1_cd3_ingles.json",
+      "label": "ENEM 2023 — 1º dia — C3 — Inglês (45 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "enem_2023_dia1_cd4_ingles",
+      "path": "items_enem_2023_dia1_cd4_ingles.json",
+      "label": "ENEM 2023 — 1º dia — C4 — Inglês (45 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "enem_2024_dia1_cd1_ingles",
+      "path": "items_enem_2024_dia1_cd1_ingles.json",
+      "label": "ENEM 2024 — 1º dia — C1 — Inglês (45 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "enem_2024_dia1_cd2_ingles",
+      "path": "items_enem_2024_dia1_cd2_ingles.json",
+      "label": "ENEM 2024 — 1º dia — C2 — Inglês (45 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "enem_2024_dia1_cd3_ingles",
+      "path": "items_enem_2024_dia1_cd3_ingles.json",
+      "label": "ENEM 2024 — 1º dia — C3 — Inglês (45 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "enem_2024_dia1_cd4_ingles",
+      "path": "items_enem_2024_dia1_cd4_ingles.json",
+      "label": "ENEM 2024 — 1º dia — C4 — Inglês (45 q)",
+      "area": "linguagens",
+      "kind": "enem"
+    },
+    {
+      "id": "extras_vestibulares",
+      "path": "items_extras_vestibulares.json",
+      "label": "Extras — estilo vestibular / similares (10 q)",
+      "area": "mista",
+      "kind": "extra"
+    },
+    {
+      "id": "ssa_upe_amostra",
+      "path": "items_ssa_upe_amostra.json",
+      "label": "SSA UPE — amostra estilo prova (8 q)",
+      "area": "mista",
+      "kind": "ssa"
+    }
+  ]
+}

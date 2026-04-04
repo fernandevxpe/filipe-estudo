@@ -1,0 +1,10 @@
+{
+  "name": "Filipe Estudo",
+  "short_name": "Filipe",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "lang": "pt-BR",
+  "description": "Questões reais ENEM e SSA UPE com acompanhamento."
+}
