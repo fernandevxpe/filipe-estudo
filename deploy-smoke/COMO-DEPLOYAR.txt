@@ -1,0 +1,19 @@
+Smoke test estático — validar Vercel + Git sem Next.js
+======================================================
+
+1) Na Vercel: "Add New Project" → importa o MESMO repositório GitHub (filipe-estudo).
+
+2) ANTES de fazer deploy, abre "Configure Project":
+   - Root Directory: deploy-smoke  (clica Edit, escolhe a pasta deploy-smoke)
+   - Framework Preset: Other  (ou "No Framework" conforme a UI)
+   - Build Command: deixa VAZIO
+   - Output Directory: deixa VAZIO
+   - Install Command: deixa VAZIO
+
+3) Deploy.
+
+4) Abre o URL que a Vercel der. Deves ver a página escura com "Deploy smoke OK".
+
+Se ISTO falhar (NOT_FOUND ou 404), o problema é conta/equipa/domínio na Vercel, não o código Next em web/.
+
+Se ISTO funcionar mas web/ não, o problema está no build Next (Root web/, dependências, etc.) — aí migramos ou corrigimos só o web/.
