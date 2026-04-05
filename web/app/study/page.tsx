@@ -6,6 +6,7 @@ import { useSearchParams } from "next/navigation";
 import { getAssetSrc } from "@/lib/assetUrl";
 import { normalizeImageRefsForClient } from "@/lib/imageRefs";
 import { parseLogDayParam } from "@/lib/logDay";
+import { fetchApiJson } from "@/lib/clientApiLog";
 
 type Option = { key: string; text: string };
 
@@ -177,27 +178,30 @@ function StudyPageContent() {
   }, []);
 
   useEffect(() => {
-    fetch("/api/pools")
-      .then((r) => r.json())
-      .then((d) => {
-        const ps = d.pools || [];
-        setPools(ps);
-        if (ps[0]) setPoolId(ps[0].id);
-      })
-      .catch(() => {});
+    fetchApiJson<{ pools?: { id: string; label: string; area?: string; kind?: string }[] }>(
+      "/api/pools",
+      undefined,
+      "GET /api/pools"
+    ).then((d) => {
+      if (!d) return;
+      const ps = d.pools || [];
+      setPools(ps);
+      if (ps[0]) setPoolId(ps[0].id);
+    });
   }, []);
 
   useEffect(() => {
-    fetch("/api/guia")
-      .then((r) => r.json())
-      .then((p) => {
-        if (p.error) return;
-        setDiaResumo({
-          hojeNome: p.hoje?.nome ?? "—",
-          metaDia: p.lembrete?.metaQuestoesDia ?? DEFAULT_LIMIT,
-        });
-      })
-      .catch(() => {});
+    fetchApiJson<{ error?: string; hoje?: { nome?: string }; lembrete?: { metaQuestoesDia?: number } }>(
+      "/api/guia",
+      undefined,
+      "GET /api/guia (study)"
+    ).then((p) => {
+      if (!p || p.error) return;
+      setDiaResumo({
+        hojeNome: p.hoje?.nome ?? "—",
+        metaDia: p.lembrete?.metaQuestoesDia ?? DEFAULT_LIMIT,
+      });
+    });
   }, []);
 
   const persistDraft = useCallback(
@@ -278,17 +282,22 @@ function StudyPageContent() {
     setLoading(true);
     setResult(null);
     setEntries([]);
-    fetch("/api/daily-bundle", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        limit: DEFAULT_LIMIT,
-        area: areaFilter || null,
-      }),
-    })
-      .then((r) => r.json())
+    fetchApiJson<{ error?: string; items?: ClientItem[]; mode?: string }>(
+      "/api/daily-bundle",
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          limit: DEFAULT_LIMIT,
+          area: areaFilter || null,
+        }),
+      },
+      "POST /api/daily-bundle"
+    )
       .then((d) => {
+        if (!d) return;
         if (d.error) {
+          console.warn("[Filipe:api] POST /api/daily-bundle", d.error);
           alert(d.error);
           return;
         }
@@ -316,11 +325,15 @@ function StudyPageContent() {
     setLoading(true);
     setResult(null);
     setEntries([]);
-    fetch(`/api/pool/${poolId}?offset=0&limit=${DEFAULT_LIMIT}`)
-      .then((r) => r.json())
+    fetchApiJson<{ items?: (ClientItem & { id: string })[] }>(
+      `/api/pool/${poolId}?offset=0&limit=${DEFAULT_LIMIT}`,
+      undefined,
+      `GET /api/pool/${poolId}`
+    )
       .then((d) => {
+        if (!d) return;
         const raw = d.items || [];
-        const mapped: ClientItem[] = raw.map((it: ClientItem & { id: string }) => ({
+        const mapped: ClientItem[] = raw.map((it) => ({
           ...it,
           poolId: poolId,
         }));
@@ -339,13 +352,18 @@ function StudyPageContent() {
     setLoading(true);
     setResult(null);
     setEntries([]);
-    fetch("/api/daily-bundle", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ onlyRefs: refs, limit: DEFAULT_LIMIT }),
-    })
-      .then((r) => r.json())
+    fetchApiJson<{ items?: ClientItem[]; error?: string }>(
+      "/api/daily-bundle",
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ onlyRefs: refs, limit: DEFAULT_LIMIT }),
+      },
+      "POST /api/daily-bundle (retry_wrong)"
+    )
       .then((d) => {
+        if (!d) return;
+        if (d.error) console.warn("[Filipe:api] retry_wrong", d.error);
         setItems(d.items || []);
         setSessionKind("retry_wrong");
         setPhase("running");
@@ -367,20 +385,26 @@ function StudyPageContent() {
     }
     submitLockRef.current = true;
     setLoading(true);
-    fetch("/api/session", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        sessionKind,
-        poolId: sessionKind === "single" ? poolId : "daily_mixed",
-        entries,
-        ...(logDay ? { forDay: logDay } : {}),
-      }),
-    })
-      .then((r) => r.json())
+    fetchApiJson<SessionResult & { error?: string }>(
+      "/api/session",
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          sessionKind,
+          poolId: sessionKind === "single" ? poolId : "daily_mixed",
+          entries,
+          ...(logDay ? { forDay: logDay } : {}),
+        }),
+      },
+      "POST /api/session"
+    )
       .then((d) => {
-        if (d.error) alert(d.error);
-        else {
+        if (!d) return;
+        if (d.error) {
+          console.warn("[Filipe:api] POST /api/session", d.error);
+          alert(d.error);
+        } else {
           setResult(d as SessionResult);
           setPhase("result");
           clearDraft();

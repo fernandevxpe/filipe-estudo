@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import { fetchApiJson } from "@/lib/clientApiLog";
 
 type Aula = {
   titulo: string;
@@ -49,13 +50,10 @@ export default function EstudoDoDiaPage() {
   const [err, setErr] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch("/api/guia")
-      .then((r) => {
-        if (!r.ok) throw new Error("Falha");
-        return r.json();
-      })
-      .then(setData)
-      .catch(() => setErr("Não foi possível carregar."));
+    fetchApiJson<GuiaPayload>("/api/guia", undefined, "GET /api/guia").then((d) => {
+      if (d) setData(d);
+      else setErr("Não foi possível carregar — ver Consola (F12) [Filipe:api].");
+    });
   }, []);
 
   if (err || !data) {

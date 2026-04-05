@@ -4,6 +4,7 @@ import dynamic from "next/dynamic";
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import type { DailySeriesRow, VolumeDayRow, VolumeStackCategory } from "@/components/DashboardCharts";
+import { fetchApiJson } from "@/lib/clientApiLog";
 
 const DashboardCharts = dynamic(
   () => import("@/components/DashboardCharts").then((m) => m.DashboardCharts),
@@ -72,21 +73,18 @@ export default function DashboardPage() {
   });
 
   useEffect(() => {
-    fetch("/api/stats")
-      .then(async (r) => {
-        const d = (await r.json().catch(() => null)) as Record<string, unknown> | null;
-        if (!d || typeof d !== "object") return;
-        setDays((d.days as DayRow[]) || []);
-        setSessions((d.sessions as SessionRow[]) || []);
-        setFlags((d.auditFlags as FlagRow[]) || []);
-        setStudy((d.studyProgress as StudyProgress) ?? null);
-        setDailySeries((d.dailySeries as DailySeriesRow[]) || []);
-        setVolumeByDay((d.volumeByDay as VolumeDayRow[]) || []);
-        setVolumeStackByDay((d.volumeStackByDay as Record<string, string | number>[]) || []);
-        setVolumeStackCorrect((d.volumeStackCorrect as Record<string, string | number>[]) || []);
-        setVolumeStackCategories((d.volumeStackCategories as VolumeStackCategory[]) || []);
-      })
-      .catch(() => {});
+    fetchApiJson<Record<string, unknown>>("/api/stats", undefined, "GET /api/stats").then((d) => {
+      if (!d || typeof d !== "object") return;
+      setDays((d.days as DayRow[]) || []);
+      setSessions((d.sessions as SessionRow[]) || []);
+      setFlags((d.auditFlags as FlagRow[]) || []);
+      setStudy((d.studyProgress as StudyProgress) ?? null);
+      setDailySeries((d.dailySeries as DailySeriesRow[]) || []);
+      setVolumeByDay((d.volumeByDay as VolumeDayRow[]) || []);
+      setVolumeStackByDay((d.volumeStackByDay as Record<string, string | number>[]) || []);
+      setVolumeStackCorrect((d.volumeStackCorrect as Record<string, string | number>[]) || []);
+      setVolumeStackCategories((d.volumeStackCategories as VolumeStackCategory[]) || []);
+    });
   }, []);
 
   const monthDays = useMemo(() => {

@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { getAssetSrc } from "@/lib/assetUrl";
 import { normalizeImageRefsForClient } from "@/lib/imageRefs";
+import { parseApiJson } from "@/lib/clientApiLog";
 
 const FLAGS_LS = "filipe-diagnostic-flags-v1";
 
@@ -126,12 +127,15 @@ export default function DiagnosticoPage() {
     const url =
       view === "calendar" ? `/api/diagnostic/day?date=${encodeURIComponent(date)}` : `/api/diagnostic/queue?dayIndex=${dayIndex}`;
     fetch(url)
-      .then((r) => r.json())
-      .then((d) => {
-        if (view === "calendar") setCalPayload(d as CalendarPayload);
-        else setQueuePayload(d as QueuePayload);
+      .then(async (r) => {
+        const text = await r.text();
+        const label = view === "calendar" ? `GET /api/diagnostic/day` : `GET /api/diagnostic/queue`;
+        const d = parseApiJson<CalendarPayload | QueuePayload>(label, r, text);
+        if (view === "calendar") setCalPayload(d?.mode === "calendar" ? d : null);
+        else setQueuePayload(d?.mode === "queue" ? d : null);
       })
-      .catch(() => {
+      .catch((e) => {
+        console.error("[Filipe:api] diagnóstico", url, e);
         if (view === "calendar") setCalPayload(null);
         else setQueuePayload(null);
       })
