@@ -44,18 +44,21 @@ export default function HomeLanding() {
         <div className="mt-10 flex flex-col sm:flex-row items-stretch sm:items-center gap-3 w-full sm:w-auto sm:justify-center">
           <Link
             href="/login"
-            className="inline-flex justify-center items-center gap-2 rounded-xl bg-gradient-to-r from-amber-500 to-orange-500 px-8 py-3.5 text-base font-semibold text-slate-950 shadow-lg shadow-amber-900/40 hover:from-amber-400 hover:to-orange-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-300 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950 transition"
+            className="inline-flex justify-center items-center gap-2 rounded-xl bg-gradient-to-r from-amber-500 to-orange-500 px-10 py-4 text-lg font-bold text-slate-950 shadow-lg shadow-amber-900/40 hover:from-amber-400 hover:to-orange-400 focus:outline-none focus-visible:ring-2 focus-visible:ring-amber-300 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950 transition"
           >
             <span aria-hidden>🔐</span>
-            Entrar no quartel-general
+            Entrar
           </Link>
           <Link
             href="/login"
             className="inline-flex justify-center items-center rounded-xl border border-slate-600 bg-slate-900/60 px-6 py-3.5 text-sm font-medium text-slate-200 hover:bg-slate-800/80 hover:border-slate-500 transition"
           >
-            Criar conta · 30 s
+            Criar conta
           </Link>
         </div>
+        <p className="mt-3 text-xs text-slate-500 max-w-md">
+          Primeiro vês esta página; no ecrã seguinte introduces email e palavra-passe para aceder ao painel.
+        </p>
 
         <ul className="mt-12 flex flex-wrap justify-center gap-2 text-xs text-slate-400">
           {["ENEM + SSA UPE", "Calendário", "Gráficos", "Estudo do dia"].map((label) => (
@@ -69,8 +72,8 @@ export default function HomeLanding() {
         </ul>
 
         <p className="mt-10 text-xs text-slate-600 max-w-sm leading-relaxed">
-          Depois de entrares, o <strong className="text-slate-500">Painel</strong> desbloqueia com o teu progresso. Até
-          lá, este ecrã existe só para impressionar visitantes e motivar o Filipe a abrir o livro.
+          Depois de <strong className="text-slate-500">Entrar</strong>, o <strong className="text-slate-500">Painel</strong>{" "}
+          mostra o teu progresso. Este ecrã é a entrada temática — depois é só login.
         </p>
       </div>
     </div>
