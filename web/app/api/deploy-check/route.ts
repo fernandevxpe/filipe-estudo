@@ -1,5 +1,7 @@
 import { NextResponse } from "next/server";
 import { DEPLOY_MARK } from "@/lib/deployMark";
+import { isSupabaseConfigured } from "@/lib/supabase/config";
+import { getSupabaseCredentials } from "@/lib/supabase/credentials";
 
 export const dynamic = "force-dynamic";
 
@@ -7,9 +9,21 @@ export function GET(req: Request) {
   const url = new URL(req.url);
   const verbose = url.searchParams.get("verbose") === "1" || url.searchParams.get("verbose") === "true";
 
+  const creds = getSupabaseCredentials();
+  let supabaseHost: string | null = null;
+  if (creds?.url) {
+    try {
+      supabaseHost = new URL(creds.url).host;
+    } catch {
+      supabaseHost = "invalid-url";
+    }
+  }
+
   const base = {
     ok: true,
     deployMark: DEPLOY_MARK,
+    supabaseConfigured: isSupabaseConfigured(),
+    supabaseUrlHost: supabaseHost,
     serverTime: new Date().toISOString(),
     vercelGitCommitSha: process.env.VERCEL_GIT_COMMIT_SHA ?? null,
     vercelGitCommitRef: process.env.VERCEL_GIT_COMMIT_REF ?? null,

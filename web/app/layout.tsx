@@ -28,6 +28,9 @@ export const viewport: Viewport = {
   themeColor: "#0f172a",
 };
 
+/** Garante que o layout lê env em runtime na Vercel (não cache estático sem Supabase). */
+export const dynamic = "force-dynamic";
+
 export default function RootLayout({
   children,
 }: Readonly<{
