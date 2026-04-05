@@ -10,7 +10,9 @@
     "build": "node scripts/sync-repo-data.mjs && node scripts/prepare-public-assets.mjs && next build",
     "sync-assets": "node scripts/prepare-public-assets.mjs",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "verify:local": "npm run lint && npm run build",
+    "verify:full": "npm ci && npm run lint && npm run build"
   },
   "dependencies": {
     "better-sqlite3": "^12.8.0",
