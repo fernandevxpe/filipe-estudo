@@ -3,8 +3,8 @@
  * Smoke test do site já deployado (Vercel ou outro).
  *
  * Uso local:
- *   SITE_URL=https://teu-projeto.vercel.app node scripts/verify-remote.mjs
- *   node scripts/verify-remote.mjs https://teu-projeto.vercel.app
+ *   SITE_URL=https://filipe-estudo-tau.vercel.app node scripts/verify-remote.mjs
+ *   node scripts/verify-remote.mjs https://filipe-estudo-tau.vercel.app
  *
  * CI: define o secret PRODUCTION_SITE_URL no GitHub com a mesma URL.
  */
@@ -12,7 +12,7 @@ const baseRaw = process.env.SITE_URL || process.argv[2];
 if (!baseRaw?.trim()) {
   console.error(
     "Defina SITE_URL ou passe a URL como argumento.\n" +
-      "  Ex.: SITE_URL=https://filipe-estudo.vercel.app node scripts/verify-remote.mjs"
+      "  Ex.: SITE_URL=https://filipe-estudo-tau.vercel.app node scripts/verify-remote.mjs"
   );
   process.exit(2);
 }

@@ -1,5 +1,5 @@
 # Verifica o site em produção após cada push em main (se o secret existir).
-# GitHub → Settings → Secrets → Actions → New: PRODUCTION_SITE_URL = https://teu-dominio.vercel.app
+# GitHub → Settings → Secrets → Actions → New: PRODUCTION_SITE_URL = https://filipe-estudo-tau.vercel.app
 name: Verify site (smoke)
 
 on:
