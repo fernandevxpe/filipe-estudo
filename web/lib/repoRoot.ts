@@ -12,8 +12,9 @@ export function getRepoRoot(): string {
     if (fs.existsSync(path.join(r, "data", "processed"))) return r;
   }
   const cwd = path.resolve(process.cwd());
-  // Build deploy: dados copiados para web/data (Vercel com Root Directory = web)
-  if (fs.existsSync(path.join(cwd, "data", "processed")) && fs.existsSync(path.join(cwd, "data", "assets"))) {
+  // Build deploy: dados em web/data (Vercel Root = web). Só exigimos processed aqui para o trace
+  // não puxar data/assets inteiro para serverless — assets vão em public/data/assets.
+  if (fs.existsSync(path.join(cwd, "data", "processed"))) {
     return cwd;
   }
   const candidates = [path.resolve(cwd, ".."), cwd, path.resolve(cwd, "..", "..")];

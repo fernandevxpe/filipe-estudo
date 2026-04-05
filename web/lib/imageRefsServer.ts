@@ -13,6 +13,15 @@ function isPngBuffer(buf: Buffer): boolean {
  * típicos de bug na extração do PDF (altura mínima, arquivo pequeno).
  */
 export function filterImageRefsForServer(refs: string[]): string[] {
+  // Na Vercel não há data/assets no bundle da função — imagens servem-se como estático /data/assets/...
+  if (process.env.VERCEL) {
+    return refs.filter((ref) => {
+      if (!ref || ref.includes("..")) return false;
+      const n = ref.replace(/^\/+/, "");
+      return n.startsWith("data/assets/");
+    });
+  }
+
   const root = getRepoRoot();
   const allowRoot = path.resolve(path.join(root, "data", "assets"));
   const out: string[] = [];

@@ -16,6 +16,8 @@ const nextConfig = {
       "*": [
         "./data/processed/enem/**/*",
         "./data/processed/ssa/**/*",
+        // Figuras em produção vêm de public/data/assets (CDN); não empacotar ~266MB em cada lambda
+        "./data/assets/**/*",
       ],
     },
   },

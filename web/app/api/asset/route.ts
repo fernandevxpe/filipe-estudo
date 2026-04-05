@@ -15,6 +15,10 @@ export async function GET(req: Request) {
     return new NextResponse("Parâmetro inválido", { status: 400 });
   }
   const normalized = rel.replace(/^\/+/, "");
+  // Produção Vercel: ficheiros estão no CDN (public/), não no disco da lambda
+  if (process.env.VERCEL && normalized.startsWith("data/assets/")) {
+    return NextResponse.redirect(new URL(`/${normalized}`, url.origin), 307);
+  }
   const full = path.join(getRepoRoot(), normalized);
   const resolved = path.resolve(full);
   if (!resolved.startsWith(path.resolve(ALLOW))) {
