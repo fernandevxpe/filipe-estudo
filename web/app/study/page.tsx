@@ -385,30 +385,41 @@ function StudyPageContent() {
     }
     submitLockRef.current = true;
     setLoading(true);
-    fetchApiJson<SessionResult & { error?: string }>(
-      "/api/session",
-      {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          sessionKind,
-          poolId: sessionKind === "single" ? poolId : "daily_mixed",
-          entries,
-          ...(logDay ? { forDay: logDay } : {}),
-        }),
-      },
-      "POST /api/session"
-    )
-      .then((d) => {
-        if (!d) return;
-        if (d.error) {
+    fetch("/api/session", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        sessionKind,
+        poolId: sessionKind === "single" ? poolId : "daily_mixed",
+        entries,
+        ...(logDay ? { forDay: logDay } : {}),
+      }),
+    })
+      .then(async (r) => {
+        const text = await r.text();
+        let d: (SessionResult & { error?: string }) | null = null;
+        try {
+          d = JSON.parse(text) as SessionResult & { error?: string };
+        } catch {
+          console.error("[Filipe:api] POST /api/session", r.status, text.slice(0, 500));
+        }
+        if (!r.ok) {
+          console.error("[Filipe:api] POST /api/session", r.status, d ?? text.slice(0, 500));
+          alert(d?.error || `Erro ao guardar (${r.status}). Se usas conta na nuvem, entra em /login.`);
+          return;
+        }
+        if (d?.error) {
           console.warn("[Filipe:api] POST /api/session", d.error);
           alert(d.error);
-        } else {
+        } else if (d) {
           setResult(d as SessionResult);
           setPhase("result");
           clearDraft();
         }
+      })
+      .catch((e) => {
+        console.error("[Filipe:api] POST /api/session rede", e);
+        alert("Falha de rede ao guardar.");
       })
       .finally(() => {
         setLoading(false);

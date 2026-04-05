@@ -1,6 +1,9 @@
 import { NextResponse } from "next/server";
 import { getDb } from "@/lib/db";
 import { dayPctLabel, tierFromCumulative, type DayTier } from "@/lib/dayTier";
+import { useCloudProgress } from "@/lib/supabase/config";
+import { getSupabaseUserId, createSupabaseServerClient } from "@/lib/supabase/server";
+import { fetchCloudStatsPayload } from "@/lib/progress/cloudStats";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -9,8 +12,36 @@ function pct(c: number, a: number) {
   return a > 0 ? Math.round((c / a) * 1000) / 10 : 0;
 }
 
+const emptyStats = {
+  authRequired: true,
+  sessions: [] as unknown[],
+  days: [] as unknown[],
+  auditFlags: [] as unknown[],
+  studyProgress: {
+    totals: { answered: 0, correct: 0, wrong: 0, pct: 0 },
+    byArea: [] as unknown[],
+    needsWork: [] as unknown[],
+    goingWell: [] as unknown[],
+  },
+  dailySeries: [] as unknown[],
+  volumeByDay: [] as unknown[],
+  volumeStackByDay: [] as unknown[],
+  volumeStackCorrect: [] as unknown[],
+  volumeStackCategories: [] as unknown[],
+};
+
 export async function GET() {
   try {
+  if (useCloudProgress()) {
+    const uid = await getSupabaseUserId();
+    if (!uid) {
+      return NextResponse.json(emptyStats);
+    }
+    const supabase = createSupabaseServerClient();
+    const payload = await fetchCloudStatsPayload(supabase, uid);
+    return NextResponse.json({ authRequired: false, ...payload });
+  }
+
   const db = getDb();
   const sessions = db
     .prepare(
@@ -267,6 +298,7 @@ export async function GET() {
   });
 
   return NextResponse.json({
+    authRequired: false,
     sessions,
     days,
     auditFlags: flags,

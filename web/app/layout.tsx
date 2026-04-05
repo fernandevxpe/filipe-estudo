@@ -3,6 +3,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import Link from "next/link";
 import ClientErrorReporter from "@/components/ClientErrorReporter";
+import AuthNav from "@/components/AuthNav";
 import { DEPLOY_MARK } from "@/lib/deployMark";
 
 const geistSans = localFont({
@@ -39,23 +40,29 @@ export default function RootLayout({
             <Link href="/" className="text-lg font-semibold text-sky-300 hover:text-sky-200">
               Filipe · Estudo
             </Link>
-            <nav className="flex flex-wrap gap-x-4 gap-y-1 text-sm text-slate-300">
-              <Link href="/" className="hover:text-white">
-                Painel
-              </Link>
-              <Link href="/guia" className="hover:text-white">
-                Estudo do dia
-              </Link>
-              <Link href="/study" className="hover:text-white">
-                Atividades
-              </Link>
-              <Link href="/diagnostico" className="hover:text-amber-200/90">
-                Diagnóstico
-              </Link>
-              <Link href="/test" className="hover:text-slate-400 text-slate-500">
-                Teste
-              </Link>
-            </nav>
+            <div className="flex flex-wrap items-center gap-4 justify-end flex-1 min-w-0">
+              <nav className="flex flex-wrap gap-x-4 gap-y-1 text-sm text-slate-300">
+                <Link href="/" className="hover:text-white">
+                  Painel
+                </Link>
+                <Link href="/guia" className="hover:text-white">
+                  Estudo do dia
+                </Link>
+                <Link href="/study" className="hover:text-white">
+                  Atividades
+                </Link>
+                <Link href="/diagnostico" className="hover:text-amber-200/90">
+                  Diagnóstico
+                </Link>
+                <Link href="/login" className="hover:text-sky-300 text-slate-400">
+                  Conta
+                </Link>
+                <Link href="/test" className="hover:text-slate-400 text-slate-500">
+                  Teste
+                </Link>
+              </nav>
+              <AuthNav />
+            </div>
           </div>
         </header>
         <main className="max-w-5xl mx-auto px-4 py-8 w-full min-w-0 flex-1">{children}</main>

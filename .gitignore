@@ -21,8 +21,17 @@ node_modules/
 out/
 dist/
 .env
-.env.local
+.env*.local
 
 # OS
 .DS_Store
 .vercel
+
+# Copia para .env.local (nunca commits com segredos).
+# Supabase → Project Settings → API
+
+NEXT_PUBLIC_SUPABASE_URL=https://iigzsjzunnlbksqiqieb.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlpZ3pzanp1bm5sYmtzcWlxaWViIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzU0MDY1NjAsImV4cCI6MjA5MDk4MjU2MH0.zPLIH9S-5Oa65a4DrHFxlpFBLphsEYBpCgKQhjHpKjA
+
+# Opcional: só a chave anon; não uses service_role no browser.
+
