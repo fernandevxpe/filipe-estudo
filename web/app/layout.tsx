@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import Link from "next/link";
+import { DEPLOY_MARK } from "@/lib/deployMark";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -27,7 +28,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR">
-      <body className={`${geistSans.variable} font-sans min-h-screen`}>
+      <body className={`${geistSans.variable} font-sans min-h-screen flex flex-col`}>
         <header className="border-b border-slate-800 bg-slate-900/80 backdrop-blur sticky top-0 z-10">
           <div className="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
             <Link href="/" className="text-lg font-semibold text-sky-300 hover:text-sky-200">
@@ -49,7 +50,22 @@ export default function RootLayout({
             </nav>
           </div>
         </header>
-        <main className="max-w-5xl mx-auto px-4 py-8 w-full min-w-0">{children}</main>
+        <main className="max-w-5xl mx-auto px-4 py-8 w-full min-w-0 flex-1">{children}</main>
+        <footer className="border-t border-slate-800/80 mt-auto">
+          <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex flex-wrap items-center gap-x-3 gap-y-1">
+            <span>
+              Deploy mark: <code className="text-slate-400">{DEPLOY_MARK}</code>
+            </span>
+            <a
+              href="/api/deploy-check"
+              className="text-sky-600 hover:text-sky-400 underline"
+              target="_blank"
+              rel="noreferrer"
+            >
+              JSON do deploy
+            </a>
+          </div>
+        </footer>
       </body>
     </html>
   );
