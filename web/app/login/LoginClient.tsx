@@ -1,11 +1,53 @@
 "use client";
 
-import { Suspense, useState } from "react";
+import { Suspense, useEffect, useState } from "react";
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
-import { getSupabaseBrowserClient } from "@/lib/supabase/browser";
+import { getSupabaseBrowserClient, setSupabaseBrowserCredentials } from "@/lib/supabase/browser";
 
-function LoginForm({ supabaseReady }: { supabaseReady: boolean }) {
+type CfgState = "loading" | "ready" | "missing";
+
+function ConfigMissing() {
+  return (
+    <div className="max-w-md mx-auto space-y-4 text-slate-300">
+      <h1 className="text-xl font-semibold text-white">Conta</h1>
+      <p className="text-sm text-slate-400">
+        O servidor não devolveu credenciais Supabase (nem via HTML nem via{" "}
+        <code className="text-slate-500">/api/supabase-config</code>). Na <strong className="text-slate-300">Vercel</strong>:
+        Settings → Environment Variables → <strong className="text-slate-300">Production</strong>:
+      </p>
+      <ul className="text-sm text-slate-500 list-disc pl-5 space-y-1">
+        <li>
+          <code className="text-slate-400">NEXT_PUBLIC_SUPABASE_URL</code> e{" "}
+          <code className="text-slate-400">NEXT_PUBLIC_SUPABASE_ANON_KEY</code>
+        </li>
+        <li>
+          ou <code className="text-slate-400">SUPABASE_URL</code> e{" "}
+          <code className="text-slate-400">SUPABASE_ANON_KEY</code>
+        </li>
+      </ul>
+      <p className="text-sm text-amber-200/80">
+        Confirma que o projeto Vercel é o que aponta para este repositório e pasta <code className="text-slate-500">web</code>.
+        Depois: <strong>Redeploy</strong>. Testa também{" "}
+        <a href="/api/deploy-check" className="text-sky-400 underline" target="_blank" rel="noreferrer">
+          /api/deploy-check
+        </a>{" "}
+        — <code className="text-slate-500">supabaseConfigured</code> deve ser <code className="text-slate-500">true</code>.
+      </p>
+      <div className="flex flex-wrap gap-x-3 gap-y-1 text-sm">
+        <Link href="/bem-vindo" className="text-sky-400 hover:underline">
+          Página inicial temática
+        </Link>
+        <span className="text-slate-600">·</span>
+        <Link href="/" className="text-slate-400 hover:underline">
+          Início
+        </Link>
+      </div>
+    </div>
+  );
+}
+
+function LoginForm() {
   const router = useRouter();
   const params = useSearchParams();
   const errParam = params.get("error");
@@ -15,45 +57,6 @@ function LoginForm({ supabaseReady }: { supabaseReady: boolean }) {
   const [mode, setMode] = useState<"login" | "signup">("login");
   const [msg, setMsg] = useState<string | null>(errParam === "auth" ? "Falha na autenticação. Tenta de novo." : null);
   const [loading, setLoading] = useState(false);
-
-  if (!supabaseReady) {
-    return (
-      <div className="max-w-md mx-auto space-y-4 text-slate-300">
-        <h1 className="text-xl font-semibold text-white">Conta</h1>
-        <p className="text-sm text-slate-400">
-          O servidor ainda não tem as credenciais do Supabase. Na <strong className="text-slate-300">Vercel</strong>:
-          Settings → Environment Variables → adiciona (Production):
-        </p>
-        <ul className="text-sm text-slate-500 list-disc pl-5 space-y-1">
-          <li>
-            <code className="text-slate-400">NEXT_PUBLIC_SUPABASE_URL</code> e{" "}
-            <code className="text-slate-400">NEXT_PUBLIC_SUPABASE_ANON_KEY</code>
-          </li>
-          <li>
-            ou <code className="text-slate-400">SUPABASE_URL</code> e{" "}
-            <code className="text-slate-400">SUPABASE_ANON_KEY</code> (mesmos valores do painel Supabase → API)
-          </li>
-        </ul>
-        <p className="text-sm text-amber-200/80">
-          Depois de guardar, faz <strong>Redeploy</strong> do projeto (Deployments → ⋯ → Redeploy) para o Next incorporar as
-          variáveis públicas no build.
-        </p>
-        <p className="text-xs text-slate-600">
-          Em local, usa <code className="text-slate-500">web/.env.local</code> com as mesmas chaves e reinicia{" "}
-          <code className="text-slate-500">npm run dev</code>.
-        </p>
-        <div className="flex flex-wrap gap-x-3 gap-y-1 text-sm">
-          <Link href="/bem-vindo" className="text-sky-400 hover:underline">
-            Página inicial temática
-          </Link>
-          <span className="text-slate-600">·</span>
-          <Link href="/" className="text-slate-400 hover:underline">
-            Painel (após entrar)
-          </Link>
-        </div>
-      </div>
-    );
-  }
 
   async function submit(e: React.FormEvent) {
     e.preventDefault();
@@ -150,7 +153,48 @@ function LoginForm({ supabaseReady }: { supabaseReady: boolean }) {
   );
 }
 
-export function LoginClient({ supabaseReady }: { supabaseReady: boolean }) {
+function LoginWithConfig() {
+  const [cfg, setCfg] = useState<CfgState>("loading");
+
+  useEffect(() => {
+    let cancelled = false;
+    fetch("/api/supabase-config", { cache: "no-store" })
+      .then((r) => r.json() as Promise<{ ok: boolean; url?: string; anonKey?: string }>)
+      .then((data) => {
+        if (cancelled) return;
+        if (data.ok && data.url && data.anonKey) {
+          setSupabaseBrowserCredentials(data.url, data.anonKey);
+          setCfg("ready");
+        } else {
+          setCfg("missing");
+        }
+      })
+      .catch(() => {
+        if (!cancelled) setCfg("missing");
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  if (cfg === "loading") {
+    return (
+      <div className="max-w-md mx-auto text-slate-500 text-sm" aria-busy>
+        A carregar…
+      </div>
+    );
+  }
+  if (cfg === "missing") {
+    return <ConfigMissing />;
+  }
+  return (
+    <Suspense fallback={<div className="max-w-md mx-auto text-slate-500 text-sm">A carregar…</div>}>
+      <LoginForm />
+    </Suspense>
+  );
+}
+
+export function LoginClient() {
   return (
     <Suspense
       fallback={
@@ -159,7 +203,7 @@ export function LoginClient({ supabaseReady }: { supabaseReady: boolean }) {
         </div>
       }
     >
-      <LoginForm supabaseReady={supabaseReady} />
+      <LoginWithConfig />
     </Suspense>
   );
 }

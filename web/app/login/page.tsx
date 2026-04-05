@@ -1,7 +1,7 @@
-import { getSupabaseCredentials } from "@/lib/supabase/credentials";
 import { LoginClient } from "./LoginClient";
 
+export const dynamic = "force-dynamic";
+
 export default function LoginPage() {
-  const creds = getSupabaseCredentials();
-  return <LoginClient supabaseReady={!!creds} />;
+  return <LoginClient />;
 }
