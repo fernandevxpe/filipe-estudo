@@ -1,13 +1,22 @@
 "use client";
 
+import dynamic from "next/dynamic";
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
-import {
-  DashboardCharts,
-  type DailySeriesRow,
-  type VolumeDayRow,
-  type VolumeStackCategory,
-} from "@/components/DashboardCharts";
+import type { DailySeriesRow, VolumeDayRow, VolumeStackCategory } from "@/components/DashboardCharts";
+
+const DashboardCharts = dynamic(
+  () => import("@/components/DashboardCharts").then((m) => m.DashboardCharts),
+  {
+    ssr: false,
+    loading: () => (
+      <section className="rounded-xl border border-slate-800 bg-slate-900/80 p-5 sm:p-6">
+        <h2 className="text-lg font-semibold text-white mb-2">Gráficos</h2>
+        <p className="text-slate-500 text-sm">A carregar indicadores…</p>
+      </section>
+    ),
+  }
+);
 
 type DayTier = "green" | "yellow" | "red";
 type DayRow = {
@@ -64,17 +73,18 @@ export default function DashboardPage() {
 
   useEffect(() => {
     fetch("/api/stats")
-      .then((r) => r.json())
-      .then((d) => {
-        setDays(d.days || []);
-        setSessions(d.sessions || []);
-        setFlags(d.auditFlags || []);
-        setStudy(d.studyProgress ?? null);
-        setDailySeries(d.dailySeries || []);
-        setVolumeByDay(d.volumeByDay || []);
-        setVolumeStackByDay(d.volumeStackByDay || []);
-        setVolumeStackCorrect(d.volumeStackCorrect || []);
-        setVolumeStackCategories(d.volumeStackCategories || []);
+      .then(async (r) => {
+        const d = (await r.json().catch(() => null)) as Record<string, unknown> | null;
+        if (!d || typeof d !== "object") return;
+        setDays((d.days as DayRow[]) || []);
+        setSessions((d.sessions as SessionRow[]) || []);
+        setFlags((d.auditFlags as FlagRow[]) || []);
+        setStudy((d.studyProgress as StudyProgress) ?? null);
+        setDailySeries((d.dailySeries as DailySeriesRow[]) || []);
+        setVolumeByDay((d.volumeByDay as VolumeDayRow[]) || []);
+        setVolumeStackByDay((d.volumeStackByDay as Record<string, string | number>[]) || []);
+        setVolumeStackCorrect((d.volumeStackCorrect as Record<string, string | number>[]) || []);
+        setVolumeStackCategories((d.volumeStackCategories as VolumeStackCategory[]) || []);
       })
       .catch(() => {});
   }, []);
@@ -425,7 +435,7 @@ export default function DashboardPage() {
               <li key={s.id} className="flex justify-between gap-2 border-b border-slate-800/80 pb-2">
                 <span className="truncate text-slate-500">{s.pool_id}</span>
                 <span className="text-sky-400 whitespace-nowrap">
-                  {(s.score * 100).toFixed(0)}% ({s.correct}/{s.total})
+                  {(Number(s.score ?? 0) * 100).toFixed(0)}% ({s.correct}/{s.total})
                 </span>
               </li>
             ))}

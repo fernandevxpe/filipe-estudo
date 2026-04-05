@@ -10,6 +10,7 @@ function pct(c: number, a: number) {
 }
 
 export async function GET() {
+  try {
   const db = getDb();
   const sessions = db
     .prepare(
@@ -276,4 +277,28 @@ export async function GET() {
     volumeStackCorrect,
     volumeStackCategories,
   });
+  } catch (e) {
+    const msg = e instanceof Error ? e.message : String(e);
+    console.error("[api/stats]", e);
+    return NextResponse.json(
+      {
+        error: msg,
+        sessions: [],
+        days: [],
+        auditFlags: [],
+        studyProgress: {
+          totals: { answered: 0, correct: 0, wrong: 0, pct: 0 },
+          byArea: [],
+          needsWork: [],
+          goingWell: [],
+        },
+        dailySeries: [],
+        volumeByDay: [],
+        volumeStackByDay: [],
+        volumeStackCorrect: [],
+        volumeStackCategories: [],
+      },
+      { status: 500 }
+    );
+  }
 }
