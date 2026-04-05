@@ -1,0 +1,29 @@
+# Verifica o site em produção após cada push em main (se o secret existir).
+# GitHub → Settings → Secrets → Actions → New: PRODUCTION_SITE_URL = https://teu-dominio.vercel.app
+name: Verify site (smoke)
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Smoke test (PRODUCTION_SITE_URL)
+        env:
+          SITE_URL: ${{ secrets.PRODUCTION_SITE_URL }}
+        run: |
+          if [ -z "$SITE_URL" ]; then
+            echo "::notice title=Verify site::Secret PRODUCTION_SITE_URL não está definido — adiciona em Repo → Settings → Secrets and variables → Actions para ativar esta verificação."
+            exit 0
+          fi
+          node scripts/verify-remote.mjs
